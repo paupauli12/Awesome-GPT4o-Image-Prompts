@@ -44,7 +44,84 @@ And many other amazing creators from the community who have shared their prompts
 
 ## Available Prompts
 
+### Table of Contents
+1. [claymation](#claymation) - by [Amira Zairi](https://x.com/hc_dsn/status/1911718985433027036)
+2. [Arcade diorama](#arcade-diorama) - by [Howard Chen](https://x.com/hc_dsn/status/1911718985433027036)
+3. [黛玉葬花](#) - by [宝玉](https://x.com/dotey/status/1911563718804295962)
+4. [工作间手办](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911639551640314147)
+5. [LinkedIn Photo](#linkedin-photo) - by [Howard Chen](https://x.com/hc_dsn/status/1911402784106201427)
+6. [把图片变成正在雕刻的雕塑](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911433310666203311)
+7. [沙滩雕塑](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911687123696304436)
+8. [速效快乐胶囊](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896)
+9. [“去 AI 感”密码](#-ai-) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911678504221245816)
+10. [微型立体场景](#) - by [宝玉](https://x.com/dotey/status/1911609122547449886)
+11. [照片涂鸦玩法](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+12. [照片涂鸦玩法](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+13. [游戏角色](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+14. [时尚杂志的封面](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+15. [萌化电影剧照](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+16. [邮票](#) - by [samdape](https://x.com/samdape/status/1908438312475373741)
+17. [明信片](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+18. [手绘风格的信息图卡片](#) - by [宝玉](https://x.com/dotey/status/1907903480678985784)
+19. [微观世界](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+20. [微观世界](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+21. [主题键帽](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+22. [主题键帽](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+23. [3D 图标](#3d-) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+24. [3D 图标](#3d-) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+25. [手帐玩法](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+26. [手帐玩法](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+27. [手写笔记风格图片](#) - by [pongpong1](https://linux.do/t/topic/530679)
+28. [旅游手账插画](#) - by [宝玉](https://x.com/dotey/status/1907819985533071462)
+29. [Q版中式婚礼](#q) - by [balconychy(贝壳里奇)](https://x.com/balconychy/status/1909418699150237917)
+
 Below is a list of all available prompts with their details:
+
+### claymation
+
+A claymation-style grumpy wizard, sculpted with rough fingerprints, hand-painted imperfections, and 
+
+- **Model:** gpt4o
+- **Prompt Text:** `A claymation-style grumpy wizard, sculpted with rough fingerprints, hand-painted imperfections, and smudges. Set in a diorama of earthy textures and pastel backdrops, giving it a tangible, handmade feel.`
+- **Example Image:** 
+<img src="https://pbs.twimg.com/media/GoaDihyaQAANGDK?format=jpg&name=small" alt="claymation" height="400">
+
+- **Author:** [Amira Zairi](https://x.com/hc_dsn/status/1911718985433027036)
+---
+
+### Arcade diorama
+
+Generate a portrait photo with this prompt
+Creative composition, A minimalist 3D arcade game diorama
+
+- **Model:** gpt4o
+- **Prompt Text:** `Generate a portrait photo with this prompt
+Creative composition, A minimalist 3D arcade game diorama, the huge arcade machine decorate with fake 90s fighting game style. Inside the screen, there is a room of 90s game theme, decorate with posters and console, crt tv. A kid figure sitting in the room playing, dressed with black band tshirt, blue jeans, converse sneakers, red cap. Small surroundings in the air by 90s kids favorite toy items. The bottom black matted stand is labeled “90s Kid” in bold san serif bronze text, the background is a gradient color: from dark to light. With white, blue and red color theme`
+- **Example Image:** 
+<img src="https://pbs.twimg.com/media/GofJhBsWwAAxAid?format=jpg&name=large" alt="Arcade diorama" height="400">
+
+- **Author:** [Howard Chen](https://x.com/hc_dsn/status/1911718985433027036)
+---
+
+### 黛玉葬花
+
+以微型立体场景呈现，运用移轴摄影的技法，呈现出梦幻而灵动的意境。画中乃《红楼梦》之林黛玉葬花一幕，场景细致而迷人，如童话般玲珑雅致。
+
+细观画面，3D Q版黛玉亭亭玉立于微缩园林之间，一身素淡纱裙，手
+
+- **Model:** gpt4o
+- **Prompt Text:** `以微型立体场景呈现，运用移轴摄影的技法，呈现出梦幻而灵动的意境。画中乃《红楼梦》之林黛玉葬花一幕，场景细致而迷人，如童话般玲珑雅致。
+
+细观画面，3D Q版黛玉亭亭玉立于微缩园林之间，一身素淡纱裙，手执小巧花锄，低眉含愁，眸中隐约泪光，姿态楚楚动人，面容带着忧郁与清冷之色。她身旁，盛花的小竹篮散落在地，粉红花瓣点缀于草丛，如碎玉纷飞；溪流如玻璃树脂般晶莹通透，涓涓细流折射着微光，环绕着整个场景，映衬出几分凄清与诗意。
+
+园林里散落着细腻别致的假山石头，黛玉脚下的土地精雕细琢，犹如微缩盆景般细致逼真。树木、花丛皆精巧细致，枝叶轻盈透明，纤毫毕现。远处假山上隐约可见一座迷你版潇湘馆，精巧华丽的窗棂中透出微弱灯光。移轴镜头柔化了远近之间的距离，令黛玉的身影格外凸显，宛如置身童话世界之中央。
+
+场景整体光影细腻温柔，透着朦胧的电影光效，如诗如画，既带着古典小说的雅致与哀婉，又有几分清新与纯真，令人一眼便沉醉其中。`
+- **Example Image:** 
+<img src="https://pbs.twimg.com/media/Goc9BwFW4AAK2AB?format=jpg&name=medium" alt="黛玉葬花" height="400">
+
+- **Author:** [宝玉](https://x.com/dotey/status/1911563718804295962)
+---
 
 ### 工作间手办
 
@@ -67,6 +144,7 @@ Below is a list of all available prompts with their details:
 - **Example Image:** 
 <img src="https://pbs.twimg.com/media/Gob39tMXMAAgM8m?format=jpg&name=900x900" alt="工作间手办" height="400">
 
+- **Author:** [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911639551640314147)
 ---
 
 ### LinkedIn Photo
@@ -78,6 +156,7 @@ Generate a portrait ratio photo with this prompt A hyper-realistic diorama of a 
 - **Example Image:** 
 <img src="https://pbs.twimg.com/media/GoaqYF5W8AAleJ7?format=jpg&name=small" alt="LinkedIn Photo" height="400">
 
+- **Author:** [Howard Chen](https://x.com/hc_dsn/status/1911402784106201427)
 ---
 
 ### 把图片变成正在雕刻的雕塑
@@ -97,6 +176,7 @@ Generate a portrait ratio photo with this prompt A hyper-realistic diorama of a 
 - **Example Image:** 
 <img src="https://pbs.twimg.com/media/GobEDw7WMAAyo0T?format=jpg&name=small" alt="把图片变成正在雕刻的雕塑" height="400">
 
+- **Author:** [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911433310666203311)
 ---
 
 ### 沙滩雕塑
@@ -116,6 +196,7 @@ Generate a portrait ratio photo with this prompt A hyper-realistic diorama of a 
 - **Example Image:** 
 <img src="https://pbs.twimg.com/media/GoetSryXAAAIcqM?format=jpg&name=small" alt="沙滩雕塑" height="400">
 
+- **Author:** [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911687123696304436)
 ---
 
 ### 速效快乐胶囊
@@ -135,6 +216,7 @@ Generate a portrait ratio photo with this prompt A hyper-realistic diorama of a 
 - **Example Image:** 
 <img src="https://pbs.twimg.com/media/GofOqLoXgAA-HEJ?format=jpg&name=900x900" alt="速效快乐胶囊" height="400">
 
+- **Author:** [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896)
 ---
 
 ### “去 AI 感”密码
@@ -146,6 +228,7 @@ Generate a portrait ratio photo with this prompt A hyper-realistic diorama of a 
 - **Example Image:** 
 <img src="https://pbs.twimg.com/media/GoelcdFXcAAvwOl?format=jpg&name=large" alt="“去 AI 感”密码" height="400">
 
+- **Author:** [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911678504221245816)
 ---
 
 ### 微型立体场景
@@ -157,39 +240,7 @@ Generate a portrait ratio photo with this prompt A hyper-realistic diorama of a 
 - **Example Image:** 
 <img src="https://cdn.imgedify.com/media/image/2025/04/597ce0762283fcb808f01b61475c1996.jpeg" alt="微型立体场景" height="400">
 
----
-
-### 3D 图标
-
-为第一张图片加上类似第二张的材质和光效，让他更像 C4D 渲染的结果
-
-- **Model:** Style
-- **Prompt Text:** `为第一张图片加上类似第二张的材质和光效，让他更像 C4D 渲染的结果`
-- **Example Image:** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299871970-ssdcade0g3d.webp" alt="3D 图标" height="400">
-
----
-
-### 手帐玩法
-
-生成一张图片，宽高比为 2:3，图片内的文字请使用英文。这张图片要模拟一位读者为小说《The Shadow over Innsmouth》制作的个人笔记页面。风格： 拼贴画/剪贴簿美学，手绘元素与粘贴
-
-- **Model:** gpt4o
-- **Prompt Text:** `生成一张图片，宽高比为 2:3，图片内的文字请使用英文。这张图片要模拟一位读者为小说《The Shadow over Innsmouth》制作的个人笔记页面。风格： 拼贴画/剪贴簿美学，手绘元素与粘贴物品混合，背景为有纹理的纸张（例如像 Moleskine 笔记本或牛皮纸）。请包含以下元素：手写引语： 几段来自小说的经典或有冲击力的英文句子，用清晰但带有个人风格的手写字体书写。人物涂鸦： 2-3位主要人物的简单涂鸦式头像速写，不必非常写实，更像是快速的印象捕捉。人物关系图： 在人物涂鸦之间绘制箭头，并附有简短的手写英文文字标签，说明他们之间的关系（例如："Siblings", "Lovers", "Mentor & Student", "Rivals"）。粘贴的书页一角： 一小块看起来很逼真的、模拟从实际小说书页上撕下或剪下的角落（上面能看到一些印刷的英文文字），看起来像是用胶带或胶水贴在笔记页面上的。（可选）批注： 可能在引语或人物旁边有一些小的手写笔记或问号。布局： 各元素应有机地排列，或许可以略微重叠，营造出一种经常使用的个人日记页面的感觉。整体感觉： 引人思考的，分析性的，个人化的，视觉上吸引人的。`
-- **Example Image:** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299872756-sur1gjezu8.webp" alt="手帐玩法" height="400">
-
----
-
-### 明信片
-
-帮我把这张照片做成一张 3:2 的明信片，左边是一幅 扁平多色插画风格（参考某某图）的画面，插画内容参考这张照片，比如：建筑/风景/人物等细节，插画的边缘请做成 不规则异形边框，右边用手写风格英文写一
-
-- **Model:** Style
-- **Prompt Text:** `帮我把这张照片做成一张 3:2 的明信片，左边是一幅 扁平多色插画风格（参考某某图）的画面，插画内容参考这张照片，比如：建筑/风景/人物等细节，插画的边缘请做成 不规则异形边框，右边用手写风格英文写一句和「XX」相关的名言，并贴上一枚用原图生成的单色风格邮票，邮票右上角，邮编写 XXXX，盖上邮戳。`
-- **Example Image:** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299876287-19x8hhrvwt5.webp" alt="明信片" height="400">
-
+- **Author:** [宝玉](https://x.com/dotey/status/1911609122547449886)
 ---
 
 ### 照片涂鸦玩法
@@ -201,6 +252,7 @@ Generate a portrait ratio photo with this prompt A hyper-realistic diorama of a 
 - **Example Image:** 
 <img src="https://cdn.imgedify.com/imgedify/images/1744299878007-3i4361kt83t.webp" alt="照片涂鸦玩法" height="400">
 
+- **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
 
 ### 照片涂鸦玩法
@@ -212,6 +264,7 @@ Generate a portrait ratio photo with this prompt A hyper-realistic diorama of a 
 - **Example Image:** 
 <img src="https://cdn.imgedify.com/imgedify/images/1744299879567-0tou7pwdqrk8.webp" alt="照片涂鸦玩法" height="400">
 
+- **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
 
 ### 游戏角色
@@ -223,6 +276,7 @@ Generate a portrait ratio photo with this prompt A hyper-realistic diorama of a 
 - **Example Image:** 
 <img src="https://cdn.imgedify.com/imgedify/images/1744299880646-mtu5gatbetm.webp" alt="游戏角色" height="400">
 
+- **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
 
 ### 时尚杂志的封面
@@ -234,6 +288,7 @@ Generate a portrait ratio photo with this prompt A hyper-realistic diorama of a 
 - **Example Image:** 
 <img src="https://cdn.imgedify.com/imgedify/images/1744299882639-bqp6v37enla.webp" alt="时尚杂志的封面" height="400">
 
+- **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
 
 ### 萌化电影剧照
@@ -245,6 +300,7 @@ Generate a portrait ratio photo with this prompt A hyper-realistic diorama of a 
 - **Example Image:** 
 <img src="https://cdn.imgedify.com/imgedify/images/1744299884467-u34aush0cx8.webp" alt="萌化电影剧照" height="400">
 
+- **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
 
 ### 邮票
@@ -256,17 +312,19 @@ Turn my 4 images into 4 classic, single-color postage stamps using detailed line
 - **Example Image:** 
 <img src="https://cdn.imgedify.com/imgedify/images/1744299886085-apxha71rus9.jpeg" alt="邮票" height="400">
 
+- **Author:** [samdape](https://x.com/samdape/status/1908438312475373741)
 ---
 
-### 手帐玩法
+### 明信片
 
-请生成一张图片，模拟在一张略带纹理的纸张（比如米黄色或浅棕色）上手写的关于景区 [请在此处替换为景区名称] 的讲解笔记。图片应呈现旅行日志/拼贴画风格，包含以下元素：用手写字体（比如蓝色或棕色墨水）书
+帮我把这张照片做成一张 3:2 的明信片，左边是一幅 扁平多色插画风格（参考某某图）的画面，插画内容参考这张照片，比如：建筑/风景/人物等细节，插画的边缘请做成 不规则异形边框，右边用手写风格英文写一
 
-- **Model:** gpt4o
-- **Prompt Text:** `请生成一张图片，模拟在一张略带纹理的纸张（比如米黄色或浅棕色）上手写的关于景区 [请在此处替换为景区名称] 的讲解笔记。图片应呈现旅行日志/拼贴画风格，包含以下元素：用手写字体（比如蓝色或棕色墨水）书写景区名称、地理位置、最佳游览季节、以及一两句吸引人的标语或简介。包含几个主要看点或特色的介绍，使用编号列表或项目符号（例如：[列举2-3个具体看点，如"奇特的岩石形态"，"古老的传说"，"独特的植物"等]），并配有简短的手写说明。用红色笔迹或其他亮色圈出或用箭头指向特别推荐的地点或活动（例如 [列举1-2个推荐项]）。穿插一些与景区特色相关的简单涂鸦式小图画（例如：[根据景区特色想1-2个代表性图画，如山峰轮廓、特色动植物、标志性建筑等]）。点缀几张关于该景区的、看起来像是贴上去的小幅照片（可以是风景照、细节照，风格可以略显复古或像宝丽来照片）。 整体感觉要像一份由热情导游或资深游客精心制作的、生动有趣的个人导览手记。`
+- **Model:** Style
+- **Prompt Text:** `帮我把这张照片做成一张 3:2 的明信片，左边是一幅 扁平多色插画风格（参考某某图）的画面，插画内容参考这张照片，比如：建筑/风景/人物等细节，插画的边缘请做成 不规则异形边框，右边用手写风格英文写一句和「XX」相关的名言，并贴上一枚用原图生成的单色风格邮票，邮票右上角，邮编写 XXXX，盖上邮戳。`
 - **Example Image:** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299874809-24ng1z3kupxj.webp" alt="手帐玩法" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744299876287-19x8hhrvwt5.webp" alt="明信片" height="400">
 
+- **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
 
 ### 手绘风格的信息图卡片
@@ -278,6 +336,7 @@ Turn my 4 images into 4 classic, single-color postage stamps using detailed line
 - **Example Image:** 
 <img src="https://cdn.imgedify.com/imgedify/images/1744299862758-4a9ohfbycl7.jpeg" alt="手绘风格的信息图卡片" height="400">
 
+- **Author:** [宝玉](https://x.com/dotey/status/1907903480678985784)
 ---
 
 ### 微观世界
@@ -289,6 +348,7 @@ Turn my 4 images into 4 classic, single-color postage stamps using detailed line
 - **Example Image:** 
 <img src="https://cdn.imgedify.com/imgedify/images/1744299864452-bw4c5ehve9t.webp" alt="微观世界" height="400">
 
+- **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
 
 ### 微观世界
@@ -300,6 +360,7 @@ Turn my 4 images into 4 classic, single-color postage stamps using detailed line
 - **Example Image:** 
 <img src="https://cdn.imgedify.com/imgedify/images/1744299866291-yw7mzaz8xkn.webp" alt="微观世界" height="400">
 
+- **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
 
 ### 主题键帽
@@ -311,6 +372,7 @@ Turn my 4 images into 4 classic, single-color postage stamps using detailed line
 - **Example Image:** 
 <img src="https://cdn.imgedify.com/imgedify/images/1744299868248-ut2u2cqlh6.webp" alt="主题键帽" height="400">
 
+- **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
 
 ### 主题键帽
@@ -322,6 +384,7 @@ Turn my 4 images into 4 classic, single-color postage stamps using detailed line
 - **Example Image:** 
 <img src="https://cdn.imgedify.com/imgedify/images/1744299869820-cf7he53oo3m.webp" alt="主题键帽" height="400">
 
+- **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
 
 ### 3D 图标
@@ -333,6 +396,43 @@ Turn my 4 images into 4 classic, single-color postage stamps using detailed line
 - **Example Image:** 
 <img src="https://cdn.imgedify.com/imgedify/images/1744299870629-fjak4buh9fw.webp" alt="3D 图标" height="400">
 
+- **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+---
+
+### 3D 图标
+
+为第一张图片加上类似第二张的材质和光效，让他更像 C4D 渲染的结果
+
+- **Model:** Style
+- **Prompt Text:** `为第一张图片加上类似第二张的材质和光效，让他更像 C4D 渲染的结果`
+- **Example Image:** 
+<img src="https://cdn.imgedify.com/imgedify/images/1744299871970-ssdcade0g3d.webp" alt="3D 图标" height="400">
+
+- **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+---
+
+### 手帐玩法
+
+生成一张图片，宽高比为 2:3，图片内的文字请使用英文。这张图片要模拟一位读者为小说《The Shadow over Innsmouth》制作的个人笔记页面。风格： 拼贴画/剪贴簿美学，手绘元素与粘贴
+
+- **Model:** gpt4o
+- **Prompt Text:** `生成一张图片，宽高比为 2:3，图片内的文字请使用英文。这张图片要模拟一位读者为小说《The Shadow over Innsmouth》制作的个人笔记页面。风格： 拼贴画/剪贴簿美学，手绘元素与粘贴物品混合，背景为有纹理的纸张（例如像 Moleskine 笔记本或牛皮纸）。请包含以下元素：手写引语： 几段来自小说的经典或有冲击力的英文句子，用清晰但带有个人风格的手写字体书写。人物涂鸦： 2-3位主要人物的简单涂鸦式头像速写，不必非常写实，更像是快速的印象捕捉。人物关系图： 在人物涂鸦之间绘制箭头，并附有简短的手写英文文字标签，说明他们之间的关系（例如："Siblings", "Lovers", "Mentor & Student", "Rivals"）。粘贴的书页一角： 一小块看起来很逼真的、模拟从实际小说书页上撕下或剪下的角落（上面能看到一些印刷的英文文字），看起来像是用胶带或胶水贴在笔记页面上的。（可选）批注： 可能在引语或人物旁边有一些小的手写笔记或问号。布局： 各元素应有机地排列，或许可以略微重叠，营造出一种经常使用的个人日记页面的感觉。整体感觉： 引人思考的，分析性的，个人化的，视觉上吸引人的。`
+- **Example Image:** 
+<img src="https://cdn.imgedify.com/imgedify/images/1744299872756-sur1gjezu8.webp" alt="手帐玩法" height="400">
+
+- **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+---
+
+### 手帐玩法
+
+请生成一张图片，模拟在一张略带纹理的纸张（比如米黄色或浅棕色）上手写的关于景区 [请在此处替换为景区名称] 的讲解笔记。图片应呈现旅行日志/拼贴画风格，包含以下元素：用手写字体（比如蓝色或棕色墨水）书
+
+- **Model:** gpt4o
+- **Prompt Text:** `请生成一张图片，模拟在一张略带纹理的纸张（比如米黄色或浅棕色）上手写的关于景区 [请在此处替换为景区名称] 的讲解笔记。图片应呈现旅行日志/拼贴画风格，包含以下元素：用手写字体（比如蓝色或棕色墨水）书写景区名称、地理位置、最佳游览季节、以及一两句吸引人的标语或简介。包含几个主要看点或特色的介绍，使用编号列表或项目符号（例如：[列举2-3个具体看点，如"奇特的岩石形态"，"古老的传说"，"独特的植物"等]），并配有简短的手写说明。用红色笔迹或其他亮色圈出或用箭头指向特别推荐的地点或活动（例如 [列举1-2个推荐项]）。穿插一些与景区特色相关的简单涂鸦式小图画（例如：[根据景区特色想1-2个代表性图画，如山峰轮廓、特色动植物、标志性建筑等]）。点缀几张关于该景区的、看起来像是贴上去的小幅照片（可以是风景照、细节照，风格可以略显复古或像宝丽来照片）。 整体感觉要像一份由热情导游或资深游客精心制作的、生动有趣的个人导览手记。`
+- **Example Image:** 
+<img src="https://cdn.imgedify.com/imgedify/images/1744299874809-24ng1z3kupxj.webp" alt="手帐玩法" height="400">
+
+- **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
 
 ### 手写笔记风格图片
@@ -370,6 +470,7 @@ Once parameters are set, generate notes in the chosen language adhering strictly
 - **Example Image:** 
 <img src="https://cdn.imgedify.com/imgedify/images/1744299860910-k6nfkisa98f.jpeg" alt="手写笔记风格图片" height="400">
 
+- **Author:** [pongpong1](https://linux.do/t/topic/530679)
 ---
 
 ### 旅游手账插画
@@ -404,6 +505,7 @@ Once parameters are set, generate notes in the chosen language adhering strictly
 - **Example Image:** 
 <img src="https://cdn.imgedify.com/imgedify/images/1744299858496-hmtncyom1ul.jpeg" alt="旅游手账插画" height="400">
 
+- **Author:** [宝玉](https://x.com/dotey/status/1907819985533071462)
 ---
 
 ### Q版中式婚礼
@@ -415,4 +517,5 @@ Once parameters are set, generate notes in the chosen language adhering strictly
 - **Example Image:** 
 <img src="https://cdn.imgedify.com/media/image/2025/04/3148994734fe3bef73fde7d0ebf0f7a8.jpeg" alt="Q版中式婚礼" height="400">
 
+- **Author:** [balconychy(贝壳里奇)](https://x.com/balconychy/status/1909418699150237917)
 ---
