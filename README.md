@@ -1,6 +1,46 @@
-# Image Prompts Gallery
+# GPT4o Image Prompts Gallery
 
-A curated collection of image prompts for AI image generation.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+A curated collection of GPT-4o image generation prompts. This repository aims to help creators better understand and utilize GPT-4o's image generation capabilities.
+
+[English](./README.md) | [中文](./README.zh-CN.md)
+
+## 🌟 Features
+
+- 📝 Detailed descriptions for each prompt
+- 🖼️ Example images for all prompts
+- 🔄 Regular content updates
+
+## 📚 Content
+
+All prompts can be viewed in [Prompts.html](./Prompts.html). Each prompt includes:
+
+- Title and description
+- Generated example image
+- Complete prompt text
+- Author information
+
+## 🤝 Contributing
+
+If you have suggestions or find any issues, please:
+
+1. Create an issue to discuss your ideas
+2. Or contact the maintainers directly
+
+## 📝 License
+
+This prompt collection is available under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+Special thanks to all the creators who have contributed prompts to this collection. Notable contributors include:
+
+- [@dotey](https://x.com/dotey)
+- [@op7418](https://x.com/op7418)
+- [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)
+
+And many other amazing creators from the community who have shared their prompts and insights.
 
 ## Available Prompts
 
@@ -376,11 +416,3 @@ Once parameters are set, generate notes in the chosen language adhering strictly
 <img src="https://cdn.imgedify.com/media/image/2025/04/3148994734fe3bef73fde7d0ebf0f7a8.jpeg" alt="Q版中式婚礼" height="400">
 
 ---
-
-## Contributing
-
-Feel free to contribute by adding new prompts or improving existing ones.
-
-## License
-
-This collection is available under the MIT License.
