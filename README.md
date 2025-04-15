@@ -45,23 +45,23 @@ And many other amazing creators from the community who have shared their prompts
 ## Available Prompts
 
 ### Table of Contents
-1. [3d avatar asset](#3d-avatar-asset) - by [AI Imagined](https://x.com/AIimagined/status/1906479539351589329)
-2. [action figure pack](#action-figure-pack) - by [Min Choi](https://x.com/minchoi/status/1910737237458776434)
-3. [3D character](#3d-character) - by [Amira Zairi](https://x.com/azed_ai/status/1911782508095840622)
-4. [claymation](#claymation) - by [Amira Zairi](https://x.com/hc_dsn/status/1911718985433027036)
-5. [Arcade diorama](#arcade-diorama) - by [Howard Chen](https://x.com/hc_dsn/status/1911718985433027036)
-6. [黛玉葬花](#) - by [宝玉](https://x.com/dotey/status/1911563718804295962)
-7. [工作间手办](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911639551640314147)
-8. [LinkedIn Photo](#linkedin-photo) - by [Howard Chen](https://x.com/hc_dsn/status/1911402784106201427)
-9. [把图片变成正在雕刻的雕塑](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911433310666203311)
-10. [沙滩雕塑](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911687123696304436)
-11. [速效快乐胶囊](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896)
-12. [“去 AI 感”密码](#-ai-) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911678504221245816)
-13. [微型立体场景](#) - by [宝玉](https://x.com/dotey/status/1911609122547449886)
-14. [时尚杂志的封面](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-15. [萌化电影剧照](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+1. [影视剧的角色手办](#) - by [AI进化论-花生](https://x.com/AlchainHust/status/1906997559937364052/photo/2)
+2. [3D-style icons](#3d-style-icons) - by [Amira Zairi](https://x.com/azed_ai/status/1906285785961406891)
+3. [3d avatar asset](#3d-avatar-asset) - by [AI Imagined](https://x.com/AIimagined/status/1906479539351589329)
+4. [action figure pack](#action-figure-pack) - by [Min Choi](https://x.com/minchoi/status/1910737237458776434)
+5. [3D character](#3d-character) - by [Amira Zairi](https://x.com/azed_ai/status/1911782508095840622)
+6. [claymation](#claymation) - by [Amira Zairi](https://x.com/hc_dsn/status/1911718985433027036)
+7. [Arcade diorama](#arcade-diorama) - by [Howard Chen](https://x.com/hc_dsn/status/1911718985433027036)
+8. [黛玉葬花](#) - by [宝玉](https://x.com/dotey/status/1911563718804295962)
+9. [工作间手办](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911639551640314147)
+10. [LinkedIn Photo](#linkedin-photo) - by [Howard Chen](https://x.com/hc_dsn/status/1911402784106201427)
+11. [把图片变成正在雕刻的雕塑](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911433310666203311)
+12. [沙滩雕塑](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911687123696304436)
+13. [速效快乐胶囊](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896)
+14. [“去 AI 感”密码](#-ai-) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911678504221245816)
+15. [微型立体场景](#) - by [宝玉](https://x.com/dotey/status/1911609122547449886)
 16. [邮票](#) - by [samdape](https://x.com/samdape/status/1908438312475373741)
-17. [照片涂鸦玩法](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+17. [游戏角色](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 18. [手绘风格的信息图卡片](#) - by [宝玉](https://x.com/dotey/status/1907903480678985784)
 19. [微观世界](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 20. [微观世界](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
@@ -73,12 +73,49 @@ And many other amazing creators from the community who have shared their prompts
 26. [手帐玩法](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 27. [明信片](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 28. [照片涂鸦玩法](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-29. [游戏角色](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-30. [手写笔记风格图片](#) - by [pongpong1](https://linux.do/t/topic/530679)
-31. [旅游手账插画](#) - by [宝玉](https://x.com/dotey/status/1907819985533071462)
-32. [Q版中式婚礼](#q) - by [balconychy(贝壳里奇)](https://x.com/balconychy/status/1909418699150237917)
+29. [照片涂鸦玩法](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+30. [时尚杂志的封面](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+31. [萌化电影剧照](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+32. [手写笔记风格图片](#) - by [pongpong1](https://linux.do/t/topic/530679)
+33. [旅游手账插画](#) - by [宝玉](https://x.com/dotey/status/1907819985533071462)
+34. [Q版中式婚礼](#q) - by [balconychy(贝壳里奇)](https://x.com/balconychy/status/1909418699150237917)
 
 Below is a list of all available prompts with their details:
+
+### 影视剧的角色手办
+
+Create a realistic and humorous action figure of Mr. Bean, the iconic British comedy character playe
+
+- **Model:** gpt4o
+- **Prompt Text:** `Create a realistic and humorous action figure of Mr. Bean, the iconic British comedy character played by Rowan Atkinson. 
+
+The figure should be designed as a collectible action toy, capturing his quirky personality and classic look.  
+Key Elements:  
+
+Character Design:  Accurately depict Mr. Bean’s exaggerated facial expression, distinctive features, and comedic body posture.  
+
+Outfit: Signature brown tweed jacket, white shirt, thin red tie, dark trousers, and black shoes.  Include a slightly awkward or goofy pose that reflects his clumsy yet lovable charm.  Accessories:  Include miniature props that are instantly recognizable from the show, such as:  Teddy (his beloved stuffed bear)  A suitcase  His iconic lime green Mini car (as a miniature or on the box design)  A turkey (as a reference to the famous holiday episode)  A TV remote or random quirky objects that fit his antics  
+
+Packaging Design:  Place the action figure inside a detailed, collectible toy box.  At the top of the box, display the title Mr. Bean in playful, bold lettering.  Beneath that, include the character name "Mr. Bean", possibly with a humorous tagline like “The Ultimate Oddball Collectible.”  The background design can feature a silly scene from the show (like his apartment or the car park).  
+
+Visual Style:  Render the entire figure, accessories, and packaging in a highly realistic, slightly cartoonish style to capture the essence of the character while keeping a lifelike toy aesthetic.`
+- **Example Image:** 
+<img src="https://pbs.twimg.com/media/GncEGzsbQAAFqSk?format=jpg&name=large" alt="影视剧的角色手办" height="400">
+
+- **Author:** [AI进化论-花生](https://x.com/AlchainHust/status/1906997559937364052/photo/2)
+---
+
+### 3D-style icons
+
+minimalist 3D render, [Subject], soft matte finish, black and antique gold details, pristine white b
+
+- **Model:** gpt4o
+- **Prompt Text:** `minimalist 3D render, [Subject], soft matte finish, black and antique gold details, pristine white backdrop, isometric angle, ambient glow, feathered shadows, simple and elegant`
+- **Example Image:** 
+<img src="https://pbs.twimg.com/media/GnR80cnbYAAfV3i?format=jpg&name=small" alt="3D-style icons" height="400">
+
+- **Author:** [Amira Zairi](https://x.com/azed_ai/status/1906285785961406891)
+---
 
 ### 3d avatar asset
 
@@ -282,30 +319,6 @@ Generate a portrait ratio photo with this prompt A hyper-realistic diorama of a 
 - **Author:** [宝玉](https://x.com/dotey/status/1911609122547449886)
 ---
 
-### 时尚杂志的封面
-
-《VOGUE》杂志封面：来自 League of Legends 的 Ashe - The Frost Archer 化身为高级时装模特。写实肖像，突出她标志性的白色长发、锐利蓝眼和冰霜女王般的冷艳气
-
-- **Model:** gpt4o
-- **Prompt Text:** `《VOGUE》杂志封面：来自 League of Legends 的 Ashe - The Frost Archer 化身为高级时装模特。写实肖像，突出她标志性的白色长发、锐利蓝眼和冰霜女王般的冷艳气质。简约背景，专业摄影，身着融合了冰霜元素和高级定制风格的优雅紧身服饰。`
-- **Example Image:** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299882639-bqp6v37enla.webp" alt="时尚杂志的封面" height="400">
-
-- **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
----
-
-### 萌化电影剧照
-
-一个充满氛围感的电影中近景镜头，戏仿《The Godfather》中 Don Vito Corleone 在他昏暗办公室里的经典场景。一只体型稍大的泰迪熊，穿着深色西装，威严地坐在一张迷你办公桌后面，
-
-- **Model:** gpt4o
-- **Prompt Text:** `一个充满氛围感的电影中近景镜头，戏仿《The Godfather》中 Don Vito Corleone 在他昏暗办公室里的经典场景。一只体型稍大的泰迪熊，穿着深色西装，威严地坐在一张迷你办公桌后面，爪子里可能抱着一只更小的毛绒玩具（模仿猫）。房间光线昏暗，运用强烈的明暗对比（chiaroscuro），营造出一种既有权力感、沉思感，又不失泰迪熊固有可爱的奇特融合。`
-- **Example Image:** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299884467-u34aush0cx8.webp" alt="萌化电影剧照" height="400">
-
-- **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
----
-
 ### 邮票
 
 Turn my 4 images into 4 classic, single-color postage stamps using detailed lines and shading. Give 
@@ -318,14 +331,14 @@ Turn my 4 images into 4 classic, single-color postage stamps using detailed line
 - **Author:** [samdape](https://x.com/samdape/status/1908438312475373741)
 ---
 
-### 照片涂鸦玩法
+### 游戏角色
 
-用蓝色画笔画一些可爱的涂鸦与画面主体产生互动，可以是人物也可以是动物或者其他东西，生成 2:3 图片，笔触的质感强一些
+双重曝光，融合，混合，叠加双重曝光图像，双重曝光风格，展现了智慧的兽人萨满萨尔（高尔）剪影的奇妙双重曝光构图，与他旅程中那些视觉冲击力强、标志性的艾泽拉斯景观和符号和谐地交织在一起。奥格瑞玛宏伟的红色
 
 - **Model:** gpt4o
-- **Prompt Text:** `用蓝色画笔画一些可爱的涂鸦与画面主体产生互动，可以是人物也可以是动物或者其他东西，生成 2:3 图片，笔触的质感强一些`
+- **Prompt Text:** `双重曝光，融合，混合，叠加双重曝光图像，双重曝光风格，展现了智慧的兽人萨满萨尔（高尔）剪影的奇妙双重曝光构图，与他旅程中那些视觉冲击力强、标志性的艾泽拉斯景观和符号和谐地交织在一起。奥格瑞玛宏伟的红色尖塔和崎岖的峡谷，旋转天空下纳格兰翠绿的浮岛和先祖之魂，以及噼啪作响的元素能量（闪电、大地、水之漩涡）通过他形象的肌理向外回响。或许毁灭之锤那标志性的形状，或是部落/霜狼氏族的标志被巧妙地融入其中。这增添了领导者遗产、萨满之力以及部落韧性的层次感。背景保持着鲜明的对比，营造出美丽的张力，将所有焦点吸引到层次丰富的双重曝光上。其特点在于萨尔剪影内部丰富而略带粗犷的全彩色方案（大地色调、部落红、元素蓝与橙），以及用智慧与原始力量勾勒出每一处轮廓的有力而刻意的线条。`
 - **Example Image:** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299879567-0tou7pwdqrk8.webp" alt="照片涂鸦玩法" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744299880646-mtu5gatbetm.webp" alt="游戏角色" height="400">
 
 - **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
@@ -462,14 +475,38 @@ Turn my 4 images into 4 classic, single-color postage stamps using detailed line
 - **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
 
-### 游戏角色
+### 照片涂鸦玩法
 
-双重曝光，融合，混合，叠加双重曝光图像，双重曝光风格，展现了智慧的兽人萨满萨尔（高尔）剪影的奇妙双重曝光构图，与他旅程中那些视觉冲击力强、标志性的艾泽拉斯景观和符号和谐地交织在一起。奥格瑞玛宏伟的红色
+用蓝色画笔画一些可爱的涂鸦与画面主体产生互动，可以是人物也可以是动物或者其他东西，生成 2:3 图片，笔触的质感强一些
 
 - **Model:** gpt4o
-- **Prompt Text:** `双重曝光，融合，混合，叠加双重曝光图像，双重曝光风格，展现了智慧的兽人萨满萨尔（高尔）剪影的奇妙双重曝光构图，与他旅程中那些视觉冲击力强、标志性的艾泽拉斯景观和符号和谐地交织在一起。奥格瑞玛宏伟的红色尖塔和崎岖的峡谷，旋转天空下纳格兰翠绿的浮岛和先祖之魂，以及噼啪作响的元素能量（闪电、大地、水之漩涡）通过他形象的肌理向外回响。或许毁灭之锤那标志性的形状，或是部落/霜狼氏族的标志被巧妙地融入其中。这增添了领导者遗产、萨满之力以及部落韧性的层次感。背景保持着鲜明的对比，营造出美丽的张力，将所有焦点吸引到层次丰富的双重曝光上。其特点在于萨尔剪影内部丰富而略带粗犷的全彩色方案（大地色调、部落红、元素蓝与橙），以及用智慧与原始力量勾勒出每一处轮廓的有力而刻意的线条。`
+- **Prompt Text:** `用蓝色画笔画一些可爱的涂鸦与画面主体产生互动，可以是人物也可以是动物或者其他东西，生成 2:3 图片，笔触的质感强一些`
 - **Example Image:** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299880646-mtu5gatbetm.webp" alt="游戏角色" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744299879567-0tou7pwdqrk8.webp" alt="照片涂鸦玩法" height="400">
+
+- **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+---
+
+### 时尚杂志的封面
+
+《VOGUE》杂志封面：来自 League of Legends 的 Ashe - The Frost Archer 化身为高级时装模特。写实肖像，突出她标志性的白色长发、锐利蓝眼和冰霜女王般的冷艳气
+
+- **Model:** gpt4o
+- **Prompt Text:** `《VOGUE》杂志封面：来自 League of Legends 的 Ashe - The Frost Archer 化身为高级时装模特。写实肖像，突出她标志性的白色长发、锐利蓝眼和冰霜女王般的冷艳气质。简约背景，专业摄影，身着融合了冰霜元素和高级定制风格的优雅紧身服饰。`
+- **Example Image:** 
+<img src="https://cdn.imgedify.com/imgedify/images/1744299882639-bqp6v37enla.webp" alt="时尚杂志的封面" height="400">
+
+- **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+---
+
+### 萌化电影剧照
+
+一个充满氛围感的电影中近景镜头，戏仿《The Godfather》中 Don Vito Corleone 在他昏暗办公室里的经典场景。一只体型稍大的泰迪熊，穿着深色西装，威严地坐在一张迷你办公桌后面，
+
+- **Model:** gpt4o
+- **Prompt Text:** `一个充满氛围感的电影中近景镜头，戏仿《The Godfather》中 Don Vito Corleone 在他昏暗办公室里的经典场景。一只体型稍大的泰迪熊，穿着深色西装，威严地坐在一张迷你办公桌后面，爪子里可能抱着一只更小的毛绒玩具（模仿猫）。房间光线昏暗，运用强烈的明暗对比（chiaroscuro），营造出一种既有权力感、沉思感，又不失泰迪熊固有可爱的奇特融合。`
+- **Example Image:** 
+<img src="https://cdn.imgedify.com/imgedify/images/1744299884467-u34aush0cx8.webp" alt="萌化电影剧照" height="400">
 
 - **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
