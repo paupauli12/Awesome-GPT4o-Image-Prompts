@@ -45,23 +45,23 @@
 ## 可用提示词
 
 ### 目录
-1. [claymation](#claymation) - 作者：[Amira Zairi](https://x.com/hc_dsn/status/1911718985433027036)
-2. [Arcade diorama](#arcade-diorama) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1911718985433027036)
-3. [黛玉葬花](#) - 作者：[宝玉](https://x.com/dotey/status/1911563718804295962)
-4. [工作间手办](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911639551640314147)
-5. [LinkedIn Photo](#linkedin-photo) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1911402784106201427)
-6. [把图片变成正在雕刻的雕塑](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911433310666203311)
-7. [沙滩雕塑](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911687123696304436)
-8. [速效快乐胶囊](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896)
-9. [“去 AI 感”密码](#-ai-) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911678504221245816)
-10. [微型立体场景](#) - 作者：[宝玉](https://x.com/dotey/status/1911609122547449886)
-11. [照片涂鸦玩法](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-12. [照片涂鸦玩法](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-13. [游戏角色](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+1. [3d avatar asset](#3d-avatar-asset) - 作者：[AI Imagined](https://x.com/AIimagined/status/1906479539351589329)
+2. [action figure pack](#action-figure-pack) - 作者：[Min Choi](https://x.com/minchoi/status/1910737237458776434)
+3. [3D character](#3d-character) - 作者：[Amira Zairi](https://x.com/azed_ai/status/1911782508095840622)
+4. [claymation](#claymation) - 作者：[Amira Zairi](https://x.com/hc_dsn/status/1911718985433027036)
+5. [Arcade diorama](#arcade-diorama) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1911718985433027036)
+6. [黛玉葬花](#) - 作者：[宝玉](https://x.com/dotey/status/1911563718804295962)
+7. [工作间手办](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911639551640314147)
+8. [LinkedIn Photo](#linkedin-photo) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1911402784106201427)
+9. [把图片变成正在雕刻的雕塑](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911433310666203311)
+10. [沙滩雕塑](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911687123696304436)
+11. [速效快乐胶囊](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896)
+12. [“去 AI 感”密码](#-ai-) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911678504221245816)
+13. [微型立体场景](#) - 作者：[宝玉](https://x.com/dotey/status/1911609122547449886)
 14. [时尚杂志的封面](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 15. [萌化电影剧照](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 16. [邮票](#) - 作者：[samdape](https://x.com/samdape/status/1908438312475373741)
-17. [明信片](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+17. [照片涂鸦玩法](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 18. [手绘风格的信息图卡片](#) - 作者：[宝玉](https://x.com/dotey/status/1907903480678985784)
 19. [微观世界](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 20. [微观世界](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
@@ -71,11 +71,50 @@
 24. [3D 图标](#3d-) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 25. [手帐玩法](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 26. [手帐玩法](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-27. [手写笔记风格图片](#) - 作者：[pongpong1](https://linux.do/t/topic/530679)
-28. [旅游手账插画](#) - 作者：[宝玉](https://x.com/dotey/status/1907819985533071462)
-29. [Q版中式婚礼](#q) - 作者：[balconychy(贝壳里奇)](https://x.com/balconychy/status/1909418699150237917)
+27. [明信片](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+28. [照片涂鸦玩法](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+29. [游戏角色](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+30. [手写笔记风格图片](#) - 作者：[pongpong1](https://linux.do/t/topic/530679)
+31. [旅游手账插画](#) - 作者：[宝玉](https://x.com/dotey/status/1907819985533071462)
+32. [Q版中式婚礼](#q) - 作者：[balconychy(贝壳里奇)](https://x.com/balconychy/status/1909418699150237917)
 
 以下是所有可用提示词的详细信息：
+
+### 3d avatar asset
+
+Create a 3d avatar asset, 8 different profiles/poses, different actions, maintaining consistency in 
+
+- **模型：** gpt4o
+- **提示词文本：** `Create a 3d avatar asset, 8 different profiles/poses, different actions, maintaining consistency in character, 16:9 aspect ratio`
+- **示例图片：** 
+<img src="https://pbs.twimg.com/media/GnUDdykbEAA9bka?format=jpg&name=small" alt="3d avatar asset" height="400">
+
+- **作者：** [AI Imagined](https://x.com/AIimagined/status/1906479539351589329)
+---
+
+### action figure pack
+
+create action figure pack based on my conversations
+
+- **模型：** gpt4o
+- **提示词文本：** `create action figure pack based on my conversations`
+- **示例图片：** 
+<img src="https://pbs.twimg.com/media/GoRNC14XgAAjhZA?format=jpg&name=900x900" alt="action figure pack" height="400">
+
+- **作者：** [Min Choi](https://x.com/minchoi/status/1910737237458776434)
+---
+
+### 3D character
+
+A 3D-rendered digital illustration of a young man in his mid-20s with light skin and wavy reddish-br
+
+- **模型：** gpt4o
+- **提示词文本：** `A 3D-rendered digital illustration of a young man in his mid-20s with light skin and wavy reddish-brown hair, wearing a camel-colored blazer, an off-white sweater, dark blue jeans, and black sneakers. He stands against a clean, off-white background, showing a [{emotion}] expression with a [{body position}] posture, stylized in a semi-realistic cartoon style with soft lighting and high detail.`
+- **示例图片：** 
+<img src="https://pbs.twimg.com/media/GogEDx8bwAAD648?format=jpg&name=large" alt="3D character" height="400">
+
+- **作者：** [Amira Zairi](https://x.com/azed_ai/status/1911782508095840622)
+---
 
 ### claymation
 
@@ -243,42 +282,6 @@ Generate a portrait ratio photo with this prompt A hyper-realistic diorama of a 
 - **作者：** [宝玉](https://x.com/dotey/status/1911609122547449886)
 ---
 
-### 照片涂鸦玩法
-
-生成图片，把它打印出来，然后用红墨水疯狂地加上手写中文批注、涂鸦、乱画，如果你想的话，还可以加点小剪贴画
-
-- **模型：** gpt4o
-- **提示词文本：** `生成图片，把它打印出来，然后用红墨水疯狂地加上手写中文批注、涂鸦、乱画，如果你想的话，还可以加点小剪贴画`
-- **示例图片：** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299878007-3i4361kt83t.webp" alt="照片涂鸦玩法" height="400">
-
-- **作者：** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
----
-
-### 照片涂鸦玩法
-
-用蓝色画笔画一些可爱的涂鸦与画面主体产生互动，可以是人物也可以是动物或者其他东西，生成 2:3 图片，笔触的质感强一些
-
-- **模型：** gpt4o
-- **提示词文本：** `用蓝色画笔画一些可爱的涂鸦与画面主体产生互动，可以是人物也可以是动物或者其他东西，生成 2:3 图片，笔触的质感强一些`
-- **示例图片：** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299879567-0tou7pwdqrk8.webp" alt="照片涂鸦玩法" height="400">
-
-- **作者：** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
----
-
-### 游戏角色
-
-双重曝光，融合，混合，叠加双重曝光图像，双重曝光风格，展现了智慧的兽人萨满萨尔（高尔）剪影的奇妙双重曝光构图，与他旅程中那些视觉冲击力强、标志性的艾泽拉斯景观和符号和谐地交织在一起。奥格瑞玛宏伟的红色
-
-- **模型：** gpt4o
-- **提示词文本：** `双重曝光，融合，混合，叠加双重曝光图像，双重曝光风格，展现了智慧的兽人萨满萨尔（高尔）剪影的奇妙双重曝光构图，与他旅程中那些视觉冲击力强、标志性的艾泽拉斯景观和符号和谐地交织在一起。奥格瑞玛宏伟的红色尖塔和崎岖的峡谷，旋转天空下纳格兰翠绿的浮岛和先祖之魂，以及噼啪作响的元素能量（闪电、大地、水之漩涡）通过他形象的肌理向外回响。或许毁灭之锤那标志性的形状，或是部落/霜狼氏族的标志被巧妙地融入其中。这增添了领导者遗产、萨满之力以及部落韧性的层次感。背景保持着鲜明的对比，营造出美丽的张力，将所有焦点吸引到层次丰富的双重曝光上。其特点在于萨尔剪影内部丰富而略带粗犷的全彩色方案（大地色调、部落红、元素蓝与橙），以及用智慧与原始力量勾勒出每一处轮廓的有力而刻意的线条。`
-- **示例图片：** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299880646-mtu5gatbetm.webp" alt="游戏角色" height="400">
-
-- **作者：** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
----
-
 ### 时尚杂志的封面
 
 《VOGUE》杂志封面：来自 League of Legends 的 Ashe - The Frost Archer 化身为高级时装模特。写实肖像，突出她标志性的白色长发、锐利蓝眼和冰霜女王般的冷艳气
@@ -315,14 +318,14 @@ Turn my 4 images into 4 classic, single-color postage stamps using detailed line
 - **作者：** [samdape](https://x.com/samdape/status/1908438312475373741)
 ---
 
-### 明信片
+### 照片涂鸦玩法
 
-帮我把这张照片做成一张 3:2 的明信片，左边是一幅 扁平多色插画风格（参考某某图）的画面，插画内容参考这张照片，比如：建筑/风景/人物等细节，插画的边缘请做成 不规则异形边框，右边用手写风格英文写一
+用蓝色画笔画一些可爱的涂鸦与画面主体产生互动，可以是人物也可以是动物或者其他东西，生成 2:3 图片，笔触的质感强一些
 
-- **模型：** Style
-- **提示词文本：** `帮我把这张照片做成一张 3:2 的明信片，左边是一幅 扁平多色插画风格（参考某某图）的画面，插画内容参考这张照片，比如：建筑/风景/人物等细节，插画的边缘请做成 不规则异形边框，右边用手写风格英文写一句和「XX」相关的名言，并贴上一枚用原图生成的单色风格邮票，邮票右上角，邮编写 XXXX，盖上邮戳。`
+- **模型：** gpt4o
+- **提示词文本：** `用蓝色画笔画一些可爱的涂鸦与画面主体产生互动，可以是人物也可以是动物或者其他东西，生成 2:3 图片，笔触的质感强一些`
 - **示例图片：** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299876287-19x8hhrvwt5.webp" alt="明信片" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744299879567-0tou7pwdqrk8.webp" alt="照片涂鸦玩法" height="400">
 
 - **作者：** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
@@ -431,6 +434,42 @@ Turn my 4 images into 4 classic, single-color postage stamps using detailed line
 - **提示词文本：** `请生成一张图片，模拟在一张略带纹理的纸张（比如米黄色或浅棕色）上手写的关于景区 [请在此处替换为景区名称] 的讲解笔记。图片应呈现旅行日志/拼贴画风格，包含以下元素：用手写字体（比如蓝色或棕色墨水）书写景区名称、地理位置、最佳游览季节、以及一两句吸引人的标语或简介。包含几个主要看点或特色的介绍，使用编号列表或项目符号（例如：[列举2-3个具体看点，如"奇特的岩石形态"，"古老的传说"，"独特的植物"等]），并配有简短的手写说明。用红色笔迹或其他亮色圈出或用箭头指向特别推荐的地点或活动（例如 [列举1-2个推荐项]）。穿插一些与景区特色相关的简单涂鸦式小图画（例如：[根据景区特色想1-2个代表性图画，如山峰轮廓、特色动植物、标志性建筑等]）。点缀几张关于该景区的、看起来像是贴上去的小幅照片（可以是风景照、细节照，风格可以略显复古或像宝丽来照片）。 整体感觉要像一份由热情导游或资深游客精心制作的、生动有趣的个人导览手记。`
 - **示例图片：** 
 <img src="https://cdn.imgedify.com/imgedify/images/1744299874809-24ng1z3kupxj.webp" alt="手帐玩法" height="400">
+
+- **作者：** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+---
+
+### 明信片
+
+帮我把这张照片做成一张 3:2 的明信片，左边是一幅 扁平多色插画风格（参考某某图）的画面，插画内容参考这张照片，比如：建筑/风景/人物等细节，插画的边缘请做成 不规则异形边框，右边用手写风格英文写一
+
+- **模型：** Style
+- **提示词文本：** `帮我把这张照片做成一张 3:2 的明信片，左边是一幅 扁平多色插画风格（参考某某图）的画面，插画内容参考这张照片，比如：建筑/风景/人物等细节，插画的边缘请做成 不规则异形边框，右边用手写风格英文写一句和「XX」相关的名言，并贴上一枚用原图生成的单色风格邮票，邮票右上角，邮编写 XXXX，盖上邮戳。`
+- **示例图片：** 
+<img src="https://cdn.imgedify.com/imgedify/images/1744299876287-19x8hhrvwt5.webp" alt="明信片" height="400">
+
+- **作者：** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+---
+
+### 照片涂鸦玩法
+
+生成图片，把它打印出来，然后用红墨水疯狂地加上手写中文批注、涂鸦、乱画，如果你想的话，还可以加点小剪贴画
+
+- **模型：** gpt4o
+- **提示词文本：** `生成图片，把它打印出来，然后用红墨水疯狂地加上手写中文批注、涂鸦、乱画，如果你想的话，还可以加点小剪贴画`
+- **示例图片：** 
+<img src="https://cdn.imgedify.com/imgedify/images/1744299878007-3i4361kt83t.webp" alt="照片涂鸦玩法" height="400">
+
+- **作者：** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+---
+
+### 游戏角色
+
+双重曝光，融合，混合，叠加双重曝光图像，双重曝光风格，展现了智慧的兽人萨满萨尔（高尔）剪影的奇妙双重曝光构图，与他旅程中那些视觉冲击力强、标志性的艾泽拉斯景观和符号和谐地交织在一起。奥格瑞玛宏伟的红色
+
+- **模型：** gpt4o
+- **提示词文本：** `双重曝光，融合，混合，叠加双重曝光图像，双重曝光风格，展现了智慧的兽人萨满萨尔（高尔）剪影的奇妙双重曝光构图，与他旅程中那些视觉冲击力强、标志性的艾泽拉斯景观和符号和谐地交织在一起。奥格瑞玛宏伟的红色尖塔和崎岖的峡谷，旋转天空下纳格兰翠绿的浮岛和先祖之魂，以及噼啪作响的元素能量（闪电、大地、水之漩涡）通过他形象的肌理向外回响。或许毁灭之锤那标志性的形状，或是部落/霜狼氏族的标志被巧妙地融入其中。这增添了领导者遗产、萨满之力以及部落韧性的层次感。背景保持着鲜明的对比，营造出美丽的张力，将所有焦点吸引到层次丰富的双重曝光上。其特点在于萨尔剪影内部丰富而略带粗犷的全彩色方案（大地色调、部落红、元素蓝与橙），以及用智慧与原始力量勾勒出每一处轮廓的有力而刻意的线条。`
+- **示例图片：** 
+<img src="https://cdn.imgedify.com/imgedify/images/1744299880646-mtu5gatbetm.webp" alt="游戏角色" height="400">
 
 - **作者：** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
