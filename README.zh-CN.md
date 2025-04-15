@@ -45,55 +45,85 @@
 ## 可用提示词
 
 ### 目录
-1. [微型立体场景呈现](#) - 作者：[宝玉](https://x.com/berryxia_ai/status/1911666078838865957)
-2. [等距视角微缩场景](#) - 作者：[Berryxia.AI](https://x.com/berryxia_ai/status/1911666078838865957)
-3. [摊开的古书](#) - 作者：[dangjin](https://x.com/JinsFavorites/status/1911437215764185133)
-4. [泡罩药片包装图](#) - 作者：[Terry](https://x.com/trxuanxw/status/1911940417828053221)
-5. [Isometric view of a city](#isometric-view-of-a-city) - 作者：[Terry](https://x.com/trxuanxw/status/1906918197074473053)
-6. [泰坦尼克号经典场面](#) - 作者：[balconychy(贝壳里奇)](https://x.com/balconychy/status/1911620533071835428)
-7. [立体浮雕风格](#) - 作者：[balconychy(贝壳里奇)](https://x.com/balconychy/status/1911620533071835428)
-8. [Figure Box](#figure-box) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1908429874945233225)
-9. [Changer ages](#changer-ages) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1908734797763256631)
-10. [3D characters](#3d-characters) - 作者：[Brett  Designjoy](https://x.com/BrettFromDJ/status/1910711941250621845)
-11. [action figure](#action-figure) - 作者：[Eduardo Macouzet](https://x.com/eduardomacouzet/status/1910260355059548483)
-12. [fluffy logo](#fluffy-logo) - 作者：[Gizem Akdag](https://x.com/gizakdag/status/1911460600535797926)
-13. [3D fluffy emojis](#3d-fluffy-emojis) - 作者：[Gizem Akdag](https://x.com/gizakdag/status/1911075302941622512)
-14. [影视剧的角色手办](#) - 作者：[AI进化论-花生](https://x.com/AlchainHust/status/1906997559937364052/photo/2)
-15. [3D-style icons](#3d-style-icons) - 作者：[Amira Zairi](https://x.com/azed_ai/status/1906285785961406891)
-16. [3d avatar asset](#3d-avatar-asset) - 作者：[AI Imagined](https://x.com/AIimagined/status/1906479539351589329)
-17. [action figure pack](#action-figure-pack) - 作者：[Min Choi](https://x.com/minchoi/status/1910737237458776434)
-18. [3D character](#3d-character) - 作者：[Amira Zairi](https://x.com/azed_ai/status/1911782508095840622)
-19. [claymation](#claymation) - 作者：[Amira Zairi](https://x.com/hc_dsn/status/1911718985433027036)
-20. [Arcade diorama](#arcade-diorama) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1911718985433027036)
-21. [黛玉葬花](#) - 作者：[宝玉](https://x.com/dotey/status/1911563718804295962)
-22. [工作间手办](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911639551640314147)
-23. [LinkedIn Photo](#linkedin-photo) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1911402784106201427)
-24. [把图片变成正在雕刻的雕塑](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911433310666203311)
-25. [沙滩雕塑](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911687123696304436)
-26. [速效快乐胶囊](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896)
-27. [“去 AI 感”密码](#-ai-) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911678504221245816)
-28. [微型立体场景](#) - 作者：[宝玉](https://x.com/dotey/status/1911609122547449886)
-29. [游戏角色](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-30. [照片涂鸦玩法](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+1. [讽刺漫画](#) - 作者：[宝玉](https://x.com/dotey/status/1911988003729203648)
+2. [拟人化的 3D 形象](#-3d-) - 作者：[宝玉](https://x.com/dotey/status/1911988003729203648)
+3. [微型立体场景呈现](#) - 作者：[宝玉](https://x.com/berryxia_ai/status/1911666078838865957)
+4. [等距视角微缩场景](#) - 作者：[Berryxia.AI](https://x.com/berryxia_ai/status/1911666078838865957)
+5. [摊开的古书](#) - 作者：[dangjin](https://x.com/JinsFavorites/status/1911437215764185133)
+6. [泡罩药片包装图](#) - 作者：[Terry](https://x.com/trxuanxw/status/1911940417828053221)
+7. [Isometric view of a city](#isometric-view-of-a-city) - 作者：[Terry](https://x.com/trxuanxw/status/1906918197074473053)
+8. [泰坦尼克号经典场面](#) - 作者：[balconychy(贝壳里奇)](https://x.com/balconychy/status/1911620533071835428)
+9. [立体浮雕风格](#) - 作者：[balconychy(贝壳里奇)](https://x.com/balconychy/status/1911620533071835428)
+10. [Figure Box](#figure-box) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1908429874945233225)
+11. [Changer ages](#changer-ages) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1908734797763256631)
+12. [3D characters](#3d-characters) - 作者：[Brett  Designjoy](https://x.com/BrettFromDJ/status/1910711941250621845)
+13. [action figure](#action-figure) - 作者：[Eduardo Macouzet](https://x.com/eduardomacouzet/status/1910260355059548483)
+14. [fluffy logo](#fluffy-logo) - 作者：[Gizem Akdag](https://x.com/gizakdag/status/1911460600535797926)
+15. [3D fluffy emojis](#3d-fluffy-emojis) - 作者：[Gizem Akdag](https://x.com/gizakdag/status/1911075302941622512)
+16. [影视剧的角色手办](#) - 作者：[AI进化论-花生](https://x.com/AlchainHust/status/1906997559937364052/photo/2)
+17. [3D-style icons](#3d-style-icons) - 作者：[Amira Zairi](https://x.com/azed_ai/status/1906285785961406891)
+18. [3d avatar asset](#3d-avatar-asset) - 作者：[AI Imagined](https://x.com/AIimagined/status/1906479539351589329)
+19. [action figure pack](#action-figure-pack) - 作者：[Min Choi](https://x.com/minchoi/status/1910737237458776434)
+20. [3D character](#3d-character) - 作者：[Amira Zairi](https://x.com/azed_ai/status/1911782508095840622)
+21. [claymation](#claymation) - 作者：[Amira Zairi](https://x.com/hc_dsn/status/1911718985433027036)
+22. [Arcade diorama](#arcade-diorama) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1911718985433027036)
+23. [黛玉葬花](#) - 作者：[宝玉](https://x.com/dotey/status/1911563718804295962)
+24. [工作间手办](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911639551640314147)
+25. [LinkedIn Photo](#linkedin-photo) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1911402784106201427)
+26. [把图片变成正在雕刻的雕塑](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911433310666203311)
+27. [沙滩雕塑](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911687123696304436)
+28. [速效快乐胶囊](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896)
+29. [“去 AI 感”密码](#-ai-) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911678504221245816)
+30. [微型立体场景](#) - 作者：[宝玉](https://x.com/dotey/status/1911609122547449886)
 31. [照片涂鸦玩法](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-32. [明信片](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-33. [手帐玩法](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-34. [3D 图标](#3d-) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+32. [照片涂鸦玩法](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+33. [明信片](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+34. [手帐玩法](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 35. [3D 图标](#3d-) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-36. [主题键帽](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+36. [3D 图标](#3d-) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 37. [主题键帽](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-38. [微观世界](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+38. [主题键帽](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 39. [微观世界](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-40. [手绘风格的信息图卡片](#) - 作者：[宝玉](https://x.com/dotey/status/1907903480678985784)
-41. [手帐玩法](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-42. [邮票](#) - 作者：[samdape](https://x.com/samdape/status/1908438312475373741)
-43. [萌化电影剧照](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-44. [时尚杂志的封面](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-45. [手写笔记风格图片](#) - 作者：[pongpong1](https://linux.do/t/topic/530679)
-46. [旅游手账插画](#) - 作者：[宝玉](https://x.com/dotey/status/1907819985533071462)
-47. [Q版中式婚礼](#q) - 作者：[balconychy(贝壳里奇)](https://x.com/balconychy/status/1909418699150237917)
+40. [微观世界](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+41. [手绘风格的信息图卡片](#) - 作者：[宝玉](https://x.com/dotey/status/1907903480678985784)
+42. [手帐玩法](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+43. [邮票](#) - 作者：[samdape](https://x.com/samdape/status/1908438312475373741)
+44. [萌化电影剧照](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+45. [时尚杂志的封面](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+46. [游戏角色](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+47. [手写笔记风格图片](#) - 作者：[pongpong1](https://linux.do/t/topic/530679)
+48. [旅游手账插画](#) - 作者：[宝玉](https://x.com/dotey/status/1907819985533071462)
+49. [Q版中式婚礼](#q) - 作者：[balconychy(贝壳里奇)](https://x.com/balconychy/status/1909418699150237917)
 
 以下是所有可用提示词的详细信息：
+
+### 讽刺漫画
+
+讽刺漫画，川普手上拿着扑克牌，显示扑克牌背面，马斯克正在对川普耳语，头顶有气泡文字（中文）
+川普：我手里有牌
+马斯克：别忘了你手里的牌是Made In China
+
+- **模型：** gpt4o
+- **提示词文本：** `讽刺漫画，川普手上拿着扑克牌，显示扑克牌背面，马斯克正在对川普耳语，头顶有气泡文字（中文）
+川普：我手里有牌
+马斯克：别忘了你手里的牌是Made In China`
+- **示例图片：** 
+<img src="https://pbs.twimg.com/media/Goi5dGzX0AAoCZ9?format=jpg&name=large" alt="讽刺漫画" height="400">
+
+- **作者：** [宝玉](https://x.com/dotey/status/1911988003729203648)
+---
+
+### 拟人化的 3D 形象
+
+給【西北工业大学】画一个拟人化的3D Q版美少女形象，体现学校【航空航天航海三航】特色
+
+- **模型：** gpt4o
+- **提示词文本：** `給【西北工业大学】画一个拟人化的3D Q版美少女形象，体现学校【航空航天航海三航】特色`
+- **示例图片：** 
+<img src="https://pbs.twimg.com/media/Goi9-VLWkAA6Qlv?format=jpg&name=large" alt="拟人化的 3D 形象" height="400">
+
+- **作者：** [宝玉](https://x.com/dotey/status/1911988003729203648)
+---
 
 ### 微型立体场景呈现
 
@@ -512,18 +542,6 @@ Generate a portrait ratio photo with this prompt A hyper-realistic diorama of a 
 - **作者：** [宝玉](https://x.com/dotey/status/1911609122547449886)
 ---
 
-### 游戏角色
-
-双重曝光，融合，混合，叠加双重曝光图像，双重曝光风格，展现了智慧的兽人萨满萨尔（高尔）剪影的奇妙双重曝光构图，与他旅程中那些视觉冲击力强、标志性的艾泽拉斯景观和符号和谐地交织在一起。奥格瑞玛宏伟的红色
-
-- **模型：** gpt4o
-- **提示词文本：** `双重曝光，融合，混合，叠加双重曝光图像，双重曝光风格，展现了智慧的兽人萨满萨尔（高尔）剪影的奇妙双重曝光构图，与他旅程中那些视觉冲击力强、标志性的艾泽拉斯景观和符号和谐地交织在一起。奥格瑞玛宏伟的红色尖塔和崎岖的峡谷，旋转天空下纳格兰翠绿的浮岛和先祖之魂，以及噼啪作响的元素能量（闪电、大地、水之漩涡）通过他形象的肌理向外回响。或许毁灭之锤那标志性的形状，或是部落/霜狼氏族的标志被巧妙地融入其中。这增添了领导者遗产、萨满之力以及部落韧性的层次感。背景保持着鲜明的对比，营造出美丽的张力，将所有焦点吸引到层次丰富的双重曝光上。其特点在于萨尔剪影内部丰富而略带粗犷的全彩色方案（大地色调、部落红、元素蓝与橙），以及用智慧与原始力量勾勒出每一处轮廓的有力而刻意的线条。`
-- **示例图片：** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299880646-mtu5gatbetm.webp" alt="游戏角色" height="400">
-
-- **作者：** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
----
-
 ### 照片涂鸦玩法
 
 用蓝色画笔画一些可爱的涂鸦与画面主体产生互动，可以是人物也可以是动物或者其他东西，生成 2:3 图片，笔触的质感强一些
@@ -700,6 +718,18 @@ Turn my 4 images into 4 classic, single-color postage stamps using detailed line
 - **提示词文本：** `《VOGUE》杂志封面：来自 League of Legends 的 Ashe - The Frost Archer 化身为高级时装模特。写实肖像，突出她标志性的白色长发、锐利蓝眼和冰霜女王般的冷艳气质。简约背景，专业摄影，身着融合了冰霜元素和高级定制风格的优雅紧身服饰。`
 - **示例图片：** 
 <img src="https://cdn.imgedify.com/imgedify/images/1744299882639-bqp6v37enla.webp" alt="时尚杂志的封面" height="400">
+
+- **作者：** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+---
+
+### 游戏角色
+
+双重曝光，融合，混合，叠加双重曝光图像，双重曝光风格，展现了智慧的兽人萨满萨尔（高尔）剪影的奇妙双重曝光构图，与他旅程中那些视觉冲击力强、标志性的艾泽拉斯景观和符号和谐地交织在一起。奥格瑞玛宏伟的红色
+
+- **模型：** gpt4o
+- **提示词文本：** `双重曝光，融合，混合，叠加双重曝光图像，双重曝光风格，展现了智慧的兽人萨满萨尔（高尔）剪影的奇妙双重曝光构图，与他旅程中那些视觉冲击力强、标志性的艾泽拉斯景观和符号和谐地交织在一起。奥格瑞玛宏伟的红色尖塔和崎岖的峡谷，旋转天空下纳格兰翠绿的浮岛和先祖之魂，以及噼啪作响的元素能量（闪电、大地、水之漩涡）通过他形象的肌理向外回响。或许毁灭之锤那标志性的形状，或是部落/霜狼氏族的标志被巧妙地融入其中。这增添了领导者遗产、萨满之力以及部落韧性的层次感。背景保持着鲜明的对比，营造出美丽的张力，将所有焦点吸引到层次丰富的双重曝光上。其特点在于萨尔剪影内部丰富而略带粗犷的全彩色方案（大地色调、部落红、元素蓝与橙），以及用智慧与原始力量勾勒出每一处轮廓的有力而刻意的线条。`
+- **示例图片：** 
+<img src="https://cdn.imgedify.com/imgedify/images/1744299880646-mtu5gatbetm.webp" alt="游戏角色" height="400">
 
 - **作者：** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
