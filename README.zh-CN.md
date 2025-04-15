@@ -45,48 +45,76 @@
 ## 可用提示词
 
 ### 目录
-1. [Figure Box](#figure-box) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1908429874945233225)
-2. [Changer ages](#changer-ages) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1908734797763256631)
-3. [3D characters](#3d-characters) - 作者：[Brett  Designjoy](https://x.com/BrettFromDJ/status/1910711941250621845)
-4. [action figure](#action-figure) - 作者：[Eduardo Macouzet](https://x.com/eduardomacouzet/status/1910260355059548483)
-5. [fluffy logo](#fluffy-logo) - 作者：[Gizem Akdag](https://x.com/gizakdag/status/1911460600535797926)
-6. [3D fluffy emojis](#3d-fluffy-emojis) - 作者：[Gizem Akdag](https://x.com/gizakdag/status/1911075302941622512)
-7. [影视剧的角色手办](#) - 作者：[AI进化论-花生](https://x.com/AlchainHust/status/1906997559937364052/photo/2)
-8. [3D-style icons](#3d-style-icons) - 作者：[Amira Zairi](https://x.com/azed_ai/status/1906285785961406891)
-9. [3d avatar asset](#3d-avatar-asset) - 作者：[AI Imagined](https://x.com/AIimagined/status/1906479539351589329)
-10. [action figure pack](#action-figure-pack) - 作者：[Min Choi](https://x.com/minchoi/status/1910737237458776434)
-11. [3D character](#3d-character) - 作者：[Amira Zairi](https://x.com/azed_ai/status/1911782508095840622)
-12. [claymation](#claymation) - 作者：[Amira Zairi](https://x.com/hc_dsn/status/1911718985433027036)
-13. [Arcade diorama](#arcade-diorama) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1911718985433027036)
-14. [黛玉葬花](#) - 作者：[宝玉](https://x.com/dotey/status/1911563718804295962)
-15. [工作间手办](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911639551640314147)
-16. [LinkedIn Photo](#linkedin-photo) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1911402784106201427)
-17. [把图片变成正在雕刻的雕塑](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911433310666203311)
-18. [沙滩雕塑](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911687123696304436)
-19. [速效快乐胶囊](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896)
-20. [“去 AI 感”密码](#-ai-) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911678504221245816)
-21. [微型立体场景](#) - 作者：[宝玉](https://x.com/dotey/status/1911609122547449886)
-22. [邮票](#) - 作者：[samdape](https://x.com/samdape/status/1908438312475373741)
-23. [手绘风格的信息图卡片](#) - 作者：[宝玉](https://x.com/dotey/status/1907903480678985784)
-24. [微观世界](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+1. [立体浮雕风格](#) - 作者：[balconychy(贝壳里奇)](https://x.com/balconychy/status/1911620533071835428)
+2. [Figure Box](#figure-box) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1908429874945233225)
+3. [Changer ages](#changer-ages) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1908734797763256631)
+4. [3D characters](#3d-characters) - 作者：[Brett  Designjoy](https://x.com/BrettFromDJ/status/1910711941250621845)
+5. [action figure](#action-figure) - 作者：[Eduardo Macouzet](https://x.com/eduardomacouzet/status/1910260355059548483)
+6. [fluffy logo](#fluffy-logo) - 作者：[Gizem Akdag](https://x.com/gizakdag/status/1911460600535797926)
+7. [3D fluffy emojis](#3d-fluffy-emojis) - 作者：[Gizem Akdag](https://x.com/gizakdag/status/1911075302941622512)
+8. [影视剧的角色手办](#) - 作者：[AI进化论-花生](https://x.com/AlchainHust/status/1906997559937364052/photo/2)
+9. [3D-style icons](#3d-style-icons) - 作者：[Amira Zairi](https://x.com/azed_ai/status/1906285785961406891)
+10. [3d avatar asset](#3d-avatar-asset) - 作者：[AI Imagined](https://x.com/AIimagined/status/1906479539351589329)
+11. [action figure pack](#action-figure-pack) - 作者：[Min Choi](https://x.com/minchoi/status/1910737237458776434)
+12. [3D character](#3d-character) - 作者：[Amira Zairi](https://x.com/azed_ai/status/1911782508095840622)
+13. [claymation](#claymation) - 作者：[Amira Zairi](https://x.com/hc_dsn/status/1911718985433027036)
+14. [Arcade diorama](#arcade-diorama) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1911718985433027036)
+15. [黛玉葬花](#) - 作者：[宝玉](https://x.com/dotey/status/1911563718804295962)
+16. [工作间手办](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911639551640314147)
+17. [LinkedIn Photo](#linkedin-photo) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1911402784106201427)
+18. [把图片变成正在雕刻的雕塑](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911433310666203311)
+19. [沙滩雕塑](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911687123696304436)
+20. [速效快乐胶囊](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896)
+21. [“去 AI 感”密码](#-ai-) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911678504221245816)
+22. [微型立体场景](#) - 作者：[宝玉](https://x.com/dotey/status/1911609122547449886)
+23. [邮票](#) - 作者：[samdape](https://x.com/samdape/status/1908438312475373741)
+24. [手绘风格的信息图卡片](#) - 作者：[宝玉](https://x.com/dotey/status/1907903480678985784)
 25. [微观世界](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-26. [主题键帽](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+26. [微观世界](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 27. [主题键帽](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-28. [3D 图标](#3d-) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+28. [主题键帽](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 29. [3D 图标](#3d-) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-30. [手帐玩法](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+30. [3D 图标](#3d-) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 31. [手帐玩法](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-32. [明信片](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-33. [照片涂鸦玩法](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+32. [手帐玩法](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+33. [明信片](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 34. [照片涂鸦玩法](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-35. [游戏角色](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-36. [时尚杂志的封面](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-37. [萌化电影剧照](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-38. [手写笔记风格图片](#) - 作者：[pongpong1](https://linux.do/t/topic/530679)
-39. [旅游手账插画](#) - 作者：[宝玉](https://x.com/dotey/status/1907819985533071462)
-40. [Q版中式婚礼](#q) - 作者：[balconychy(贝壳里奇)](https://x.com/balconychy/status/1909418699150237917)
+35. [照片涂鸦玩法](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+36. [游戏角色](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+37. [时尚杂志的封面](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+38. [萌化电影剧照](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+39. [手写笔记风格图片](#) - 作者：[pongpong1](https://linux.do/t/topic/530679)
+40. [旅游手账插画](#) - 作者：[宝玉](https://x.com/dotey/status/1907819985533071462)
+41. [Q版中式婚礼](#q) - 作者：[balconychy(贝壳里奇)](https://x.com/balconychy/status/1909418699150237917)
 
 以下是所有可用提示词的详细信息：
+
+### 立体浮雕风格
+
+将附图人物转换成立体镂空纸雕艺术风格。画面洁净，纸面平滑柔和。
+
+画面中心：人物，古风装扮
+
+背景：拱形纸雕，多层层叠，远近不同造型，柔和的光影从背景传来，将视觉引导到人物。整个画面有镂空纸雕边框。
+
+
+- **模型：** gpt4o
+- **提示词文本：** `将附图人物转换成立体镂空纸雕艺术风格。画面洁净，纸面平滑柔和。
+
+画面中心：人物，古风装扮
+
+背景：拱形纸雕，多层层叠，远近不同造型，柔和的光影从背景传来，将视觉引导到人物。整个画面有镂空纸雕边框。
+
+风格：中国风立体纸雕艺术风格，利用分层切割和拼贴手法，塑造出具有强烈空间感与层次感的画面。
+
+元素：融入古典中式元素；有繁茂盛开的花卉；远处是连绵树木；天空中有飞鸟点缀。
+
+色彩：以鲜艳透明的橙、白为主调，鲜明且富有张力。`
+- **示例图片：** 
+<img src="https://pbs.twimg.com/media/Godwd5LX0AAsGNt?format=jpg&name=900x900" alt="立体浮雕风格" height="400">
+
+- **作者：** [balconychy(贝壳里奇)](https://x.com/balconychy/status/1911620533071835428)
+---
 
 ### Figure Box
 
