@@ -45,42 +45,68 @@ And many other amazing creators from the community who have shared their prompts
 ## Available Prompts
 
 ### Table of Contents
-1. [影视剧的角色手办](#) - by [AI进化论-花生](https://x.com/AlchainHust/status/1906997559937364052/photo/2)
-2. [3D-style icons](#3d-style-icons) - by [Amira Zairi](https://x.com/azed_ai/status/1906285785961406891)
-3. [3d avatar asset](#3d-avatar-asset) - by [AI Imagined](https://x.com/AIimagined/status/1906479539351589329)
-4. [action figure pack](#action-figure-pack) - by [Min Choi](https://x.com/minchoi/status/1910737237458776434)
-5. [3D character](#3d-character) - by [Amira Zairi](https://x.com/azed_ai/status/1911782508095840622)
-6. [claymation](#claymation) - by [Amira Zairi](https://x.com/hc_dsn/status/1911718985433027036)
-7. [Arcade diorama](#arcade-diorama) - by [Howard Chen](https://x.com/hc_dsn/status/1911718985433027036)
-8. [黛玉葬花](#) - by [宝玉](https://x.com/dotey/status/1911563718804295962)
-9. [工作间手办](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911639551640314147)
-10. [LinkedIn Photo](#linkedin-photo) - by [Howard Chen](https://x.com/hc_dsn/status/1911402784106201427)
-11. [把图片变成正在雕刻的雕塑](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911433310666203311)
-12. [沙滩雕塑](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911687123696304436)
-13. [速效快乐胶囊](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896)
-14. [“去 AI 感”密码](#-ai-) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911678504221245816)
-15. [微型立体场景](#) - by [宝玉](https://x.com/dotey/status/1911609122547449886)
-16. [邮票](#) - by [samdape](https://x.com/samdape/status/1908438312475373741)
-17. [游戏角色](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-18. [手绘风格的信息图卡片](#) - by [宝玉](https://x.com/dotey/status/1907903480678985784)
-19. [微观世界](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+1. [fluffy logo](#fluffy-logo) - by [Gizem Akdag](https://x.com/gizakdag/status/1911460600535797926)
+2. [3D fluffy emojis](#3d-fluffy-emojis) - by [Gizem Akdag](https://x.com/gizakdag/status/1911075302941622512)
+3. [影视剧的角色手办](#) - by [AI进化论-花生](https://x.com/AlchainHust/status/1906997559937364052/photo/2)
+4. [3D-style icons](#3d-style-icons) - by [Amira Zairi](https://x.com/azed_ai/status/1906285785961406891)
+5. [3d avatar asset](#3d-avatar-asset) - by [AI Imagined](https://x.com/AIimagined/status/1906479539351589329)
+6. [action figure pack](#action-figure-pack) - by [Min Choi](https://x.com/minchoi/status/1910737237458776434)
+7. [3D character](#3d-character) - by [Amira Zairi](https://x.com/azed_ai/status/1911782508095840622)
+8. [claymation](#claymation) - by [Amira Zairi](https://x.com/hc_dsn/status/1911718985433027036)
+9. [Arcade diorama](#arcade-diorama) - by [Howard Chen](https://x.com/hc_dsn/status/1911718985433027036)
+10. [黛玉葬花](#) - by [宝玉](https://x.com/dotey/status/1911563718804295962)
+11. [工作间手办](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911639551640314147)
+12. [LinkedIn Photo](#linkedin-photo) - by [Howard Chen](https://x.com/hc_dsn/status/1911402784106201427)
+13. [把图片变成正在雕刻的雕塑](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911433310666203311)
+14. [沙滩雕塑](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911687123696304436)
+15. [速效快乐胶囊](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896)
+16. [“去 AI 感”密码](#-ai-) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911678504221245816)
+17. [微型立体场景](#) - by [宝玉](https://x.com/dotey/status/1911609122547449886)
+18. [时尚杂志的封面](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+19. [手绘风格的信息图卡片](#) - by [宝玉](https://x.com/dotey/status/1907903480678985784)
 20. [微观世界](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-21. [主题键帽](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+21. [微观世界](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 22. [主题键帽](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-23. [3D 图标](#3d-) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+23. [主题键帽](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 24. [3D 图标](#3d-) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-25. [手帐玩法](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+25. [3D 图标](#3d-) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 26. [手帐玩法](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-27. [明信片](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-28. [照片涂鸦玩法](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+27. [手帐玩法](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+28. [明信片](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 29. [照片涂鸦玩法](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-30. [时尚杂志的封面](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-31. [萌化电影剧照](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-32. [手写笔记风格图片](#) - by [pongpong1](https://linux.do/t/topic/530679)
-33. [旅游手账插画](#) - by [宝玉](https://x.com/dotey/status/1907819985533071462)
-34. [Q版中式婚礼](#q) - by [balconychy(贝壳里奇)](https://x.com/balconychy/status/1909418699150237917)
+30. [照片涂鸦玩法](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+31. [游戏角色](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+32. [萌化电影剧照](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+33. [邮票](#) - by [samdape](https://x.com/samdape/status/1908438312475373741)
+34. [手写笔记风格图片](#) - by [pongpong1](https://linux.do/t/topic/530679)
+35. [旅游手账插画](#) - by [宝玉](https://x.com/dotey/status/1907819985533071462)
+36. [Q版中式婚礼](#q) - by [balconychy(贝壳里奇)](https://x.com/balconychy/status/1909418699150237917)
 
 Below is a list of all available prompts with their details:
+
+### fluffy logo
+
+Transform a simple flat vector icon of Figma logo into a soft, 3D fluffy object. Use the exact color
+
+- **Model:** gpt4o
+- **Prompt Text:** `Transform a simple flat vector icon of Figma logo into a soft, 3D fluffy object. Use the exact colors. The shape is fully covered in fur, with hyperrealistic hair texture and soft shadows. The object is centered on a clean, light gray background and floats gently in space. The style is surreal, tactile, and modern, evoking a sense of comfort and playfulness. Studio lighting, high-resolution render.`
+- **Example Image:** 
+<img src="https://pbs.twimg.com/media/GobeVVGW8AAv7mc?format=jpg&name=small" alt="fluffy logo" height="400">
+
+- **Author:** [Gizem Akdag](https://x.com/gizakdag/status/1911460600535797926)
+---
+
+### 3D fluffy emojis
+
+Transform a simple flat vector icon of [] into a soft, 3D fluffy object. The shape is fully covered 
+
+- **Model:** gpt4o
+- **Prompt Text:** `Transform a simple flat vector icon of [] into a soft, 3D fluffy object. The shape is fully covered in fur, with hyperrealistic hair texture and soft shadows. The object is centered on a clean, light gray background and floats gently in space. The style is surreal, tactile, and modern, evoking a sense of comfort and playfulness. Studio lighting, high-resolution render.`
+- **Example Image:** 
+<img src="https://pbs.twimg.com/media/GoV_vpPWoAA67Ed?format=jpg&name=360x360" alt="3D fluffy emojis" height="400">
+
+- **Author:** [Gizem Akdag](https://x.com/gizakdag/status/1911075302941622512)
+---
 
 ### 影视剧的角色手办
 
@@ -319,26 +345,14 @@ Generate a portrait ratio photo with this prompt A hyper-realistic diorama of a 
 - **Author:** [宝玉](https://x.com/dotey/status/1911609122547449886)
 ---
 
-### 邮票
+### 时尚杂志的封面
 
-Turn my 4 images into 4 classic, single-color postage stamps using detailed lines and shading. Give 
-
-- **Model:** Style
-- **Prompt Text:** `Turn my 4 images into 4 classic, single-color postage stamps using detailed lines and shading. Give each their own color, Add a stamp value and fitting vintage-style text based on the subject. Make the image 3:4`
-- **Example Image:** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299886085-apxha71rus9.jpeg" alt="邮票" height="400">
-
-- **Author:** [samdape](https://x.com/samdape/status/1908438312475373741)
----
-
-### 游戏角色
-
-双重曝光，融合，混合，叠加双重曝光图像，双重曝光风格，展现了智慧的兽人萨满萨尔（高尔）剪影的奇妙双重曝光构图，与他旅程中那些视觉冲击力强、标志性的艾泽拉斯景观和符号和谐地交织在一起。奥格瑞玛宏伟的红色
+《VOGUE》杂志封面：来自 League of Legends 的 Ashe - The Frost Archer 化身为高级时装模特。写实肖像，突出她标志性的白色长发、锐利蓝眼和冰霜女王般的冷艳气
 
 - **Model:** gpt4o
-- **Prompt Text:** `双重曝光，融合，混合，叠加双重曝光图像，双重曝光风格，展现了智慧的兽人萨满萨尔（高尔）剪影的奇妙双重曝光构图，与他旅程中那些视觉冲击力强、标志性的艾泽拉斯景观和符号和谐地交织在一起。奥格瑞玛宏伟的红色尖塔和崎岖的峡谷，旋转天空下纳格兰翠绿的浮岛和先祖之魂，以及噼啪作响的元素能量（闪电、大地、水之漩涡）通过他形象的肌理向外回响。或许毁灭之锤那标志性的形状，或是部落/霜狼氏族的标志被巧妙地融入其中。这增添了领导者遗产、萨满之力以及部落韧性的层次感。背景保持着鲜明的对比，营造出美丽的张力，将所有焦点吸引到层次丰富的双重曝光上。其特点在于萨尔剪影内部丰富而略带粗犷的全彩色方案（大地色调、部落红、元素蓝与橙），以及用智慧与原始力量勾勒出每一处轮廓的有力而刻意的线条。`
+- **Prompt Text:** `《VOGUE》杂志封面：来自 League of Legends 的 Ashe - The Frost Archer 化身为高级时装模特。写实肖像，突出她标志性的白色长发、锐利蓝眼和冰霜女王般的冷艳气质。简约背景，专业摄影，身着融合了冰霜元素和高级定制风格的优雅紧身服饰。`
 - **Example Image:** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299880646-mtu5gatbetm.webp" alt="游戏角色" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744299882639-bqp6v37enla.webp" alt="时尚杂志的封面" height="400">
 
 - **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
@@ -487,14 +501,14 @@ Turn my 4 images into 4 classic, single-color postage stamps using detailed line
 - **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
 
-### 时尚杂志的封面
+### 游戏角色
 
-《VOGUE》杂志封面：来自 League of Legends 的 Ashe - The Frost Archer 化身为高级时装模特。写实肖像，突出她标志性的白色长发、锐利蓝眼和冰霜女王般的冷艳气
+双重曝光，融合，混合，叠加双重曝光图像，双重曝光风格，展现了智慧的兽人萨满萨尔（高尔）剪影的奇妙双重曝光构图，与他旅程中那些视觉冲击力强、标志性的艾泽拉斯景观和符号和谐地交织在一起。奥格瑞玛宏伟的红色
 
 - **Model:** gpt4o
-- **Prompt Text:** `《VOGUE》杂志封面：来自 League of Legends 的 Ashe - The Frost Archer 化身为高级时装模特。写实肖像，突出她标志性的白色长发、锐利蓝眼和冰霜女王般的冷艳气质。简约背景，专业摄影，身着融合了冰霜元素和高级定制风格的优雅紧身服饰。`
+- **Prompt Text:** `双重曝光，融合，混合，叠加双重曝光图像，双重曝光风格，展现了智慧的兽人萨满萨尔（高尔）剪影的奇妙双重曝光构图，与他旅程中那些视觉冲击力强、标志性的艾泽拉斯景观和符号和谐地交织在一起。奥格瑞玛宏伟的红色尖塔和崎岖的峡谷，旋转天空下纳格兰翠绿的浮岛和先祖之魂，以及噼啪作响的元素能量（闪电、大地、水之漩涡）通过他形象的肌理向外回响。或许毁灭之锤那标志性的形状，或是部落/霜狼氏族的标志被巧妙地融入其中。这增添了领导者遗产、萨满之力以及部落韧性的层次感。背景保持着鲜明的对比，营造出美丽的张力，将所有焦点吸引到层次丰富的双重曝光上。其特点在于萨尔剪影内部丰富而略带粗犷的全彩色方案（大地色调、部落红、元素蓝与橙），以及用智慧与原始力量勾勒出每一处轮廓的有力而刻意的线条。`
 - **Example Image:** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299882639-bqp6v37enla.webp" alt="时尚杂志的封面" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744299880646-mtu5gatbetm.webp" alt="游戏角色" height="400">
 
 - **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
@@ -509,6 +523,18 @@ Turn my 4 images into 4 classic, single-color postage stamps using detailed line
 <img src="https://cdn.imgedify.com/imgedify/images/1744299884467-u34aush0cx8.webp" alt="萌化电影剧照" height="400">
 
 - **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+---
+
+### 邮票
+
+Turn my 4 images into 4 classic, single-color postage stamps using detailed lines and shading. Give 
+
+- **Model:** Style
+- **Prompt Text:** `Turn my 4 images into 4 classic, single-color postage stamps using detailed lines and shading. Give each their own color, Add a stamp value and fitting vintage-style text based on the subject. Make the image 3:4`
+- **Example Image:** 
+<img src="https://cdn.imgedify.com/imgedify/images/1744299886085-apxha71rus9.jpeg" alt="邮票" height="400">
+
+- **Author:** [samdape](https://x.com/samdape/status/1908438312475373741)
 ---
 
 ### 手写笔记风格图片
