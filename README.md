@@ -45,41 +45,41 @@ And many other amazing creators from the community who have shared their prompts
 ## Available Prompts
 
 ### Table of Contents
-1. [illustration](#illustration) - by [Gizem Akdag](https://x.com/gizakdag/status/1911781605569347976)
-2. [Turn your profile image into a sculpture!](#turn-your-profile-image-into-a-sculpture) - by [Umesh](https://x.com/umesh_ai/status/1905181058745971077)
-3. [Reality photo](#reality-photo) - by [ℂamellia 翊瑄](https://x.com/Camelliayang/status/1910671488115425315)
-4. [Turn  drawings into stunning photographs](#turn-drawings-into-stunning-photographs) - by [Umesh](https://x.com/umesh_ai/status/1910589711296430310)
-5. [讽刺漫画](#) - by [宝玉](https://x.com/dotey/status/1911988003729203648)
-6. [拟人化的 3D 形象](#-3d-) - by [宝玉](https://x.com/dotey/status/1911988003729203648)
-7. [微型立体场景呈现](#) - by [宝玉](https://x.com/berryxia_ai/status/1911666078838865957)
-8. [等距视角微缩场景](#) - by [Berryxia.AI](https://x.com/berryxia_ai/status/1911666078838865957)
-9. [摊开的古书](#) - by [dangjin](https://x.com/JinsFavorites/status/1911437215764185133)
-10. [泡罩药片包装图](#) - by [Terry](https://x.com/trxuanxw/status/1911940417828053221)
-11. [Isometric view of a city](#isometric-view-of-a-city) - by [Terry](https://x.com/trxuanxw/status/1906918197074473053)
-12. [泰坦尼克号经典场面](#) - by [balconychy(贝壳里奇)](https://x.com/balconychy/status/1911620533071835428)
-13. [立体浮雕风格](#) - by [balconychy(贝壳里奇)](https://x.com/balconychy/status/1911620533071835428)
-14. [Figure Box](#figure-box) - by [Howard Chen](https://x.com/hc_dsn/status/1908429874945233225)
-15. [Changer ages](#changer-ages) - by [Howard Chen](https://x.com/hc_dsn/status/1908734797763256631)
-16. [3D characters](#3d-characters) - by [Brett  Designjoy](https://x.com/BrettFromDJ/status/1910711941250621845)
-17. [action figure](#action-figure) - by [Eduardo Macouzet](https://x.com/eduardomacouzet/status/1910260355059548483)
-18. [fluffy logo](#fluffy-logo) - by [Gizem Akdag](https://x.com/gizakdag/status/1911460600535797926)
-19. [3D fluffy emojis](#3d-fluffy-emojis) - by [Gizem Akdag](https://x.com/gizakdag/status/1911075302941622512)
-20. [影视剧的角色手办](#) - by [AI进化论-花生](https://x.com/AlchainHust/status/1906997559937364052/photo/2)
-21. [3D-style icons](#3d-style-icons) - by [Amira Zairi](https://x.com/azed_ai/status/1906285785961406891)
-22. [3d avatar asset](#3d-avatar-asset) - by [AI Imagined](https://x.com/AIimagined/status/1906479539351589329)
-23. [action figure pack](#action-figure-pack) - by [Min Choi](https://x.com/minchoi/status/1910737237458776434)
-24. [3D character](#3d-character) - by [Amira Zairi](https://x.com/azed_ai/status/1911782508095840622)
-25. [claymation](#claymation) - by [Amira Zairi](https://x.com/hc_dsn/status/1911718985433027036)
-26. [Arcade diorama](#arcade-diorama) - by [Howard Chen](https://x.com/hc_dsn/status/1911718985433027036)
-27. [黛玉葬花](#) - by [宝玉](https://x.com/dotey/status/1911563718804295962)
-28. [工作间手办](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911639551640314147)
-29. [LinkedIn Photo](#linkedin-photo) - by [Howard Chen](https://x.com/hc_dsn/status/1911402784106201427)
-30. [把图片变成正在雕刻的雕塑](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911433310666203311)
-31. [沙滩雕塑](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911687123696304436)
-32. [速效快乐胶囊](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896)
-33. [“去 AI 感”密码](#-ai-) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911678504221245816)
-34. [微型立体场景](#) - by [宝玉](https://x.com/dotey/status/1911609122547449886)
-35. [照片涂鸦玩法](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+1. [typographic portrait](#typographic-portrait) - by [firatbilal](https://x.com/firatbilal/status/1911849629211050492)
+2. [illustration](#illustration) - by [Gizem Akdag](https://x.com/gizakdag/status/1911781605569347976)
+3. [Turn your profile image into a sculpture!](#turn-your-profile-image-into-a-sculpture) - by [Umesh](https://x.com/umesh_ai/status/1905181058745971077)
+4. [Reality photo](#reality-photo) - by [ℂamellia 翊瑄](https://x.com/Camelliayang/status/1910671488115425315)
+5. [Turn  drawings into stunning photographs](#turn-drawings-into-stunning-photographs) - by [Umesh](https://x.com/umesh_ai/status/1910589711296430310)
+6. [讽刺漫画](#) - by [宝玉](https://x.com/dotey/status/1911988003729203648)
+7. [拟人化的 3D 形象](#-3d-) - by [宝玉](https://x.com/dotey/status/1911988003729203648)
+8. [微型立体场景呈现](#) - by [宝玉](https://x.com/berryxia_ai/status/1911666078838865957)
+9. [等距视角微缩场景](#) - by [Berryxia.AI](https://x.com/berryxia_ai/status/1911666078838865957)
+10. [摊开的古书](#) - by [dangjin](https://x.com/JinsFavorites/status/1911437215764185133)
+11. [泡罩药片包装图](#) - by [Terry](https://x.com/trxuanxw/status/1911940417828053221)
+12. [Isometric view of a city](#isometric-view-of-a-city) - by [Terry](https://x.com/trxuanxw/status/1906918197074473053)
+13. [泰坦尼克号经典场面](#) - by [balconychy(贝壳里奇)](https://x.com/balconychy/status/1911620533071835428)
+14. [立体浮雕风格](#) - by [balconychy(贝壳里奇)](https://x.com/balconychy/status/1911620533071835428)
+15. [Figure Box](#figure-box) - by [Howard Chen](https://x.com/hc_dsn/status/1908429874945233225)
+16. [Changer ages](#changer-ages) - by [Howard Chen](https://x.com/hc_dsn/status/1908734797763256631)
+17. [3D characters](#3d-characters) - by [Brett  Designjoy](https://x.com/BrettFromDJ/status/1910711941250621845)
+18. [action figure](#action-figure) - by [Eduardo Macouzet](https://x.com/eduardomacouzet/status/1910260355059548483)
+19. [fluffy logo](#fluffy-logo) - by [Gizem Akdag](https://x.com/gizakdag/status/1911460600535797926)
+20. [3D fluffy emojis](#3d-fluffy-emojis) - by [Gizem Akdag](https://x.com/gizakdag/status/1911075302941622512)
+21. [影视剧的角色手办](#) - by [AI进化论-花生](https://x.com/AlchainHust/status/1906997559937364052/photo/2)
+22. [3D-style icons](#3d-style-icons) - by [Amira Zairi](https://x.com/azed_ai/status/1906285785961406891)
+23. [3d avatar asset](#3d-avatar-asset) - by [AI Imagined](https://x.com/AIimagined/status/1906479539351589329)
+24. [action figure pack](#action-figure-pack) - by [Min Choi](https://x.com/minchoi/status/1910737237458776434)
+25. [3D character](#3d-character) - by [Amira Zairi](https://x.com/azed_ai/status/1911782508095840622)
+26. [claymation](#claymation) - by [Amira Zairi](https://x.com/hc_dsn/status/1911718985433027036)
+27. [Arcade diorama](#arcade-diorama) - by [Howard Chen](https://x.com/hc_dsn/status/1911718985433027036)
+28. [黛玉葬花](#) - by [宝玉](https://x.com/dotey/status/1911563718804295962)
+29. [工作间手办](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911639551640314147)
+30. [LinkedIn Photo](#linkedin-photo) - by [Howard Chen](https://x.com/hc_dsn/status/1911402784106201427)
+31. [把图片变成正在雕刻的雕塑](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911433310666203311)
+32. [沙滩雕塑](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911687123696304436)
+33. [速效快乐胶囊](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896)
+34. [“去 AI 感”密码](#-ai-) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911678504221245816)
+35. [微型立体场景](#) - by [宝玉](https://x.com/dotey/status/1911609122547449886)
 36. [明信片](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 37. [手帐玩法](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 38. [3D 图标](#3d-) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
@@ -95,11 +95,24 @@ And many other amazing creators from the community who have shared their prompts
 48. [时尚杂志的封面](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 49. [游戏角色](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 50. [照片涂鸦玩法](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-51. [手写笔记风格图片](#) - by [pongpong1](https://linux.do/t/topic/530679)
-52. [旅游手账插画](#) - by [宝玉](https://x.com/dotey/status/1907819985533071462)
-53. [Q版中式婚礼](#q) - by [balconychy(贝壳里奇)](https://x.com/balconychy/status/1909418699150237917)
+51. [照片涂鸦玩法](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+52. [手写笔记风格图片](#) - by [pongpong1](https://linux.do/t/topic/530679)
+53. [旅游手账插画](#) - by [宝玉](https://x.com/dotey/status/1907819985533071462)
+54. [Q版中式婚礼](#q) - by [balconychy(贝壳里奇)](https://x.com/balconychy/status/1909418699150237917)
 
 Below is a list of all available prompts with their details:
+
+### typographic portrait
+
+Recreate the attached image as Typography Portrait. Subject is happiness.
+
+- **Model:** gpt4o
+- **Prompt Text:** `Recreate the attached image as Typography Portrait. Subject is happiness.`
+- **Example Image:** 
+<img src="https://cdn.imgedify.com/media/image/2025/04/2f7a7cf9f5bc774d063f1f74e8bff249.png" alt="typographic portrait" height="400">
+
+- **Author:** [firatbilal](https://x.com/firatbilal/status/1911849629211050492)
+---
 
 ### illustration
 
@@ -594,18 +607,6 @@ Generate a portrait ratio photo with this prompt A hyper-realistic diorama of a 
 - **Author:** [宝玉](https://x.com/dotey/status/1911609122547449886)
 ---
 
-### 照片涂鸦玩法
-
-生成图片，把它打印出来，然后用红墨水疯狂地加上手写中文批注、涂鸦、乱画，如果你想的话，还可以加点小剪贴画
-
-- **Model:** gpt4o
-- **Prompt Text:** `生成图片，把它打印出来，然后用红墨水疯狂地加上手写中文批注、涂鸦、乱画，如果你想的话，还可以加点小剪贴画`
-- **Example Image:** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299878007-3i4361kt83t.webp" alt="照片涂鸦玩法" height="400">
-
-- **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
----
-
 ### 明信片
 
 帮我把这张照片做成一张 3:2 的明信片，左边是一幅 扁平多色插画风格（参考某某图）的画面，插画内容参考这张照片，比如：建筑/风景/人物等细节，插画的边缘请做成 不规则异形边框，右边用手写风格英文写一
@@ -782,6 +783,18 @@ Turn my 4 images into 4 classic, single-color postage stamps using detailed line
 - **Prompt Text:** `用蓝色画笔画一些可爱的涂鸦与画面主体产生互动，可以是人物也可以是动物或者其他东西，生成 2:3 图片，笔触的质感强一些`
 - **Example Image:** 
 <img src="https://cdn.imgedify.com/imgedify/images/1744299879567-0tou7pwdqrk8.webp" alt="照片涂鸦玩法" height="400">
+
+- **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+---
+
+### 照片涂鸦玩法
+
+生成图片，把它打印出来，然后用红墨水疯狂地加上手写中文批注、涂鸦、乱画，如果你想的话，还可以加点小剪贴画
+
+- **Model:** gpt4o
+- **Prompt Text:** `生成图片，把它打印出来，然后用红墨水疯狂地加上手写中文批注、涂鸦、乱画，如果你想的话，还可以加点小剪贴画`
+- **Example Image:** 
+<img src="https://cdn.imgedify.com/imgedify/images/1744299878007-3i4361kt83t.webp" alt="照片涂鸦玩法" height="400">
 
 - **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
