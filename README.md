@@ -45,64 +45,90 @@ And many other amazing creators from the community who have shared their prompts
 ## Available Prompts
 
 ### Table of Contents
-1. [keycap scene](#keycap-scene) - by [Ege](https://x.com/egeberkina/status/1911828402727784525)
-2. [low poly](#low-poly) - by [Amira Zairi](https://x.com/azed_ai/status/1912084257918595342)
-3. [typographic portrait](#typographic-portrait) - by [firatbilal](https://x.com/firatbilal/status/1911849629211050492)
-4. [illustration](#illustration) - by [Gizem Akdag](https://x.com/gizakdag/status/1911781605569347976)
-5. [Turn your profile image into a sculpture!](#turn-your-profile-image-into-a-sculpture) - by [Umesh](https://x.com/umesh_ai/status/1905181058745971077)
-6. [Reality photo](#reality-photo) - by [ℂamellia 翊瑄](https://x.com/Camelliayang/status/1910671488115425315)
-7. [Turn  drawings into stunning photographs](#turn-drawings-into-stunning-photographs) - by [Umesh](https://x.com/umesh_ai/status/1910589711296430310)
-8. [讽刺漫画](#) - by [宝玉](https://x.com/dotey/status/1911988003729203648)
-9. [拟人化的 3D 形象](#-3d-) - by [宝玉](https://x.com/dotey/status/1911988003729203648)
-10. [微型立体场景呈现](#) - by [宝玉](https://x.com/berryxia_ai/status/1911666078838865957)
-11. [等距视角微缩场景](#) - by [Berryxia.AI](https://x.com/berryxia_ai/status/1911666078838865957)
-12. [摊开的古书](#) - by [dangjin](https://x.com/JinsFavorites/status/1911437215764185133)
-13. [泡罩药片包装图](#) - by [Terry](https://x.com/trxuanxw/status/1911940417828053221)
-14. [Isometric view of a city](#isometric-view-of-a-city) - by [Terry](https://x.com/trxuanxw/status/1906918197074473053)
-15. [泰坦尼克号经典场面](#) - by [balconychy(贝壳里奇)](https://x.com/balconychy/status/1911620533071835428)
-16. [立体浮雕风格](#) - by [balconychy(贝壳里奇)](https://x.com/balconychy/status/1911620533071835428)
-17. [Figure Box](#figure-box) - by [Howard Chen](https://x.com/hc_dsn/status/1908429874945233225)
-18. [Changer ages](#changer-ages) - by [Howard Chen](https://x.com/hc_dsn/status/1908734797763256631)
-19. [3D characters](#3d-characters) - by [Brett  Designjoy](https://x.com/BrettFromDJ/status/1910711941250621845)
-20. [action figure](#action-figure) - by [Eduardo Macouzet](https://x.com/eduardomacouzet/status/1910260355059548483)
-21. [fluffy logo](#fluffy-logo) - by [Gizem Akdag](https://x.com/gizakdag/status/1911460600535797926)
-22. [3D fluffy emojis](#3d-fluffy-emojis) - by [Gizem Akdag](https://x.com/gizakdag/status/1911075302941622512)
-23. [影视剧的角色手办](#) - by [AI进化论-花生](https://x.com/AlchainHust/status/1906997559937364052/photo/2)
-24. [3D-style icons](#3d-style-icons) - by [Amira Zairi](https://x.com/azed_ai/status/1906285785961406891)
-25. [3d avatar asset](#3d-avatar-asset) - by [AI Imagined](https://x.com/AIimagined/status/1906479539351589329)
-26. [action figure pack](#action-figure-pack) - by [Min Choi](https://x.com/minchoi/status/1910737237458776434)
-27. [3D character](#3d-character) - by [Amira Zairi](https://x.com/azed_ai/status/1911782508095840622)
-28. [claymation](#claymation) - by [Amira Zairi](https://x.com/hc_dsn/status/1911718985433027036)
-29. [Arcade diorama](#arcade-diorama) - by [Howard Chen](https://x.com/hc_dsn/status/1911718985433027036)
-30. [黛玉葬花](#) - by [宝玉](https://x.com/dotey/status/1911563718804295962)
-31. [工作间手办](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911639551640314147)
-32. [LinkedIn Photo](#linkedin-photo) - by [Howard Chen](https://x.com/hc_dsn/status/1911402784106201427)
-33. [把图片变成正在雕刻的雕塑](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911433310666203311)
-34. [沙滩雕塑](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911687123696304436)
-35. [速效快乐胶囊](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896)
-36. [“去 AI 感”密码](#-ai-) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911678504221245816)
-37. [微型立体场景](#) - by [宝玉](https://x.com/dotey/status/1911609122547449886)
-38. [3D 图标](#3d-) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-39. [3D 图标](#3d-) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-40. [主题键帽](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-41. [主题键帽](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+1. [passport page](#passport-page) - by [89'S](https://x.com/M_w14_/status/1912146666410459618)
+2. [PSA](#psa) - by [gnrly.xyz](https://x.com/gnrlyxyz/status/1912188062278238513)
+3. [keycap scene](#keycap-scene) - by [Ege](https://x.com/egeberkina/status/1911828402727784525)
+4. [low poly](#low-poly) - by [Amira Zairi](https://x.com/azed_ai/status/1912084257918595342)
+5. [typographic portrait](#typographic-portrait) - by [firatbilal](https://x.com/firatbilal/status/1911849629211050492)
+6. [illustration](#illustration) - by [Gizem Akdag](https://x.com/gizakdag/status/1911781605569347976)
+7. [Turn your profile image into a sculpture!](#turn-your-profile-image-into-a-sculpture) - by [Umesh](https://x.com/umesh_ai/status/1905181058745971077)
+8. [Reality photo](#reality-photo) - by [ℂamellia 翊瑄](https://x.com/Camelliayang/status/1910671488115425315)
+9. [Turn  drawings into stunning photographs](#turn-drawings-into-stunning-photographs) - by [Umesh](https://x.com/umesh_ai/status/1910589711296430310)
+10. [讽刺漫画](#) - by [宝玉](https://x.com/dotey/status/1911988003729203648)
+11. [拟人化的 3D 形象](#-3d-) - by [宝玉](https://x.com/dotey/status/1911988003729203648)
+12. [微型立体场景呈现](#) - by [宝玉](https://x.com/berryxia_ai/status/1911666078838865957)
+13. [等距视角微缩场景](#) - by [Berryxia.AI](https://x.com/berryxia_ai/status/1911666078838865957)
+14. [摊开的古书](#) - by [dangjin](https://x.com/JinsFavorites/status/1911437215764185133)
+15. [泡罩药片包装图](#) - by [Terry](https://x.com/trxuanxw/status/1911940417828053221)
+16. [Isometric view of a city](#isometric-view-of-a-city) - by [Terry](https://x.com/trxuanxw/status/1906918197074473053)
+17. [泰坦尼克号经典场面](#) - by [balconychy(贝壳里奇)](https://x.com/balconychy/status/1911620533071835428)
+18. [立体浮雕风格](#) - by [balconychy(贝壳里奇)](https://x.com/balconychy/status/1911620533071835428)
+19. [Figure Box](#figure-box) - by [Howard Chen](https://x.com/hc_dsn/status/1908429874945233225)
+20. [Changer ages](#changer-ages) - by [Howard Chen](https://x.com/hc_dsn/status/1908734797763256631)
+21. [3D characters](#3d-characters) - by [Brett  Designjoy](https://x.com/BrettFromDJ/status/1910711941250621845)
+22. [action figure](#action-figure) - by [Eduardo Macouzet](https://x.com/eduardomacouzet/status/1910260355059548483)
+23. [fluffy logo](#fluffy-logo) - by [Gizem Akdag](https://x.com/gizakdag/status/1911460600535797926)
+24. [3D fluffy emojis](#3d-fluffy-emojis) - by [Gizem Akdag](https://x.com/gizakdag/status/1911075302941622512)
+25. [影视剧的角色手办](#) - by [AI进化论-花生](https://x.com/AlchainHust/status/1906997559937364052/photo/2)
+26. [3D-style icons](#3d-style-icons) - by [Amira Zairi](https://x.com/azed_ai/status/1906285785961406891)
+27. [3d avatar asset](#3d-avatar-asset) - by [AI Imagined](https://x.com/AIimagined/status/1906479539351589329)
+28. [action figure pack](#action-figure-pack) - by [Min Choi](https://x.com/minchoi/status/1910737237458776434)
+29. [3D character](#3d-character) - by [Amira Zairi](https://x.com/azed_ai/status/1911782508095840622)
+30. [claymation](#claymation) - by [Amira Zairi](https://x.com/hc_dsn/status/1911718985433027036)
+31. [Arcade diorama](#arcade-diorama) - by [Howard Chen](https://x.com/hc_dsn/status/1911718985433027036)
+32. [黛玉葬花](#) - by [宝玉](https://x.com/dotey/status/1911563718804295962)
+33. [工作间手办](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911639551640314147)
+34. [LinkedIn Photo](#linkedin-photo) - by [Howard Chen](https://x.com/hc_dsn/status/1911402784106201427)
+35. [把图片变成正在雕刻的雕塑](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911433310666203311)
+36. [沙滩雕塑](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911687123696304436)
+37. [速效快乐胶囊](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896)
+38. [“去 AI 感”密码](#-ai-) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911678504221245816)
+39. [微型立体场景](#) - by [宝玉](https://x.com/dotey/status/1911609122547449886)
+40. [明信片](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+41. [时尚杂志的封面](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 42. [微观世界](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-43. [微观世界](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+43. [3D 图标](#3d-) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 44. [手绘风格的信息图卡片](#) - by [宝玉](https://x.com/dotey/status/1907903480678985784)
-45. [手帐玩法](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-46. [邮票](#) - by [samdape](https://x.com/samdape/status/1908438312475373741)
-47. [萌化电影剧照](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-48. [时尚杂志的封面](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-49. [游戏角色](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-50. [照片涂鸦玩法](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-51. [照片涂鸦玩法](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-52. [明信片](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-53. [手帐玩法](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-54. [手写笔记风格图片](#) - by [pongpong1](https://linux.do/t/topic/530679)
-55. [旅游手账插画](#) - by [宝玉](https://x.com/dotey/status/1907819985533071462)
-56. [Q版中式婚礼](#q) - by [balconychy(贝壳里奇)](https://x.com/balconychy/status/1909418699150237917)
+45. [主题键帽](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+46. [主题键帽](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+47. [微观世界](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+48. [3D 图标](#3d-) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+49. [邮票](#) - by [samdape](https://x.com/samdape/status/1908438312475373741)
+50. [萌化电影剧照](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+51. [游戏角色](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+52. [照片涂鸦玩法](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+53. [照片涂鸦玩法](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+54. [手帐玩法](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+55. [手帐玩法](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+56. [手写笔记风格图片](#) - by [pongpong1](https://linux.do/t/topic/530679)
+57. [旅游手账插画](#) - by [宝玉](https://x.com/dotey/status/1907819985533071462)
+58. [Q版中式婚礼](#q) - by [balconychy(贝壳里奇)](https://x.com/balconychy/status/1909418699150237917)
 
 Below is a list of all available prompts with their details:
+
+### passport page
+
+Create a realistic passport page with an entry stamp for [{City}, {Country}]. The stamp should say "
+
+- **Model:** gpt4o
+- **Prompt Text:** `Create a realistic passport page with an entry stamp for [{City}, {Country}]. The stamp should say "Welcome to {City}" in bold English, designed in a round or oval shape with decorative borders. Include the word "ARRIVAL" and a fictional date like "15 APR 2025" Incorporate a subtle silhouette of {Main Landmark} as a background detail within the stamp. Use deep blue or red ink with light smudges for added realism. The stamp should appear slightly angled, as if hand-pressed. The passport page should show visible paper texture and security patterns.`
+- **Example Image:** 
+<img src="https://pbs.twimg.com/media/GolOPEkXkAA15HM?format=jpg&name=small" alt="passport page" height="400">
+
+- **Author:** [89'S](https://x.com/M_w14_/status/1912146666410459618)
+---
+
+### PSA
+
+Pretend you are PSA, the Collectibles Authentication and Grading Service. Instead of cards, you will
+
+- **Model:** gpt4o
+- **Prompt Text:** `Pretend you are PSA, the Collectibles Authentication and Grading Service. Instead of cards, you will be grading the aura of the character in the image I provide. Be strict and objective when assigning a grade, using PSA’s official scale: PSA 1 = PR, PSA 1.5 = FR, PSA 2 = GOOD, PSA 3 = VG, PSA 4 = VG-EX, PSA 5 = EX, PSA 6 = EX-MT, PSA 7 = NM, PSA 8 = NM-MT, PSA 9 = MINT, PSA 10 = GEM MT. When done grading, create a PSA slab with the image provided, cropped to the size of a real card. The label at the top must follow the official PSA format. On the left, display the title "GNRLYXYZ" and directly below it, "1/1". Beneath that, place the PSA-style barcode only. On the right side of the label, stack the grade label from the PSA scale at the top, and the numeric grade from the PSA scale at the bottom. Below that, display the certification number. Ensure all text in the label is uniform in size and has balanced padding from the red border, exactly as seen on authentic PSA slabs. Place the slab on a white background and display the full slab. Do NOT add any text or labels on the card.`
+- **Example Image:** 
+<img src="https://pbs.twimg.com/media/GonUkYBWIAAghmk?format=jpg&name=small" alt="PSA" height="400">
+
+- **Author:** [gnrly.xyz](https://x.com/gnrlyxyz/status/1912188062278238513)
+---
 
 ### keycap scene
 
@@ -111,7 +137,7 @@ A photorealistic ESC keycap scene shows a miniature cozy living room setup. Insi
 - **Model:** gpt4o
 - **Prompt Text:** `A photorealistic ESC keycap scene shows a miniature cozy living room setup. Inside: a glowing red Netflix screen, a plush red couch, popcorn bowl, and throw blanket. A small figure lounges with feet up, watching content. The red “N” logo glows from behind like mood lighting. Outside: cool tech-blue reflections on F1, Shift, and Q keys. The word “ESC” is subtly present in a glassy fog on top of the cap.`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/Gob-vIDX0AALzM6?format=jpg&name=small" alt="keycap scene" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744757093789-eshhriiziej.jpeg" alt="keycap scene" height="400">
 
 - **Author:** [Ege](https://x.com/egeberkina/status/1911828402727784525)
 ---
@@ -123,7 +149,7 @@ A low-poly 3D render of a camel, built from clean triangular facets with flat sa
 - **Model:** gpt4o
 - **Prompt Text:** `A low-poly 3D render of a camel, built from clean triangular facets with flat sandy beige and burnt orange surfaces. The environment is a stylized digital desert with minimal geometry and ambient occlusion.`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/GokWfW6bgAAT0AR?format=jpg" alt="low poly" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744757092419-xgwkh25sx4k.jpeg" alt="low poly" height="400">
 
 - **Author:** [Amira Zairi](https://x.com/azed_ai/status/1912084257918595342)
 ---
@@ -147,7 +173,7 @@ Transform a simple flat vector illustration of a swan into a soft, 3D fluffy obj
 - **Model:** gpt4o
 - **Prompt Text:** `Transform a simple flat vector illustration of a swan into a soft, 3D fluffy object. Use the exact colors. The shape is fully covered in fur, with hyperrealistic hair texture and soft shadows. The object is centered on a clean, light gray background and floats gently in space. The style is surreal, tactile, and modern, evoking a sense of comfort and playfulness. Studio lighting, high-resolution render.`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/GogBf-ZWsAAbcbS?format=jpg&name=medium" alt="illustration" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744757090568-rtyh62sppd.jpeg" alt="illustration" height="400">
 
 - **Author:** [Gizem Akdag](https://x.com/gizakdag/status/1911781605569347976)
 ---
@@ -159,7 +185,7 @@ A photorealistic image of an ultra-detailed sculpture of the subject in image ma
 - **Model:** gpt4o
 - **Prompt Text:** `A photorealistic image of an ultra-detailed sculpture of the subject in image made of shining marble. The sculpture should display smooth and reflective marble surface, emphasizing its luster and artistic craftsmanship. The design is elegant, highlighting the beauty and depth of marble. The lighting in the image should enhance the sculpture's contours and textures, creating a visually stunning and mesmerizing effect`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/GnCQEVsbYAAITPC?format=jpg&name=large" alt="Turn your profile image into a sculpture!" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744757088761-1t99r4fmvon.jpeg" alt="Turn your profile image into a sculpture!" height="400">
 
 - **Author:** [Umesh](https://x.com/umesh_ai/status/1905181058745971077)
 ---
@@ -171,7 +197,7 @@ Turn this drawings into reality photo
 - **Model:** gpt4o
 - **Prompt Text:** `Turn this drawings into reality photo`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/GoQRlOvXUAE1d12?format=jpg&name=large" alt="Reality photo" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744757087017-6ggznod0ypl.jpeg" alt="Reality photo" height="400">
 
 - **Author:** [ℂamellia 翊瑄](https://x.com/Camelliayang/status/1910671488115425315)
 ---
@@ -183,7 +209,7 @@ Turn the drawings into stunning  photographs
 - **Model:** gpt4o
 - **Prompt Text:** `Turn the drawings into stunning  photographs`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/GoPHJdCXgAAfObm?format=jpg&name=medium" alt="Turn  drawings into stunning photographs" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744757084917-y9skvps02se.jpeg" alt="Turn  drawings into stunning photographs" height="400">
 
 - **Author:** [Umesh](https://x.com/umesh_ai/status/1910589711296430310)
 ---
@@ -199,7 +225,7 @@ Turn the drawings into stunning  photographs
 川普：我手里有牌
 马斯克：别忘了你手里的牌是Made In China`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/Goi5dGzX0AAoCZ9?format=jpg&name=large" alt="讽刺漫画" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744757083158-waufqk26za.jpeg" alt="讽刺漫画" height="400">
 
 - **Author:** [宝玉](https://x.com/dotey/status/1911988003729203648)
 ---
@@ -211,7 +237,7 @@ Turn the drawings into stunning  photographs
 - **Model:** gpt4o
 - **Prompt Text:** `給【西北工业大学】画一个拟人化的3D Q版美少女形象，体现学校【航空航天航海三航】特色`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/Goi9-VLWkAA6Qlv?format=jpg&name=large" alt="拟人化的 3D 形象" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744757081210-3nyzm61uww.jpeg" alt="拟人化的 3D 形象" height="400">
 
 - **Author:** [宝玉](https://x.com/dotey/status/1911988003729203648)
 ---
@@ -223,7 +249,7 @@ Turn the drawings into stunning  photographs
 - **Model:** gpt4o
 - **Prompt Text:** `微型立体场景呈现，运用移轴摄影的技法，呈现出Q版《水浒传》电视剧里面潘金莲洗澡的场景`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/Godrs_yW8AA8op4?format=jpg&name=medium" alt="微型立体场景呈现" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744757080041-4q8v0sh2m49.jpeg" alt="微型立体场景呈现" height="400">
 
 - **Author:** [宝玉](https://x.com/berryxia_ai/status/1911666078838865957)
 ---
@@ -235,7 +261,7 @@ Turn the drawings into stunning  photographs
 - **Model:** gpt4o
 - **Prompt Text:** `绘制 3D 渲染的可爱C4D质感等距视角微缩场景，呈现出一个以 【XX】场景为核心的 Q 版角色世界。  场景采用温暖的电影感光线、柔和阴影与移轴模糊效果，材质上以哑光黏土与柔软塑胶为主。  环境叙事元素丰富，搭配有【XX】相关的等标志性道具与装饰性灯光，展现出生动细致的场景氛围。16:9 HDR`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/GoeZie6XAAA-oVJ?format=jpg&name=small" alt="等距视角微缩场景" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744757079319-oud0ihc241.jpeg" alt="等距视角微缩场景" height="400">
 
 - **Author:** [Berryxia.AI](https://x.com/berryxia_ai/status/1911666078838865957)
 ---
@@ -247,7 +273,7 @@ Turn the drawings into stunning  photographs
 - **Model:** gpt4o
 - **Prompt Text:** `创作一个3D场景，展示一本摊开的古书，书页泛黄，边缘破损，放在木桌上。左页为密密麻麻的古文排版，右页呈现微缩场景，带有裸眼3D效果：一个庭院，庭院内有盛开的樱花树，粉色花瓣飘落，草地上站着一位身穿粉色汉服的女子，手持扫帚，正在清扫落花。庭院背景有一座传统中式建筑，红柱青瓦，周围有小树和岩石装饰。书页周围有微弱光晕，营造立体感，桌上散落几片樱花瓣，背景为柔和的米黄色，整体氛围充满古风诗意和历史感。细节精致，色彩淡雅，展现古书的沧桑感和庭院的宁静美感。`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/GobJs_AWAAAFOoz?format=png&name=900x900" alt="摊开的古书" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744757077391-9wu1a585ovn.png" alt="摊开的古书" height="400">
 
 - **Author:** [dangjin](https://x.com/JinsFavorites/status/1911437215764185133)
 ---
@@ -261,7 +287,7 @@ Turn the drawings into stunning  photographs
 - **Prompt Text:** `一个高度写实、细节丰富的泡罩药片包装图，药片以 2x5 的布局排列成两列共十颗。每一颗药丸代表一个不同的｛食物｝。
 所有药丸封存在带有光泽的透明泡壳中，背景为带有细致斜纹的银色铝箔底板。整体视觉风格为极简主义的商业产品摄影风，采用柔和的环境光照，背景为中性色的米色，突出药片主体。`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/GoiSKvtWcAAsRnc?format=jpg&name=900x900" alt="泡罩药片包装图" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744757076209-1bl976t37hm.jpeg" alt="泡罩药片包装图" height="400">
 
 - **Author:** [Terry](https://x.com/trxuanxw/status/1911940417828053221)
 ---
@@ -273,7 +299,7 @@ Isometric miniature-model view of {city} encapsulated within a cutaway box viewe
 - **Model:** gpt4o
 - **Prompt Text:** `Isometric miniature-model view of {city} encapsulated within a cutaway box viewed from a clean, top-down 45° angle. {weather} weather effects subtly integrated into the scene, with {specific weather effects like snowflakes, clouds, fog, rain, sun etc.} softly interacting with the city above. The city’s base should appear thin and minimal, focusing on the city structures with a more delicate, less pronounced foundation. Physically-based rendering (PBR), realistic lighting. Solid-color background outside the box for clarity and minimalism. Centered composition, emphasizing a precise and delicate diorama aesthetic.`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/GnfPCSxXkAAOU96?format=jpg&name=medium" alt="Isometric view of a city" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744757074458-4jlvwfkgrx9.jpeg" alt="Isometric view of a city" height="400">
 
 - **Author:** [Terry](https://x.com/trxuanxw/status/1906918197074473053)
 ---
@@ -292,7 +318,7 @@ Isometric miniature-model view of {city} encapsulated within a cutaway box viewe
 此时天色呈现出黄昏的暖色调，大海在船下延展 。
 除了人物用Q版3D造型以外，其他环境都是实物。`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/GoFilexXkAAl4sf?format=jpg&name=small" alt="泰坦尼克号经典场面" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744757072995-0m89ls2qqw2.jpeg" alt="泰坦尼克号经典场面" height="400">
 
 - **Author:** [balconychy(贝壳里奇)](https://x.com/balconychy/status/1911620533071835428)
 ---
@@ -319,7 +345,7 @@ Isometric miniature-model view of {city} encapsulated within a cutaway box viewe
 
 色彩：以鲜艳透明的橙、白为主调，鲜明且富有张力。`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/Godwd5LX0AAsGNt?format=jpg&name=900x900" alt="立体浮雕风格" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744757071771-w5cp06shmza.jpeg" alt="立体浮雕风格" height="400">
 
 - **Author:** [balconychy(贝壳里奇)](https://x.com/balconychy/status/1911620533071835428)
 ---
@@ -331,7 +357,7 @@ portrait ratio, create a image, inspired by Funko pop figure box style in isomet
 - **Model:** gpt4o
 - **Prompt Text:** `portrait ratio, create a image, inspired by Funko pop figure box style in isometric style, adding a title "Real World Edition" to the box, featuring an exhausting graphic designer with accessories on his side(apple laptop, phone, glasses, hat, coffee),and demo the figure beside the box, with photorealistic style`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/Gnwba3da0AA_7Lx?format=jpg&name=900x900" alt="Figure Box" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744757069880-fjgqswtflsi.jpeg" alt="Figure Box" height="400">
 
 - **Author:** [Howard Chen](https://x.com/hc_dsn/status/1908429874945233225)
 ---
@@ -355,7 +381,7 @@ Turn the real photo on the right into a stylized 3D character illustration like 
 - **Model:** gpt4o
 - **Prompt Text:** `Turn the real photo on the right into a stylized 3D character illustration like the character in the left image. Smooth, clay-like textures. Soft lighting with a subtle glow. Friendly and cartoonish expression. High attention to detail and personality.`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/GoQ1UEYXgAA_MhR?format=jpg" alt="3D characters" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744757068692-trus9xfwxoe.jpeg" alt="3D characters" height="400">
 
 - **Author:** [Brett  Designjoy](https://x.com/BrettFromDJ/status/1910711941250621845)
 ---
@@ -367,7 +393,7 @@ Draw an action figure toy (barbie doll) of the person in this photo. The figure 
 - **Model:** gpt4o
 - **Prompt Text:** `Draw an action figure toy (barbie doll) of the person in this photo. The figure should be full figure and displayed in it original blister pack packaging. On top of the box is the name of the toy "add name" with "headline" across a single line of text. In the blister pack packaging, next to the figure show the toy's accessories including a - add accessories`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/GoKbP-5WIAAy8Xs?format=jpg&name=900x900" alt="action figure" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744757067489-nrbua2ez19c.jpeg" alt="action figure" height="400">
 
 - **Author:** [Eduardo Macouzet](https://x.com/eduardomacouzet/status/1910260355059548483)
 ---
@@ -379,7 +405,7 @@ Transform a simple flat vector icon of Figma logo into a soft, 3D fluffy object.
 - **Model:** gpt4o
 - **Prompt Text:** `Transform a simple flat vector icon of Figma logo into a soft, 3D fluffy object. Use the exact colors. The shape is fully covered in fur, with hyperrealistic hair texture and soft shadows. The object is centered on a clean, light gray background and floats gently in space. The style is surreal, tactile, and modern, evoking a sense of comfort and playfulness. Studio lighting, high-resolution render.`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/GobeVVGW8AAv7mc?format=jpg&name=small" alt="fluffy logo" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744757066475-wu53p39d7e.jpeg" alt="fluffy logo" height="400">
 
 - **Author:** [Gizem Akdag](https://x.com/gizakdag/status/1911460600535797926)
 ---
@@ -391,7 +417,7 @@ Transform a simple flat vector icon of [] into a soft, 3D fluffy object. The sha
 - **Model:** gpt4o
 - **Prompt Text:** `Transform a simple flat vector icon of [] into a soft, 3D fluffy object. The shape is fully covered in fur, with hyperrealistic hair texture and soft shadows. The object is centered on a clean, light gray background and floats gently in space. The style is surreal, tactile, and modern, evoking a sense of comfort and playfulness. Studio lighting, high-resolution render.`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/GoV_vpPWoAA67Ed?format=jpg&name=360x360" alt="3D fluffy emojis" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744757065809-cviqdbkce3b.jpeg" alt="3D fluffy emojis" height="400">
 
 - **Author:** [Gizem Akdag](https://x.com/gizakdag/status/1911075302941622512)
 ---
@@ -414,7 +440,7 @@ Packaging Design:  Place the action figure inside a detailed, collectible toy bo
 
 Visual Style:  Render the entire figure, accessories, and packaging in a highly realistic, slightly cartoonish style to capture the essence of the character while keeping a lifelike toy aesthetic.`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/GncEGzsbQAAFqSk?format=jpg&name=large" alt="影视剧的角色手办" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744757064249-2auwbv1iufv.jpeg" alt="影视剧的角色手办" height="400">
 
 - **Author:** [AI进化论-花生](https://x.com/AlchainHust/status/1906997559937364052/photo/2)
 ---
@@ -426,7 +452,7 @@ minimalist 3D render, [Subject], soft matte finish, black and antique gold detai
 - **Model:** gpt4o
 - **Prompt Text:** `minimalist 3D render, [Subject], soft matte finish, black and antique gold details, pristine white backdrop, isometric angle, ambient glow, feathered shadows, simple and elegant`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/GnR80cnbYAAfV3i?format=jpg&name=small" alt="3D-style icons" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744757063151-fjktfhmchbo.jpeg" alt="3D-style icons" height="400">
 
 - **Author:** [Amira Zairi](https://x.com/azed_ai/status/1906285785961406891)
 ---
@@ -438,7 +464,7 @@ Create a 3d avatar asset, 8 different profiles/poses, different actions, maintai
 - **Model:** gpt4o
 - **Prompt Text:** `Create a 3d avatar asset, 8 different profiles/poses, different actions, maintaining consistency in character, 16:9 aspect ratio`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/GnUDdykbEAA9bka?format=jpg&name=small" alt="3d avatar asset" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744757062094-fi2xmacj1zi.jpeg" alt="3d avatar asset" height="400">
 
 - **Author:** [AI Imagined](https://x.com/AIimagined/status/1906479539351589329)
 ---
@@ -450,7 +476,7 @@ create action figure pack based on my conversations
 - **Model:** gpt4o
 - **Prompt Text:** `create action figure pack based on my conversations`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/GoRNC14XgAAjhZA?format=jpg&name=900x900" alt="action figure pack" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744757060899-e3ujr30mh8a.jpeg" alt="action figure pack" height="400">
 
 - **Author:** [Min Choi](https://x.com/minchoi/status/1910737237458776434)
 ---
@@ -462,7 +488,7 @@ A 3D-rendered digital illustration of a young man in his mid-20s with light skin
 - **Model:** gpt4o
 - **Prompt Text:** `A 3D-rendered digital illustration of a young man in his mid-20s with light skin and wavy reddish-brown hair, wearing a camel-colored blazer, an off-white sweater, dark blue jeans, and black sneakers. He stands against a clean, off-white background, showing a [{emotion}] expression with a [{body position}] posture, stylized in a semi-realistic cartoon style with soft lighting and high detail.`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/GogEDx8bwAAD648?format=jpg&name=large" alt="3D character" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744757060027-awc0crfvv16.jpeg" alt="3D character" height="400">
 
 - **Author:** [Amira Zairi](https://x.com/azed_ai/status/1911782508095840622)
 ---
@@ -474,7 +500,7 @@ A claymation-style grumpy wizard, sculpted with rough fingerprints, hand-painted
 - **Model:** gpt4o
 - **Prompt Text:** `A claymation-style grumpy wizard, sculpted with rough fingerprints, hand-painted imperfections, and smudges. Set in a diorama of earthy textures and pastel backdrops, giving it a tangible, handmade feel.`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/GoaDihyaQAANGDK?format=jpg&name=small" alt="claymation" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744757058372-8lm4khzu89a.jpeg" alt="claymation" height="400">
 
 - **Author:** [Amira Zairi](https://x.com/hc_dsn/status/1911718985433027036)
 ---
@@ -488,7 +514,7 @@ Creative composition, A minimalist 3D arcade game diorama
 - **Prompt Text:** `Generate a portrait photo with this prompt
 Creative composition, A minimalist 3D arcade game diorama, the huge arcade machine decorate with fake 90s fighting game style. Inside the screen, there is a room of 90s game theme, decorate with posters and console, crt tv. A kid figure sitting in the room playing, dressed with black band tshirt, blue jeans, converse sneakers, red cap. Small surroundings in the air by 90s kids favorite toy items. The bottom black matted stand is labeled “90s Kid” in bold san serif bronze text, the background is a gradient color: from dark to light. With white, blue and red color theme`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/GofJhBsWwAAxAid?format=jpg&name=large" alt="Arcade diorama" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744757056922-5r3puxczsg.jpeg" alt="Arcade diorama" height="400">
 
 - **Author:** [Howard Chen](https://x.com/hc_dsn/status/1911718985433027036)
 ---
@@ -508,7 +534,7 @@ Creative composition, A minimalist 3D arcade game diorama, the huge arcade machi
 
 场景整体光影细腻温柔，透着朦胧的电影光效，如诗如画，既带着古典小说的雅致与哀婉，又有几分清新与纯真，令人一眼便沉醉其中。`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/Goc9BwFW4AAK2AB?format=jpg&name=medium" alt="黛玉葬花" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744757055397-wvqz63pqfi.jpeg" alt="黛玉葬花" height="400">
 
 - **Author:** [宝玉](https://x.com/dotey/status/1911563718804295962)
 ---
@@ -532,7 +558,7 @@ Creative composition, A minimalist 3D arcade game diorama, the huge arcade machi
 
 内容：展现了一位开朗的建筑师（图一），黑框眼镜，纯黑精致穿搭，他被放在一个哑光半透明的展示盒里，玻璃上贴着一张白色的小标签，上面写着“建筑如人生，人生如建筑”。自信地坐在一把设计大师设计的座椅上，手里拿着工作证，对着镜头微笑。这位建筑师的工作区配备了三台显示器，分别显示rhino建模、AI 和设计草图。这个极简主义的小隔间充满了结构主义+彼得库克archigram的融合风格设计：带有设计感的建筑模型、包豪斯风格的电脑桌和屏幕、画满草图的设计稿、一个毛绒绒的 CCS（图二） 吉祥物、建筑杂志、一个纯黑色锥形设计感玻璃杯，以及一块画着建筑图纸的迷你白板。一个小架子上放着一个ipadpro、一个建筑模型和一个微型 Zho（图三） 徽标。一幅镶框的建筑设计照片挂在色彩鲜艳的日历和旁边。场景采用柔和凉爽的自然光照明。整个场景使用了 包豪斯 配色方案`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/Gob39tMXMAAgM8m?format=jpg&name=900x900" alt="工作间手办" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744757054013-em9onhcjmy.jpeg" alt="工作间手办" height="400">
 
 - **Author:** [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911639551640314147)
 ---
@@ -544,7 +570,7 @@ Generate a portrait ratio photo with this prompt A hyper-realistic diorama of a 
 - **Model:** gpt4o
 - **Prompt Text:** `Generate a portrait ratio photo with this prompt A hyper-realistic diorama of a cheerful male office worker inside a matte translucent display box, with a small white label on the glass reading “Dream big, Stay positive.” He’s sitting confidently in a modern ergonomic office chair, smiling at the camera while holding his work ID badge. The worker’s desk setup features triple monitors showcasing Microsoft Excel, LinkedIn, and Outlook. The minimalist cubicle follows a professional aesthetic: a wireless keyboard and mouse, productivity sticky notes, printed reports, a blue ceramic coffee mug, a framed photo of his team, a small desk calendar, and a desktop organizer with pens and business cards. On the shelf, a stack of business books and a mini paperweight globe. A framed motivational quote hangs beside a monthly KPI tracker and meeting schedule. The scene is lit with soft, cool natural lighting. The entire setting uses a LinkedIn color theme—shades of blue, gray, and white—balancing a clean, focused, and modern professional atmosphere.`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/GoaqYF5W8AAleJ7?format=jpg&name=small" alt="LinkedIn Photo" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744757052459-oyb9ctvjml.jpeg" alt="LinkedIn Photo" height="400">
 
 - **Author:** [Howard Chen](https://x.com/hc_dsn/status/1911402784106201427)
 ---
@@ -564,7 +590,7 @@ Generate a portrait ratio photo with this prompt A hyper-realistic diorama of a 
 
 风格：3D卡通Q版场景插画，1:1画幅，整体风格参考Pixar动画风，人物拥有夸张的大头比例，圆润的大眼睛、软萌的鼻子，脸上带有可爱的表情，整体质感光滑细腻，呈现出玩具般的柔软塑料感。背景为暗色纯色（如纯黑色），采用柔和棚拍光，没有明显阴影，风格干净、温暖、亲和，整体感觉超可爱、现代、数字插画感强烈`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/GobEDw7WMAAyo0T?format=jpg&name=small" alt="把图片变成正在雕刻的雕塑" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744757051103-5aaoxstvpgi.jpeg" alt="把图片变成正在雕刻的雕塑" height="400">
 
 - **Author:** [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911433310666203311)
 ---
@@ -584,7 +610,7 @@ Generate a portrait ratio photo with this prompt A hyper-realistic diorama of a 
 
 风格：参考图一参考图，真实场景插画，4:3画幅，一张极其平庸的 iPhone 照片，没有清晰的主体和取景——只是一张漫不经心的快照。照片略带运动模糊，由于阳光不均匀而略微曝光过度。角度很尴尬，构图毫无章法，整体效果极其平庸`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/GoetSryXAAAIcqM?format=jpg&name=small" alt="沙滩雕塑" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744757049756-r576lw7616.jpeg" alt="沙滩雕塑" height="400">
 
 - **Author:** [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911687123696304436)
 ---
@@ -604,7 +630,7 @@ Generate a portrait ratio photo with this prompt A hyper-realistic diorama of a 
 
 购买按钮 和 药丸颜色一致，下面价格：$9，请遵循医嘱酌情购买`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/GofOqLoXgAA-HEJ?format=jpg&name=900x900" alt="速效快乐胶囊" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744757048378-0q5x3v8akkjj.jpeg" alt="速效快乐胶囊" height="400">
 
 - **Author:** [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896)
 ---
@@ -616,7 +642,7 @@ Generate a portrait ratio photo with this prompt A hyper-realistic diorama of a 
 - **Model:** gpt4o
 - **Prompt Text:** `把图片变成：一张极其平庸的 iPhone 照片，没有清晰的主体和取景——只是一张漫不经心的快照。照片略带运动模糊，由于阳光不均匀而略微曝光过度。角度很尴尬，构图毫无章法，整体效果极其平庸`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/GoelcdFXcAAvwOl?format=jpg&name=large" alt="“去 AI 感”密码" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744757046293-szkpl7xz15n.jpeg" alt="“去 AI 感”密码" height="400">
 
 - **Author:** [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911678504221245816)
 ---
@@ -633,6 +659,42 @@ Generate a portrait ratio photo with this prompt A hyper-realistic diorama of a 
 - **Author:** [宝玉](https://x.com/dotey/status/1911609122547449886)
 ---
 
+### 明信片
+
+帮我把这张照片做成一张 3:2 的明信片，左边是一幅 扁平多色插画风格（参考某某图）的画面，插画内容参考这张照片，比如：建筑/风景/人物等细节，插画的边缘请做成 不规则异形边框，右边用手写风格英文写一
+
+- **Model:** gpt4o
+- **Prompt Text:** `帮我把这张照片做成一张 3:2 的明信片，左边是一幅 扁平多色插画风格（参考某某图）的画面，插画内容参考这张照片，比如：建筑/风景/人物等细节，插画的边缘请做成 不规则异形边框，右边用手写风格英文写一句和「XX」相关的名言，并贴上一枚用原图生成的单色风格邮票，邮票右上角，邮编写 XXXX，盖上邮戳。`
+- **Example Image:** 
+<img src="https://cdn.imgedify.com/imgedify/images/1744299876287-19x8hhrvwt5.webp" alt="明信片" height="400">
+
+- **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+---
+
+### 时尚杂志的封面
+
+《VOGUE》杂志封面：来自 League of Legends 的 Ashe - The Frost Archer 化身为高级时装模特。写实肖像，突出她标志性的白色长发、锐利蓝眼和冰霜女王般的冷艳气
+
+- **Model:** gpt4o
+- **Prompt Text:** `《VOGUE》杂志封面：来自 League of Legends 的 Ashe - The Frost Archer 化身为高级时装模特。写实肖像，突出她标志性的白色长发、锐利蓝眼和冰霜女王般的冷艳气质。简约背景，专业摄影，身着融合了冰霜元素和高级定制风格的优雅紧身服饰。`
+- **Example Image:** 
+<img src="https://cdn.imgedify.com/imgedify/images/1744299882639-bqp6v37enla.webp" alt="时尚杂志的封面" height="400">
+
+- **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+---
+
+### 微观世界
+
+一幅极简风格的等距 3D 插画，描绘了一个隐藏在老旧的米色电脑主机箱（典型的 90 年代末/2000 年代初办公室风格，ATX 结构）内部的微型、极致宁静的解压绿洲——一个日式枯山水庭院。整体感受： 
+
+- **Model:** gpt4o
+- **Prompt Text:** `一幅极简风格的等距 3D 插画，描绘了一个隐藏在老旧的米色电脑主机箱（典型的 90 年代末/2000 年代初办公室风格，ATX 结构）内部的微型、极致宁静的解压绿洲——一个日式枯山水庭院。整体感受： 带有轻微的 3D 质感和些许塑化感，如同一个藏在冰冷科技外壳下的温暖秘密、一个精巧的桌面立体模型。这个场景在象征着工作压力与束缚的电脑主机内部，构建了一个代表内心平静与精神自由的禅意空间，形成了强烈的视觉与情感对比。非常适合需要片刻宁静的现代都市人、办公室职员、微缩模型与日式美学爱好者，以及欣赏探讨工作、生活与内心世界关系的数字艺术作品的人们。`
+- **Example Image:** 
+<img src="https://cdn.imgedify.com/imgedify/images/1744299864452-bw4c5ehve9t.webp" alt="微观世界" height="400">
+
+- **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+---
+
 ### 3D 图标
 
 为第一张图片加上类似第二张的材质和光效，让他更像 C4D 渲染的结果
@@ -645,16 +707,16 @@ Generate a portrait ratio photo with this prompt A hyper-realistic diorama of a 
 - **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
 
-### 3D 图标
+### 手绘风格的信息图卡片
 
-将这套图标转换为 C4D 渲染的 3D 图标，材质参考第二张图，所有图标都具有 3D 感和等距、体积感
+创作一张手绘风格的信息图卡片，比例为9:16竖版。卡片主题鲜明，背景为带有纸质肌理的米色或米白色，整体设计体现质朴、亲切的手绘美感。 卡片上方以红黑相间、对比鲜明的大号毛笔草书字体突出标题，吸引视觉焦
 
-- **Model:** Style
-- **Prompt Text:** `将这套图标转换为 C4D 渲染的 3D 图标，材质参考第二张图，所有图标都具有 3D 感和等距、体积感`
+- **Model:** gpt4o
+- **Prompt Text:** `创作一张手绘风格的信息图卡片，比例为9:16竖版。卡片主题鲜明，背景为带有纸质肌理的米色或米白色，整体设计体现质朴、亲切的手绘美感。 卡片上方以红黑相间、对比鲜明的大号毛笔草书字体突出标题，吸引视觉焦点。文字内容均采用中文草书，整体布局分为2至4个清晰的小节，每节以简短、精炼的中文短语表达核心要点。字体保持草书流畅的韵律感，既清晰可读又富有艺术气息。 卡片中点缀简单、有趣的手绘插画或图标，例如人物或象征符号，以增强视觉吸引力，引发读者思考与共鸣。 整体布局注意视觉平衡，预留足够的空白空间，确保画面简洁明了，易于阅读和理解。 <h1><span style=""color:red"">「认知」</span>决定上限 <span style=""color:red"">「圈子」</span>决定机会</h1> - 你赚不到「认知」以外的钱， - 也遇不到「圈子」以外的机会。`
 - **Example Image:** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299870629-fjak4buh9fw.webp" alt="3D 图标" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744299862758-4a9ohfbycl7.jpeg" alt="手绘风格的信息图卡片" height="400">
 
-- **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+- **Author:** [宝玉](https://x.com/dotey/status/1907903480678985784)
 ---
 
 ### 主题键帽
@@ -693,38 +755,14 @@ Generate a portrait ratio photo with this prompt A hyper-realistic diorama of a 
 - **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
 
-### 微观世界
+### 3D 图标
 
-一幅极简风格的等距 3D 插画，描绘了一个隐藏在老旧的米色电脑主机箱（典型的 90 年代末/2000 年代初办公室风格，ATX 结构）内部的微型、极致宁静的解压绿洲——一个日式枯山水庭院。整体感受： 
+将这套图标转换为 C4D 渲染的 3D 图标，材质参考第二张图，所有图标都具有 3D 感和等距、体积感
 
-- **Model:** gpt4o
-- **Prompt Text:** `一幅极简风格的等距 3D 插画，描绘了一个隐藏在老旧的米色电脑主机箱（典型的 90 年代末/2000 年代初办公室风格，ATX 结构）内部的微型、极致宁静的解压绿洲——一个日式枯山水庭院。整体感受： 带有轻微的 3D 质感和些许塑化感，如同一个藏在冰冷科技外壳下的温暖秘密、一个精巧的桌面立体模型。这个场景在象征着工作压力与束缚的电脑主机内部，构建了一个代表内心平静与精神自由的禅意空间，形成了强烈的视觉与情感对比。非常适合需要片刻宁静的现代都市人、办公室职员、微缩模型与日式美学爱好者，以及欣赏探讨工作、生活与内心世界关系的数字艺术作品的人们。`
+- **Model:** Style
+- **Prompt Text:** `将这套图标转换为 C4D 渲染的 3D 图标，材质参考第二张图，所有图标都具有 3D 感和等距、体积感`
 - **Example Image:** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299864452-bw4c5ehve9t.webp" alt="微观世界" height="400">
-
-- **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
----
-
-### 手绘风格的信息图卡片
-
-创作一张手绘风格的信息图卡片，比例为9:16竖版。卡片主题鲜明，背景为带有纸质肌理的米色或米白色，整体设计体现质朴、亲切的手绘美感。 卡片上方以红黑相间、对比鲜明的大号毛笔草书字体突出标题，吸引视觉焦
-
-- **Model:** gpt4o
-- **Prompt Text:** `创作一张手绘风格的信息图卡片，比例为9:16竖版。卡片主题鲜明，背景为带有纸质肌理的米色或米白色，整体设计体现质朴、亲切的手绘美感。 卡片上方以红黑相间、对比鲜明的大号毛笔草书字体突出标题，吸引视觉焦点。文字内容均采用中文草书，整体布局分为2至4个清晰的小节，每节以简短、精炼的中文短语表达核心要点。字体保持草书流畅的韵律感，既清晰可读又富有艺术气息。 卡片中点缀简单、有趣的手绘插画或图标，例如人物或象征符号，以增强视觉吸引力，引发读者思考与共鸣。 整体布局注意视觉平衡，预留足够的空白空间，确保画面简洁明了，易于阅读和理解。 <h1><span style=""color:red"">「认知」</span>决定上限 <span style=""color:red"">「圈子」</span>决定机会</h1> - 你赚不到「认知」以外的钱， - 也遇不到「圈子」以外的机会。`
-- **Example Image:** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299862758-4a9ohfbycl7.jpeg" alt="手绘风格的信息图卡片" height="400">
-
-- **Author:** [宝玉](https://x.com/dotey/status/1907903480678985784)
----
-
-### 手帐玩法
-
-请生成一张图片，模拟在一张略带纹理的纸张（比如米黄色或浅棕色）上手写的关于景区 [请在此处替换为景区名称] 的讲解笔记。图片应呈现旅行日志/拼贴画风格，包含以下元素：用手写字体（比如蓝色或棕色墨水）书
-
-- **Model:** gpt4o
-- **Prompt Text:** `请生成一张图片，模拟在一张略带纹理的纸张（比如米黄色或浅棕色）上手写的关于景区 [请在此处替换为景区名称] 的讲解笔记。图片应呈现旅行日志/拼贴画风格，包含以下元素：用手写字体（比如蓝色或棕色墨水）书写景区名称、地理位置、最佳游览季节、以及一两句吸引人的标语或简介。包含几个主要看点或特色的介绍，使用编号列表或项目符号（例如：[列举2-3个具体看点，如"奇特的岩石形态"，"古老的传说"，"独特的植物"等]），并配有简短的手写说明。用红色笔迹或其他亮色圈出或用箭头指向特别推荐的地点或活动（例如 [列举1-2个推荐项]）。穿插一些与景区特色相关的简单涂鸦式小图画（例如：[根据景区特色想1-2个代表性图画，如山峰轮廓、特色动植物、标志性建筑等]）。点缀几张关于该景区的、看起来像是贴上去的小幅照片（可以是风景照、细节照，风格可以略显复古或像宝丽来照片）。 整体感觉要像一份由热情导游或资深游客精心制作的、生动有趣的个人导览手记。`
-- **Example Image:** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299874809-24ng1z3kupxj.webp" alt="手帐玩法" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744299870629-fjak4buh9fw.webp" alt="3D 图标" height="400">
 
 - **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
@@ -733,7 +771,7 @@ Generate a portrait ratio photo with this prompt A hyper-realistic diorama of a 
 
 Turn my 4 images into 4 classic, single-color postage stamps using detailed lines and shading. Give 
 
-- **Model:** Style
+- **Model:** gpt4o
 - **Prompt Text:** `Turn my 4 images into 4 classic, single-color postage stamps using detailed lines and shading. Give each their own color, Add a stamp value and fitting vintage-style text based on the subject. Make the image 3:4`
 - **Example Image:** 
 <img src="https://cdn.imgedify.com/imgedify/images/1744299886085-apxha71rus9.jpeg" alt="邮票" height="400">
@@ -753,18 +791,6 @@ Turn my 4 images into 4 classic, single-color postage stamps using detailed line
 - **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
 
-### 时尚杂志的封面
-
-《VOGUE》杂志封面：来自 League of Legends 的 Ashe - The Frost Archer 化身为高级时装模特。写实肖像，突出她标志性的白色长发、锐利蓝眼和冰霜女王般的冷艳气
-
-- **Model:** gpt4o
-- **Prompt Text:** `《VOGUE》杂志封面：来自 League of Legends 的 Ashe - The Frost Archer 化身为高级时装模特。写实肖像，突出她标志性的白色长发、锐利蓝眼和冰霜女王般的冷艳气质。简约背景，专业摄影，身着融合了冰霜元素和高级定制风格的优雅紧身服饰。`
-- **Example Image:** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299882639-bqp6v37enla.webp" alt="时尚杂志的封面" height="400">
-
-- **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
----
-
 ### 游戏角色
 
 双重曝光，融合，混合，叠加双重曝光图像，双重曝光风格，展现了智慧的兽人萨满萨尔（高尔）剪影的奇妙双重曝光构图，与他旅程中那些视觉冲击力强、标志性的艾泽拉斯景观和符号和谐地交织在一起。奥格瑞玛宏伟的红色
@@ -773,18 +799,6 @@ Turn my 4 images into 4 classic, single-color postage stamps using detailed line
 - **Prompt Text:** `双重曝光，融合，混合，叠加双重曝光图像，双重曝光风格，展现了智慧的兽人萨满萨尔（高尔）剪影的奇妙双重曝光构图，与他旅程中那些视觉冲击力强、标志性的艾泽拉斯景观和符号和谐地交织在一起。奥格瑞玛宏伟的红色尖塔和崎岖的峡谷，旋转天空下纳格兰翠绿的浮岛和先祖之魂，以及噼啪作响的元素能量（闪电、大地、水之漩涡）通过他形象的肌理向外回响。或许毁灭之锤那标志性的形状，或是部落/霜狼氏族的标志被巧妙地融入其中。这增添了领导者遗产、萨满之力以及部落韧性的层次感。背景保持着鲜明的对比，营造出美丽的张力，将所有焦点吸引到层次丰富的双重曝光上。其特点在于萨尔剪影内部丰富而略带粗犷的全彩色方案（大地色调、部落红、元素蓝与橙），以及用智慧与原始力量勾勒出每一处轮廓的有力而刻意的线条。`
 - **Example Image:** 
 <img src="https://cdn.imgedify.com/imgedify/images/1744299880646-mtu5gatbetm.webp" alt="游戏角色" height="400">
-
-- **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
----
-
-### 照片涂鸦玩法
-
-用蓝色画笔画一些可爱的涂鸦与画面主体产生互动，可以是人物也可以是动物或者其他东西，生成 2:3 图片，笔触的质感强一些
-
-- **Model:** gpt4o
-- **Prompt Text:** `用蓝色画笔画一些可爱的涂鸦与画面主体产生互动，可以是人物也可以是动物或者其他东西，生成 2:3 图片，笔触的质感强一些`
-- **Example Image:** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299879567-0tou7pwdqrk8.webp" alt="照片涂鸦玩法" height="400">
 
 - **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
@@ -801,14 +815,26 @@ Turn my 4 images into 4 classic, single-color postage stamps using detailed line
 - **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
 
-### 明信片
+### 照片涂鸦玩法
 
-帮我把这张照片做成一张 3:2 的明信片，左边是一幅 扁平多色插画风格（参考某某图）的画面，插画内容参考这张照片，比如：建筑/风景/人物等细节，插画的边缘请做成 不规则异形边框，右边用手写风格英文写一
+用蓝色画笔画一些可爱的涂鸦与画面主体产生互动，可以是人物也可以是动物或者其他东西，生成 2:3 图片，笔触的质感强一些
 
-- **Model:** Style
-- **Prompt Text:** `帮我把这张照片做成一张 3:2 的明信片，左边是一幅 扁平多色插画风格（参考某某图）的画面，插画内容参考这张照片，比如：建筑/风景/人物等细节，插画的边缘请做成 不规则异形边框，右边用手写风格英文写一句和「XX」相关的名言，并贴上一枚用原图生成的单色风格邮票，邮票右上角，邮编写 XXXX，盖上邮戳。`
+- **Model:** gpt4o
+- **Prompt Text:** `用蓝色画笔画一些可爱的涂鸦与画面主体产生互动，可以是人物也可以是动物或者其他东西，生成 2:3 图片，笔触的质感强一些`
 - **Example Image:** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299876287-19x8hhrvwt5.webp" alt="明信片" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744299879567-0tou7pwdqrk8.webp" alt="照片涂鸦玩法" height="400">
+
+- **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+---
+
+### 手帐玩法
+
+请生成一张图片，模拟在一张略带纹理的纸张（比如米黄色或浅棕色）上手写的关于景区 [请在此处替换为景区名称] 的讲解笔记。图片应呈现旅行日志/拼贴画风格，包含以下元素：用手写字体（比如蓝色或棕色墨水）书
+
+- **Model:** gpt4o
+- **Prompt Text:** `请生成一张图片，模拟在一张略带纹理的纸张（比如米黄色或浅棕色）上手写的关于景区 [请在此处替换为景区名称] 的讲解笔记。图片应呈现旅行日志/拼贴画风格，包含以下元素：用手写字体（比如蓝色或棕色墨水）书写景区名称、地理位置、最佳游览季节、以及一两句吸引人的标语或简介。包含几个主要看点或特色的介绍，使用编号列表或项目符号（例如：[列举2-3个具体看点，如"奇特的岩石形态"，"古老的传说"，"独特的植物"等]），并配有简短的手写说明。用红色笔迹或其他亮色圈出或用箭头指向特别推荐的地点或活动（例如 [列举1-2个推荐项]）。穿插一些与景区特色相关的简单涂鸦式小图画（例如：[根据景区特色想1-2个代表性图画，如山峰轮廓、特色动植物、标志性建筑等]）。点缀几张关于该景区的、看起来像是贴上去的小幅照片（可以是风景照、细节照，风格可以略显复古或像宝丽来照片）。 整体感觉要像一份由热情导游或资深游客精心制作的、生动有趣的个人导览手记。`
+- **Example Image:** 
+<img src="https://cdn.imgedify.com/imgedify/images/1744299874809-24ng1z3kupxj.webp" alt="手帐玩法" height="400">
 
 - **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
