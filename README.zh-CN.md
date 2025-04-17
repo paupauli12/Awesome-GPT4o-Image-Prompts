@@ -45,68 +45,96 @@
 ## 可用提示词
 
 ### 目录
-1. [poster](#poster) - 作者：[Melis](https://x.com/miilesus/status/1912796694309196065)
-2. [fashion magazine cover](#fashion-magazine-cover) - 作者：[宝玉](https://x.com/dotey/status/1912541006961967325)
-3. [passport page](#passport-page) - 作者：[89'S](https://x.com/M_w14_/status/1912146666410459618)
-4. [PSA](#psa) - 作者：[gnrly.xyz](https://x.com/gnrlyxyz/status/1912188062278238513)
-5. [keycap scene](#keycap-scene) - 作者：[Ege](https://x.com/egeberkina/status/1911828402727784525)
-6. [low poly](#low-poly) - 作者：[Amira Zairi](https://x.com/azed_ai/status/1912084257918595342)
-7. [typographic portrait](#typographic-portrait) - 作者：[firatbilal](https://x.com/firatbilal/status/1911849629211050492)
-8. [illustration](#illustration) - 作者：[Gizem Akdag](https://x.com/gizakdag/status/1911781605569347976)
-9. [Turn your profile image into a sculpture!](#turn-your-profile-image-into-a-sculpture) - 作者：[Umesh](https://x.com/umesh_ai/status/1905181058745971077)
-10. [Reality photo](#reality-photo) - 作者：[ℂamellia 翊瑄](https://x.com/Camelliayang/status/1910671488115425315)
-11. [Turn  drawings into stunning photographs](#turn-drawings-into-stunning-photographs) - 作者：[Umesh](https://x.com/umesh_ai/status/1910589711296430310)
-12. [讽刺漫画](#) - 作者：[宝玉](https://x.com/dotey/status/1911988003729203648)
-13. [拟人化的 3D 形象](#-3d-) - 作者：[宝玉](https://x.com/dotey/status/1911988003729203648)
-14. [微型立体场景呈现](#) - 作者：[宝玉](https://x.com/berryxia_ai/status/1911666078838865957)
-15. [等距视角微缩场景](#) - 作者：[Berryxia.AI](https://x.com/berryxia_ai/status/1911666078838865957)
-16. [摊开的古书](#) - 作者：[dangjin](https://x.com/JinsFavorites/status/1911437215764185133)
-17. [泡罩药片包装图](#) - 作者：[Terry](https://x.com/trxuanxw/status/1911940417828053221)
-18. [Isometric view of a city](#isometric-view-of-a-city) - 作者：[Terry](https://x.com/trxuanxw/status/1906918197074473053)
-19. [泰坦尼克号经典场面](#) - 作者：[balconychy(贝壳里奇)](https://x.com/balconychy/status/1911620533071835428)
-20. [立体浮雕风格](#) - 作者：[balconychy(贝壳里奇)](https://x.com/balconychy/status/1911620533071835428)
-21. [Figure Box](#figure-box) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1908429874945233225)
-22. [Changer ages](#changer-ages) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1908734797763256631)
-23. [3D characters](#3d-characters) - 作者：[Brett  Designjoy](https://x.com/BrettFromDJ/status/1910711941250621845)
-24. [action figure](#action-figure) - 作者：[Eduardo Macouzet](https://x.com/eduardomacouzet/status/1910260355059548483)
-25. [fluffy logo](#fluffy-logo) - 作者：[Gizem Akdag](https://x.com/gizakdag/status/1911460600535797926)
-26. [3D fluffy emojis](#3d-fluffy-emojis) - 作者：[Gizem Akdag](https://x.com/gizakdag/status/1911075302941622512)
-27. [影视剧的角色手办](#) - 作者：[AI进化论-花生](https://x.com/AlchainHust/status/1906997559937364052/photo/2)
-28. [3D-style icons](#3d-style-icons) - 作者：[Amira Zairi](https://x.com/azed_ai/status/1906285785961406891)
-29. [3d avatar asset](#3d-avatar-asset) - 作者：[AI Imagined](https://x.com/AIimagined/status/1906479539351589329)
-30. [action figure pack](#action-figure-pack) - 作者：[Min Choi](https://x.com/minchoi/status/1910737237458776434)
-31. [3D character](#3d-character) - 作者：[Amira Zairi](https://x.com/azed_ai/status/1911782508095840622)
-32. [claymation](#claymation) - 作者：[Amira Zairi](https://x.com/hc_dsn/status/1911718985433027036)
-33. [Arcade diorama](#arcade-diorama) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1911718985433027036)
-34. [黛玉葬花](#) - 作者：[宝玉](https://x.com/dotey/status/1911563718804295962)
-35. [工作间手办](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911639551640314147)
-36. [LinkedIn Photo](#linkedin-photo) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1911402784106201427)
-37. [把图片变成正在雕刻的雕塑](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911433310666203311)
-38. [沙滩雕塑](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911687123696304436)
-39. [速效快乐胶囊](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896)
-40. [“去 AI 感”密码](#-ai-) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911678504221245816)
-41. [微型立体场景](#) - 作者：[宝玉](https://x.com/dotey/status/1911609122547449886)
-42. [手绘风格的信息图卡片](#) - 作者：[宝玉](https://x.com/dotey/status/1907903480678985784)
-43. [邮票](#) - 作者：[samdape](https://x.com/samdape/status/1908438312475373741)
-44. [游戏角色](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-45. [照片涂鸦玩法](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+1. [物理破坏效果卡片](#) - 作者：[歸藏(guizang.ai)](https://x.com/op7418/status/1912782170424578339)
+2. [dimensional break card](#dimensional-break-card) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1912367201476309396)
+3. [poster](#poster) - 作者：[Melis](https://x.com/miilesus/status/1912796694309196065)
+4. [fashion magazine cover](#fashion-magazine-cover) - 作者：[宝玉](https://x.com/dotey/status/1912541006961967325)
+5. [passport page](#passport-page) - 作者：[89'S](https://x.com/M_w14_/status/1912146666410459618)
+6. [PSA](#psa) - 作者：[gnrly.xyz](https://x.com/gnrlyxyz/status/1912188062278238513)
+7. [keycap scene](#keycap-scene) - 作者：[Ege](https://x.com/egeberkina/status/1911828402727784525)
+8. [low poly](#low-poly) - 作者：[Amira Zairi](https://x.com/azed_ai/status/1912084257918595342)
+9. [typographic portrait](#typographic-portrait) - 作者：[firatbilal](https://x.com/firatbilal/status/1911849629211050492)
+10. [illustration](#illustration) - 作者：[Gizem Akdag](https://x.com/gizakdag/status/1911781605569347976)
+11. [Turn your profile image into a sculpture!](#turn-your-profile-image-into-a-sculpture) - 作者：[Umesh](https://x.com/umesh_ai/status/1905181058745971077)
+12. [Reality photo](#reality-photo) - 作者：[ℂamellia 翊瑄](https://x.com/Camelliayang/status/1910671488115425315)
+13. [Turn  drawings into stunning photographs](#turn-drawings-into-stunning-photographs) - 作者：[Umesh](https://x.com/umesh_ai/status/1910589711296430310)
+14. [讽刺漫画](#) - 作者：[宝玉](https://x.com/dotey/status/1911988003729203648)
+15. [拟人化的 3D 形象](#-3d-) - 作者：[宝玉](https://x.com/dotey/status/1911988003729203648)
+16. [微型立体场景呈现](#) - 作者：[宝玉](https://x.com/berryxia_ai/status/1911666078838865957)
+17. [等距视角微缩场景](#) - 作者：[Berryxia.AI](https://x.com/berryxia_ai/status/1911666078838865957)
+18. [摊开的古书](#) - 作者：[dangjin](https://x.com/JinsFavorites/status/1911437215764185133)
+19. [泡罩药片包装图](#) - 作者：[Terry](https://x.com/trxuanxw/status/1911940417828053221)
+20. [Isometric view of a city](#isometric-view-of-a-city) - 作者：[Terry](https://x.com/trxuanxw/status/1906918197074473053)
+21. [泰坦尼克号经典场面](#) - 作者：[balconychy(贝壳里奇)](https://x.com/balconychy/status/1911620533071835428)
+22. [立体浮雕风格](#) - 作者：[balconychy(贝壳里奇)](https://x.com/balconychy/status/1911620533071835428)
+23. [Figure Box](#figure-box) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1908429874945233225)
+24. [Changer ages](#changer-ages) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1908734797763256631)
+25. [3D characters](#3d-characters) - 作者：[Brett  Designjoy](https://x.com/BrettFromDJ/status/1910711941250621845)
+26. [action figure](#action-figure) - 作者：[Eduardo Macouzet](https://x.com/eduardomacouzet/status/1910260355059548483)
+27. [fluffy logo](#fluffy-logo) - 作者：[Gizem Akdag](https://x.com/gizakdag/status/1911460600535797926)
+28. [3D fluffy emojis](#3d-fluffy-emojis) - 作者：[Gizem Akdag](https://x.com/gizakdag/status/1911075302941622512)
+29. [影视剧的角色手办](#) - 作者：[AI进化论-花生](https://x.com/AlchainHust/status/1906997559937364052/photo/2)
+30. [3D-style icons](#3d-style-icons) - 作者：[Amira Zairi](https://x.com/azed_ai/status/1906285785961406891)
+31. [3d avatar asset](#3d-avatar-asset) - 作者：[AI Imagined](https://x.com/AIimagined/status/1906479539351589329)
+32. [action figure pack](#action-figure-pack) - 作者：[Min Choi](https://x.com/minchoi/status/1910737237458776434)
+33. [3D character](#3d-character) - 作者：[Amira Zairi](https://x.com/azed_ai/status/1911782508095840622)
+34. [claymation](#claymation) - 作者：[Amira Zairi](https://x.com/hc_dsn/status/1911718985433027036)
+35. [Arcade diorama](#arcade-diorama) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1911718985433027036)
+36. [黛玉葬花](#) - 作者：[宝玉](https://x.com/dotey/status/1911563718804295962)
+37. [工作间手办](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911639551640314147)
+38. [LinkedIn Photo](#linkedin-photo) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1911402784106201427)
+39. [把图片变成正在雕刻的雕塑](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911433310666203311)
+40. [沙滩雕塑](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911687123696304436)
+41. [速效快乐胶囊](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896)
+42. [“去 AI 感”密码](#-ai-) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911678504221245816)
+43. [微型立体场景](#) - 作者：[宝玉](https://x.com/dotey/status/1911609122547449886)
+44. [时尚杂志的封面](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+45. [明信片](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 46. [照片涂鸦玩法](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-47. [明信片](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-48. [时尚杂志的封面](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+47. [照片涂鸦玩法](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+48. [游戏角色](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 49. [微观世界](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 50. [3D 图标](#3d-) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 51. [3D 图标](#3d-) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-52. [萌化电影剧照](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+52. [手绘风格的信息图卡片](#) - 作者：[宝玉](https://x.com/dotey/status/1907903480678985784)
 53. [主题键帽](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-54. [主题键帽](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-55. [微观世界](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-56. [手帐玩法](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+54. [微观世界](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+55. [萌化电影剧照](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+56. [邮票](#) - 作者：[samdape](https://x.com/samdape/status/1908438312475373741)
 57. [手帐玩法](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-58. [手写笔记风格图片](#) - 作者：[pongpong1](https://linux.do/t/topic/530679)
-59. [旅游手账插画](#) - 作者：[宝玉](https://x.com/dotey/status/1907819985533071462)
-60. [Q版中式婚礼](#q) - 作者：[balconychy(贝壳里奇)](https://x.com/balconychy/status/1909418699150237917)
+58. [手帐玩法](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+59. [主题键帽](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+60. [手写笔记风格图片](#) - 作者：[pongpong1](https://linux.do/t/topic/530679)
+61. [旅游手账插画](#) - 作者：[宝玉](https://x.com/dotey/status/1907819985533071462)
+62. [Q版中式婚礼](#q) - 作者：[balconychy(贝壳里奇)](https://x.com/balconychy/status/1909418699150237917)
 
 以下是所有可用提示词的详细信息：
+
+### 物理破坏效果卡片
+
+一幅超写实、电影感的插画，描绘了劳拉·克劳馥动态地撞穿一张“考古探险”集换卡牌的边框。她正处于跳跃中或用绳索摆荡，穿着标志性的冒险装备，可能正在使用双枪射击，枪口的火焰帮助将卡牌古老的石雕边框震碎，在
+
+- **模型：** gpt4o
+- **提示词文本：** `一幅超写实、电影感的插画，描绘了劳拉·克劳馥动态地撞穿一张“考古探险”集换卡牌的边框。她正处于跳跃中或用绳索摆荡，穿着标志性的冒险装备，可能正在使用双枪射击，枪口的火焰帮助将卡牌古老的石雕边框震碎，在破口周围制造出可见的维度破裂效果，如能量裂纹和空间扭曲，使灰尘和碎片四散飞溅。她的身体充满活力地向前冲出，带有明显的运动深度，突破了卡牌的平面，卡牌内部（背景）描绘着茂密的丛林遗迹或布满陷阱的古墓内部。卡牌的碎屑与 crumbling 的石头、飞舞的藤蔓、古钱币碎片和用过的弹壳混合在一起。“考古探险”的标题和“劳拉·克劳馥”的名字（带有一个风格化的文物图标）在卡牌剩余的、布满裂纹和风化痕迹的部分上可见。充满冒险感的、动态的灯光突出了她的运动能力和危险的环境。`
+- **示例图片：** 
+<img src="https://pbs.twimg.com/media/GouRHHBacAAv91I?format=jpg&name=large" alt="物理破坏效果卡片" height="400">
+
+- **作者：** [歸藏(guizang.ai)](https://x.com/op7418/status/1912782170424578339)
+---
+
+### dimensional break card
+
+Generate a portrait ratio image with this prompt
+A professional studio photo Panini soccer card feat
+
+- **模型：** gpt4o
+- **提示词文本：** `Generate a portrait ratio image with this prompt
+A professional studio photo Panini soccer card featuring football legend Lionel Messi wearing his iconic Argentina blue and white striped jersey. In a dramatic moment, Messi kicks the ball with force, breaking through the boundary of the card—shattering it into fragments. The card explodes into reality as Messi emerges from the 2D surface into the 3D world. In the foreground, a football spins at high speed, blurring toward the viewer. The background reveals the torn remains of the card against a dark backdrop, while radiant aurora-like light beams burst outward from the broken card, creating a surreal and powerful dimensional crossover effect.`
+- **示例图片：** 
+<img src="https://pbs.twimg.com/media/GooW8k0W4AEXYGj?format=jpg&name=900x900" alt="dimensional break card" height="400">
+
+- **作者：** [Howard Chen](https://x.com/hc_dsn/status/1912367201476309396)
+---
 
 ### poster
 
@@ -685,62 +713,14 @@ Generate a portrait ratio photo with this prompt A hyper-realistic diorama of a 
 - **作者：** [宝玉](https://x.com/dotey/status/1911609122547449886)
 ---
 
-### 手绘风格的信息图卡片
+### 时尚杂志的封面
 
-创作一张手绘风格的信息图卡片，比例为9:16竖版。卡片主题鲜明，背景为带有纸质肌理的米色或米白色，整体设计体现质朴、亲切的手绘美感。 卡片上方以红黑相间、对比鲜明的大号毛笔草书字体突出标题，吸引视觉焦
-
-- **模型：** gpt4o
-- **提示词文本：** `创作一张手绘风格的信息图卡片，比例为9:16竖版。卡片主题鲜明，背景为带有纸质肌理的米色或米白色，整体设计体现质朴、亲切的手绘美感。 卡片上方以红黑相间、对比鲜明的大号毛笔草书字体突出标题，吸引视觉焦点。文字内容均采用中文草书，整体布局分为2至4个清晰的小节，每节以简短、精炼的中文短语表达核心要点。字体保持草书流畅的韵律感，既清晰可读又富有艺术气息。 卡片中点缀简单、有趣的手绘插画或图标，例如人物或象征符号，以增强视觉吸引力，引发读者思考与共鸣。 整体布局注意视觉平衡，预留足够的空白空间，确保画面简洁明了，易于阅读和理解。 <h1><span style=""color:red"">「认知」</span>决定上限 <span style=""color:red"">「圈子」</span>决定机会</h1> - 你赚不到「认知」以外的钱， - 也遇不到「圈子」以外的机会。`
-- **示例图片：** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299862758-4a9ohfbycl7.jpeg" alt="手绘风格的信息图卡片" height="400">
-
-- **作者：** [宝玉](https://x.com/dotey/status/1907903480678985784)
----
-
-### 邮票
-
-Turn my 4 images into 4 classic, single-color postage stamps using detailed lines and shading. Give 
+《VOGUE》杂志封面：来自 League of Legends 的 Ashe - The Frost Archer 化身为高级时装模特。写实肖像，突出她标志性的白色长发、锐利蓝眼和冰霜女王般的冷艳气
 
 - **模型：** gpt4o
-- **提示词文本：** `Turn my 4 images into 4 classic, single-color postage stamps using detailed lines and shading. Give each their own color, Add a stamp value and fitting vintage-style text based on the subject. Make the image 3:4`
+- **提示词文本：** `《VOGUE》杂志封面：来自 League of Legends 的 Ashe - The Frost Archer 化身为高级时装模特。写实肖像，突出她标志性的白色长发、锐利蓝眼和冰霜女王般的冷艳气质。简约背景，专业摄影，身着融合了冰霜元素和高级定制风格的优雅紧身服饰。`
 - **示例图片：** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299886085-apxha71rus9.jpeg" alt="邮票" height="400">
-
-- **作者：** [samdape](https://x.com/samdape/status/1908438312475373741)
----
-
-### 游戏角色
-
-双重曝光，融合，混合，叠加双重曝光图像，双重曝光风格，展现了智慧的兽人萨满萨尔（高尔）剪影的奇妙双重曝光构图，与他旅程中那些视觉冲击力强、标志性的艾泽拉斯景观和符号和谐地交织在一起。奥格瑞玛宏伟的红色
-
-- **模型：** gpt4o
-- **提示词文本：** `双重曝光，融合，混合，叠加双重曝光图像，双重曝光风格，展现了智慧的兽人萨满萨尔（高尔）剪影的奇妙双重曝光构图，与他旅程中那些视觉冲击力强、标志性的艾泽拉斯景观和符号和谐地交织在一起。奥格瑞玛宏伟的红色尖塔和崎岖的峡谷，旋转天空下纳格兰翠绿的浮岛和先祖之魂，以及噼啪作响的元素能量（闪电、大地、水之漩涡）通过他形象的肌理向外回响。或许毁灭之锤那标志性的形状，或是部落/霜狼氏族的标志被巧妙地融入其中。这增添了领导者遗产、萨满之力以及部落韧性的层次感。背景保持着鲜明的对比，营造出美丽的张力，将所有焦点吸引到层次丰富的双重曝光上。其特点在于萨尔剪影内部丰富而略带粗犷的全彩色方案（大地色调、部落红、元素蓝与橙），以及用智慧与原始力量勾勒出每一处轮廓的有力而刻意的线条。`
-- **示例图片：** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299880646-mtu5gatbetm.webp" alt="游戏角色" height="400">
-
-- **作者：** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
----
-
-### 照片涂鸦玩法
-
-生成图片，把它打印出来，然后用红墨水疯狂地加上手写中文批注、涂鸦、乱画，如果你想的话，还可以加点小剪贴画
-
-- **模型：** gpt4o
-- **提示词文本：** `生成图片，把它打印出来，然后用红墨水疯狂地加上手写中文批注、涂鸦、乱画，如果你想的话，还可以加点小剪贴画`
-- **示例图片：** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299878007-3i4361kt83t.webp" alt="照片涂鸦玩法" height="400">
-
-- **作者：** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
----
-
-### 照片涂鸦玩法
-
-用蓝色画笔画一些可爱的涂鸦与画面主体产生互动，可以是人物也可以是动物或者其他东西，生成 2:3 图片，笔触的质感强一些
-
-- **模型：** gpt4o
-- **提示词文本：** `用蓝色画笔画一些可爱的涂鸦与画面主体产生互动，可以是人物也可以是动物或者其他东西，生成 2:3 图片，笔触的质感强一些`
-- **示例图片：** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299879567-0tou7pwdqrk8.webp" alt="照片涂鸦玩法" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744299882639-bqp6v37enla.webp" alt="时尚杂志的封面" height="400">
 
 - **作者：** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
@@ -757,14 +737,38 @@ Turn my 4 images into 4 classic, single-color postage stamps using detailed line
 - **作者：** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
 
-### 时尚杂志的封面
+### 照片涂鸦玩法
 
-《VOGUE》杂志封面：来自 League of Legends 的 Ashe - The Frost Archer 化身为高级时装模特。写实肖像，突出她标志性的白色长发、锐利蓝眼和冰霜女王般的冷艳气
+用蓝色画笔画一些可爱的涂鸦与画面主体产生互动，可以是人物也可以是动物或者其他东西，生成 2:3 图片，笔触的质感强一些
 
 - **模型：** gpt4o
-- **提示词文本：** `《VOGUE》杂志封面：来自 League of Legends 的 Ashe - The Frost Archer 化身为高级时装模特。写实肖像，突出她标志性的白色长发、锐利蓝眼和冰霜女王般的冷艳气质。简约背景，专业摄影，身着融合了冰霜元素和高级定制风格的优雅紧身服饰。`
+- **提示词文本：** `用蓝色画笔画一些可爱的涂鸦与画面主体产生互动，可以是人物也可以是动物或者其他东西，生成 2:3 图片，笔触的质感强一些`
 - **示例图片：** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299882639-bqp6v37enla.webp" alt="时尚杂志的封面" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744299879567-0tou7pwdqrk8.webp" alt="照片涂鸦玩法" height="400">
+
+- **作者：** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+---
+
+### 照片涂鸦玩法
+
+生成图片，把它打印出来，然后用红墨水疯狂地加上手写中文批注、涂鸦、乱画，如果你想的话，还可以加点小剪贴画
+
+- **模型：** gpt4o
+- **提示词文本：** `生成图片，把它打印出来，然后用红墨水疯狂地加上手写中文批注、涂鸦、乱画，如果你想的话，还可以加点小剪贴画`
+- **示例图片：** 
+<img src="https://cdn.imgedify.com/imgedify/images/1744299878007-3i4361kt83t.webp" alt="照片涂鸦玩法" height="400">
+
+- **作者：** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+---
+
+### 游戏角色
+
+双重曝光，融合，混合，叠加双重曝光图像，双重曝光风格，展现了智慧的兽人萨满萨尔（高尔）剪影的奇妙双重曝光构图，与他旅程中那些视觉冲击力强、标志性的艾泽拉斯景观和符号和谐地交织在一起。奥格瑞玛宏伟的红色
+
+- **模型：** gpt4o
+- **提示词文本：** `双重曝光，融合，混合，叠加双重曝光图像，双重曝光风格，展现了智慧的兽人萨满萨尔（高尔）剪影的奇妙双重曝光构图，与他旅程中那些视觉冲击力强、标志性的艾泽拉斯景观和符号和谐地交织在一起。奥格瑞玛宏伟的红色尖塔和崎岖的峡谷，旋转天空下纳格兰翠绿的浮岛和先祖之魂，以及噼啪作响的元素能量（闪电、大地、水之漩涡）通过他形象的肌理向外回响。或许毁灭之锤那标志性的形状，或是部落/霜狼氏族的标志被巧妙地融入其中。这增添了领导者遗产、萨满之力以及部落韧性的层次感。背景保持着鲜明的对比，营造出美丽的张力，将所有焦点吸引到层次丰富的双重曝光上。其特点在于萨尔剪影内部丰富而略带粗犷的全彩色方案（大地色调、部落红、元素蓝与橙），以及用智慧与原始力量勾勒出每一处轮廓的有力而刻意的线条。`
+- **示例图片：** 
+<img src="https://cdn.imgedify.com/imgedify/images/1744299880646-mtu5gatbetm.webp" alt="游戏角色" height="400">
 
 - **作者：** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
@@ -805,16 +809,16 @@ Turn my 4 images into 4 classic, single-color postage stamps using detailed line
 - **作者：** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
 
-### 萌化电影剧照
+### 手绘风格的信息图卡片
 
-一个充满氛围感的电影中近景镜头，戏仿《The Godfather》中 Don Vito Corleone 在他昏暗办公室里的经典场景。一只体型稍大的泰迪熊，穿着深色西装，威严地坐在一张迷你办公桌后面，
+创作一张手绘风格的信息图卡片，比例为9:16竖版。卡片主题鲜明，背景为带有纸质肌理的米色或米白色，整体设计体现质朴、亲切的手绘美感。 卡片上方以红黑相间、对比鲜明的大号毛笔草书字体突出标题，吸引视觉焦
 
 - **模型：** gpt4o
-- **提示词文本：** `一个充满氛围感的电影中近景镜头，戏仿《The Godfather》中 Don Vito Corleone 在他昏暗办公室里的经典场景。一只体型稍大的泰迪熊，穿着深色西装，威严地坐在一张迷你办公桌后面，爪子里可能抱着一只更小的毛绒玩具（模仿猫）。房间光线昏暗，运用强烈的明暗对比（chiaroscuro），营造出一种既有权力感、沉思感，又不失泰迪熊固有可爱的奇特融合。`
+- **提示词文本：** `创作一张手绘风格的信息图卡片，比例为9:16竖版。卡片主题鲜明，背景为带有纸质肌理的米色或米白色，整体设计体现质朴、亲切的手绘美感。 卡片上方以红黑相间、对比鲜明的大号毛笔草书字体突出标题，吸引视觉焦点。文字内容均采用中文草书，整体布局分为2至4个清晰的小节，每节以简短、精炼的中文短语表达核心要点。字体保持草书流畅的韵律感，既清晰可读又富有艺术气息。 卡片中点缀简单、有趣的手绘插画或图标，例如人物或象征符号，以增强视觉吸引力，引发读者思考与共鸣。 整体布局注意视觉平衡，预留足够的空白空间，确保画面简洁明了，易于阅读和理解。 <h1><span style=""color:red"">「认知」</span>决定上限 <span style=""color:red"">「圈子」</span>决定机会</h1> - 你赚不到「认知」以外的钱， - 也遇不到「圈子」以外的机会。`
 - **示例图片：** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299884467-u34aush0cx8.webp" alt="萌化电影剧照" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744299862758-4a9ohfbycl7.jpeg" alt="手绘风格的信息图卡片" height="400">
 
-- **作者：** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+- **作者：** [宝玉](https://x.com/dotey/status/1907903480678985784)
 ---
 
 ### 主题键帽
@@ -829,18 +833,6 @@ Turn my 4 images into 4 classic, single-color postage stamps using detailed line
 - **作者：** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
 
-### 主题键帽
-
-一幅等距3D插画描绘了被掀开的键盘键帽下，一个微型玩家正坐在迷你驾驶舱里打游戏，并将键帽内侧当作发光的屏幕。带有轻微的 3D 质感和些许塑化感，使整个场景如同一个为游戏玩家量身定做的、极其精巧的立体模
-
-- **模型：** gpt4o
-- **提示词文本：** `一幅等距3D插画描绘了被掀开的键盘键帽下，一个微型玩家正坐在迷你驾驶舱里打游戏，并将键帽内侧当作发光的屏幕。带有轻微的 3D 质感和些许塑化感，使整个场景如同一个为游戏玩家量身定做的、极其精巧的立体模型。`
-- **示例图片：** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299868248-ut2u2cqlh6.webp" alt="主题键帽" height="400">
-
-- **作者：** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
----
-
 ### 微观世界
 
 一个逼真且充满趣味的微型现代咖啡馆，热闹地呈现在一个盛满咖啡的马克杯里。这微缩咖啡馆包含一个迷你吧台，上面可能有微小的咖啡机和磨豆机，几张小桌子旁坐着微缩的顾客人偶，墙上（马克杯内壁）或许有迷你的菜单
@@ -851,6 +843,30 @@ Turn my 4 images into 4 classic, single-color postage stamps using detailed line
 <img src="https://cdn.imgedify.com/imgedify/images/1744299866291-yw7mzaz8xkn.webp" alt="微观世界" height="400">
 
 - **作者：** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+---
+
+### 萌化电影剧照
+
+一个充满氛围感的电影中近景镜头，戏仿《The Godfather》中 Don Vito Corleone 在他昏暗办公室里的经典场景。一只体型稍大的泰迪熊，穿着深色西装，威严地坐在一张迷你办公桌后面，
+
+- **模型：** gpt4o
+- **提示词文本：** `一个充满氛围感的电影中近景镜头，戏仿《The Godfather》中 Don Vito Corleone 在他昏暗办公室里的经典场景。一只体型稍大的泰迪熊，穿着深色西装，威严地坐在一张迷你办公桌后面，爪子里可能抱着一只更小的毛绒玩具（模仿猫）。房间光线昏暗，运用强烈的明暗对比（chiaroscuro），营造出一种既有权力感、沉思感，又不失泰迪熊固有可爱的奇特融合。`
+- **示例图片：** 
+<img src="https://cdn.imgedify.com/imgedify/images/1744299884467-u34aush0cx8.webp" alt="萌化电影剧照" height="400">
+
+- **作者：** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+---
+
+### 邮票
+
+Turn my 4 images into 4 classic, single-color postage stamps using detailed lines and shading. Give 
+
+- **模型：** gpt4o
+- **提示词文本：** `Turn my 4 images into 4 classic, single-color postage stamps using detailed lines and shading. Give each their own color, Add a stamp value and fitting vintage-style text based on the subject. Make the image 3:4`
+- **示例图片：** 
+<img src="https://cdn.imgedify.com/imgedify/images/1744299886085-apxha71rus9.jpeg" alt="邮票" height="400">
+
+- **作者：** [samdape](https://x.com/samdape/status/1908438312475373741)
 ---
 
 ### 手帐玩法
@@ -873,6 +889,18 @@ Turn my 4 images into 4 classic, single-color postage stamps using detailed line
 - **提示词文本：** `生成一张图片，宽高比为 2:3，图片内的文字请使用英文。这张图片要模拟一位读者为小说《The Shadow over Innsmouth》制作的个人笔记页面。风格： 拼贴画/剪贴簿美学，手绘元素与粘贴物品混合，背景为有纹理的纸张（例如像 Moleskine 笔记本或牛皮纸）。请包含以下元素：手写引语： 几段来自小说的经典或有冲击力的英文句子，用清晰但带有个人风格的手写字体书写。人物涂鸦： 2-3位主要人物的简单涂鸦式头像速写，不必非常写实，更像是快速的印象捕捉。人物关系图： 在人物涂鸦之间绘制箭头，并附有简短的手写英文文字标签，说明他们之间的关系（例如："Siblings", "Lovers", "Mentor & Student", "Rivals"）。粘贴的书页一角： 一小块看起来很逼真的、模拟从实际小说书页上撕下或剪下的角落（上面能看到一些印刷的英文文字），看起来像是用胶带或胶水贴在笔记页面上的。（可选）批注： 可能在引语或人物旁边有一些小的手写笔记或问号。布局： 各元素应有机地排列，或许可以略微重叠，营造出一种经常使用的个人日记页面的感觉。整体感觉： 引人思考的，分析性的，个人化的，视觉上吸引人的。`
 - **示例图片：** 
 <img src="https://cdn.imgedify.com/imgedify/images/1744299872756-sur1gjezu8.webp" alt="手帐玩法" height="400">
+
+- **作者：** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+---
+
+### 主题键帽
+
+一幅等距3D插画描绘了被掀开的键盘键帽下，一个微型玩家正坐在迷你驾驶舱里打游戏，并将键帽内侧当作发光的屏幕。带有轻微的 3D 质感和些许塑化感，使整个场景如同一个为游戏玩家量身定做的、极其精巧的立体模
+
+- **模型：** gpt4o
+- **提示词文本：** `一幅等距3D插画描绘了被掀开的键盘键帽下，一个微型玩家正坐在迷你驾驶舱里打游戏，并将键帽内侧当作发光的屏幕。带有轻微的 3D 质感和些许塑化感，使整个场景如同一个为游戏玩家量身定做的、极其精巧的立体模型。`
+- **示例图片：** 
+<img src="https://cdn.imgedify.com/imgedify/images/1744299868248-ut2u2cqlh6.webp" alt="主题键帽" height="400">
 
 - **作者：** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
