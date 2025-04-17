@@ -45,70 +45,83 @@
 ## 可用提示词
 
 ### 目录
-1. [物理破坏效果卡片](#) - 作者：[歸藏(guizang.ai)](https://x.com/op7418/status/1912782170424578339)
-2. [dimensional break card](#dimensional-break-card) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1912367201476309396)
-3. [poster](#poster) - 作者：[Melis](https://x.com/miilesus/status/1912796694309196065)
-4. [fashion magazine cover](#fashion-magazine-cover) - 作者：[宝玉](https://x.com/dotey/status/1912541006961967325)
-5. [passport page](#passport-page) - 作者：[89'S](https://x.com/M_w14_/status/1912146666410459618)
-6. [PSA](#psa) - 作者：[gnrly.xyz](https://x.com/gnrlyxyz/status/1912188062278238513)
-7. [keycap scene](#keycap-scene) - 作者：[Ege](https://x.com/egeberkina/status/1911828402727784525)
-8. [low poly](#low-poly) - 作者：[Amira Zairi](https://x.com/azed_ai/status/1912084257918595342)
-9. [typographic portrait](#typographic-portrait) - 作者：[firatbilal](https://x.com/firatbilal/status/1911849629211050492)
-10. [illustration](#illustration) - 作者：[Gizem Akdag](https://x.com/gizakdag/status/1911781605569347976)
-11. [Turn your profile image into a sculpture!](#turn-your-profile-image-into-a-sculpture) - 作者：[Umesh](https://x.com/umesh_ai/status/1905181058745971077)
-12. [Reality photo](#reality-photo) - 作者：[ℂamellia 翊瑄](https://x.com/Camelliayang/status/1910671488115425315)
-13. [Turn  drawings into stunning photographs](#turn-drawings-into-stunning-photographs) - 作者：[Umesh](https://x.com/umesh_ai/status/1910589711296430310)
-14. [讽刺漫画](#) - 作者：[宝玉](https://x.com/dotey/status/1911988003729203648)
-15. [拟人化的 3D 形象](#-3d-) - 作者：[宝玉](https://x.com/dotey/status/1911988003729203648)
-16. [微型立体场景呈现](#) - 作者：[宝玉](https://x.com/berryxia_ai/status/1911666078838865957)
-17. [等距视角微缩场景](#) - 作者：[Berryxia.AI](https://x.com/berryxia_ai/status/1911666078838865957)
-18. [摊开的古书](#) - 作者：[dangjin](https://x.com/JinsFavorites/status/1911437215764185133)
-19. [泡罩药片包装图](#) - 作者：[Terry](https://x.com/trxuanxw/status/1911940417828053221)
-20. [Isometric view of a city](#isometric-view-of-a-city) - 作者：[Terry](https://x.com/trxuanxw/status/1906918197074473053)
-21. [泰坦尼克号经典场面](#) - 作者：[balconychy(贝壳里奇)](https://x.com/balconychy/status/1911620533071835428)
-22. [立体浮雕风格](#) - 作者：[balconychy(贝壳里奇)](https://x.com/balconychy/status/1911620533071835428)
-23. [Figure Box](#figure-box) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1908429874945233225)
-24. [Changer ages](#changer-ages) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1908734797763256631)
-25. [3D characters](#3d-characters) - 作者：[Brett  Designjoy](https://x.com/BrettFromDJ/status/1910711941250621845)
-26. [action figure](#action-figure) - 作者：[Eduardo Macouzet](https://x.com/eduardomacouzet/status/1910260355059548483)
-27. [fluffy logo](#fluffy-logo) - 作者：[Gizem Akdag](https://x.com/gizakdag/status/1911460600535797926)
-28. [3D fluffy emojis](#3d-fluffy-emojis) - 作者：[Gizem Akdag](https://x.com/gizakdag/status/1911075302941622512)
-29. [影视剧的角色手办](#) - 作者：[AI进化论-花生](https://x.com/AlchainHust/status/1906997559937364052/photo/2)
-30. [3D-style icons](#3d-style-icons) - 作者：[Amira Zairi](https://x.com/azed_ai/status/1906285785961406891)
-31. [3d avatar asset](#3d-avatar-asset) - 作者：[AI Imagined](https://x.com/AIimagined/status/1906479539351589329)
-32. [action figure pack](#action-figure-pack) - 作者：[Min Choi](https://x.com/minchoi/status/1910737237458776434)
-33. [3D character](#3d-character) - 作者：[Amira Zairi](https://x.com/azed_ai/status/1911782508095840622)
-34. [claymation](#claymation) - 作者：[Amira Zairi](https://x.com/hc_dsn/status/1911718985433027036)
-35. [Arcade diorama](#arcade-diorama) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1911718985433027036)
-36. [黛玉葬花](#) - 作者：[宝玉](https://x.com/dotey/status/1911563718804295962)
-37. [工作间手办](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911639551640314147)
-38. [LinkedIn Photo](#linkedin-photo) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1911402784106201427)
-39. [把图片变成正在雕刻的雕塑](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911433310666203311)
-40. [沙滩雕塑](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911687123696304436)
-41. [速效快乐胶囊](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896)
-42. [“去 AI 感”密码](#-ai-) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911678504221245816)
-43. [微型立体场景](#) - 作者：[宝玉](https://x.com/dotey/status/1911609122547449886)
-44. [时尚杂志的封面](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-45. [明信片](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+1. [Advertisement poster](#advertisement-poster) - 作者：[Melis](https://x.com/miilesus/status/1909254147771089098)
+2. [物理破坏效果卡片](#) - 作者：[歸藏(guizang.ai)](https://x.com/op7418/status/1912782170424578339)
+3. [dimensional break card](#dimensional-break-card) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1912367201476309396)
+4. [poster](#poster) - 作者：[Melis](https://x.com/miilesus/status/1912796694309196065)
+5. [fashion magazine cover](#fashion-magazine-cover) - 作者：[宝玉](https://x.com/dotey/status/1912541006961967325)
+6. [passport page](#passport-page) - 作者：[89'S](https://x.com/M_w14_/status/1912146666410459618)
+7. [PSA](#psa) - 作者：[gnrly.xyz](https://x.com/gnrlyxyz/status/1912188062278238513)
+8. [keycap scene](#keycap-scene) - 作者：[Ege](https://x.com/egeberkina/status/1911828402727784525)
+9. [low poly](#low-poly) - 作者：[Amira Zairi](https://x.com/azed_ai/status/1912084257918595342)
+10. [typographic portrait](#typographic-portrait) - 作者：[firatbilal](https://x.com/firatbilal/status/1911849629211050492)
+11. [illustration](#illustration) - 作者：[Gizem Akdag](https://x.com/gizakdag/status/1911781605569347976)
+12. [Turn your profile image into a sculpture!](#turn-your-profile-image-into-a-sculpture) - 作者：[Umesh](https://x.com/umesh_ai/status/1905181058745971077)
+13. [Reality photo](#reality-photo) - 作者：[ℂamellia 翊瑄](https://x.com/Camelliayang/status/1910671488115425315)
+14. [Turn  drawings into stunning photographs](#turn-drawings-into-stunning-photographs) - 作者：[Umesh](https://x.com/umesh_ai/status/1910589711296430310)
+15. [讽刺漫画](#) - 作者：[宝玉](https://x.com/dotey/status/1911988003729203648)
+16. [拟人化的 3D 形象](#-3d-) - 作者：[宝玉](https://x.com/dotey/status/1911988003729203648)
+17. [微型立体场景呈现](#) - 作者：[宝玉](https://x.com/berryxia_ai/status/1911666078838865957)
+18. [等距视角微缩场景](#) - 作者：[Berryxia.AI](https://x.com/berryxia_ai/status/1911666078838865957)
+19. [摊开的古书](#) - 作者：[dangjin](https://x.com/JinsFavorites/status/1911437215764185133)
+20. [泡罩药片包装图](#) - 作者：[Terry](https://x.com/trxuanxw/status/1911940417828053221)
+21. [Isometric view of a city](#isometric-view-of-a-city) - 作者：[Terry](https://x.com/trxuanxw/status/1906918197074473053)
+22. [泰坦尼克号经典场面](#) - 作者：[balconychy(贝壳里奇)](https://x.com/balconychy/status/1911620533071835428)
+23. [立体浮雕风格](#) - 作者：[balconychy(贝壳里奇)](https://x.com/balconychy/status/1911620533071835428)
+24. [Figure Box](#figure-box) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1908429874945233225)
+25. [Changer ages](#changer-ages) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1908734797763256631)
+26. [3D characters](#3d-characters) - 作者：[Brett  Designjoy](https://x.com/BrettFromDJ/status/1910711941250621845)
+27. [action figure](#action-figure) - 作者：[Eduardo Macouzet](https://x.com/eduardomacouzet/status/1910260355059548483)
+28. [fluffy logo](#fluffy-logo) - 作者：[Gizem Akdag](https://x.com/gizakdag/status/1911460600535797926)
+29. [3D fluffy emojis](#3d-fluffy-emojis) - 作者：[Gizem Akdag](https://x.com/gizakdag/status/1911075302941622512)
+30. [影视剧的角色手办](#) - 作者：[AI进化论-花生](https://x.com/AlchainHust/status/1906997559937364052/photo/2)
+31. [3D-style icons](#3d-style-icons) - 作者：[Amira Zairi](https://x.com/azed_ai/status/1906285785961406891)
+32. [3d avatar asset](#3d-avatar-asset) - 作者：[AI Imagined](https://x.com/AIimagined/status/1906479539351589329)
+33. [action figure pack](#action-figure-pack) - 作者：[Min Choi](https://x.com/minchoi/status/1910737237458776434)
+34. [3D character](#3d-character) - 作者：[Amira Zairi](https://x.com/azed_ai/status/1911782508095840622)
+35. [claymation](#claymation) - 作者：[Amira Zairi](https://x.com/hc_dsn/status/1911718985433027036)
+36. [Arcade diorama](#arcade-diorama) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1911718985433027036)
+37. [黛玉葬花](#) - 作者：[宝玉](https://x.com/dotey/status/1911563718804295962)
+38. [工作间手办](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911639551640314147)
+39. [LinkedIn Photo](#linkedin-photo) - 作者：[Howard Chen](https://x.com/hc_dsn/status/1911402784106201427)
+40. [把图片变成正在雕刻的雕塑](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911433310666203311)
+41. [沙滩雕塑](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911687123696304436)
+42. [速效快乐胶囊](#) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896)
+43. [“去 AI 感”密码](#-ai-) - 作者：[-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911678504221245816)
+44. [微型立体场景](#) - 作者：[宝玉](https://x.com/dotey/status/1911609122547449886)
+45. [萌化电影剧照](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 46. [照片涂鸦玩法](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 47. [照片涂鸦玩法](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-48. [游戏角色](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-49. [微观世界](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-50. [3D 图标](#3d-) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+48. [时尚杂志的封面](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+49. [游戏角色](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+50. [微观世界](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 51. [3D 图标](#3d-) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-52. [手绘风格的信息图卡片](#) - 作者：[宝玉](https://x.com/dotey/status/1907903480678985784)
-53. [主题键帽](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-54. [微观世界](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-55. [萌化电影剧照](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-56. [邮票](#) - 作者：[samdape](https://x.com/samdape/status/1908438312475373741)
-57. [手帐玩法](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-58. [手帐玩法](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-59. [主题键帽](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-60. [手写笔记风格图片](#) - 作者：[pongpong1](https://linux.do/t/topic/530679)
-61. [旅游手账插画](#) - 作者：[宝玉](https://x.com/dotey/status/1907819985533071462)
-62. [Q版中式婚礼](#q) - 作者：[balconychy(贝壳里奇)](https://x.com/balconychy/status/1909418699150237917)
+52. [3D 图标](#3d-) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+53. [手绘风格的信息图卡片](#) - 作者：[宝玉](https://x.com/dotey/status/1907903480678985784)
+54. [明信片](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+55. [手帐玩法](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+56. [手帐玩法](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+57. [主题键帽](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+58. [主题键帽](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+59. [微观世界](#) - 作者：[藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+60. [邮票](#) - 作者：[samdape](https://x.com/samdape/status/1908438312475373741)
+61. [手写笔记风格图片](#) - 作者：[pongpong1](https://linux.do/t/topic/530679)
+62. [旅游手账插画](#) - 作者：[宝玉](https://x.com/dotey/status/1907819985533071462)
+63. [Q版中式婚礼](#q) - 作者：[balconychy(贝壳里奇)](https://x.com/balconychy/status/1909418699150237917)
 
 以下是所有可用提示词的详细信息：
+
+### Advertisement poster
+
+I will send you a photo of a woman and a perfume bottle. Please don’t change the woman’s face or the
+
+- **模型：** gpt4o
+- **提示词文本：** `I will send you a photo of a woman and a perfume bottle. Please don’t change the woman’s face or the perfume bottle, but you can change her outfit. Using these visuals, I’d like you to create a perfume advertisement poster for a fragrance called “Miilesus.”`
+- **示例图片：** 
+<img src="https://pbs.twimg.com/media/Gn8IhpCW8AET9od?format=jpg&name=large" alt="Advertisement poster" height="400">
+
+- **作者：** [Melis](https://x.com/miilesus/status/1909254147771089098)
+---
 
 ### 物理破坏效果卡片
 
@@ -713,26 +726,14 @@ Generate a portrait ratio photo with this prompt A hyper-realistic diorama of a 
 - **作者：** [宝玉](https://x.com/dotey/status/1911609122547449886)
 ---
 
-### 时尚杂志的封面
+### 萌化电影剧照
 
-《VOGUE》杂志封面：来自 League of Legends 的 Ashe - The Frost Archer 化身为高级时装模特。写实肖像，突出她标志性的白色长发、锐利蓝眼和冰霜女王般的冷艳气
-
-- **模型：** gpt4o
-- **提示词文本：** `《VOGUE》杂志封面：来自 League of Legends 的 Ashe - The Frost Archer 化身为高级时装模特。写实肖像，突出她标志性的白色长发、锐利蓝眼和冰霜女王般的冷艳气质。简约背景，专业摄影，身着融合了冰霜元素和高级定制风格的优雅紧身服饰。`
-- **示例图片：** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299882639-bqp6v37enla.webp" alt="时尚杂志的封面" height="400">
-
-- **作者：** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
----
-
-### 明信片
-
-帮我把这张照片做成一张 3:2 的明信片，左边是一幅 扁平多色插画风格（参考某某图）的画面，插画内容参考这张照片，比如：建筑/风景/人物等细节，插画的边缘请做成 不规则异形边框，右边用手写风格英文写一
+一个充满氛围感的电影中近景镜头，戏仿《The Godfather》中 Don Vito Corleone 在他昏暗办公室里的经典场景。一只体型稍大的泰迪熊，穿着深色西装，威严地坐在一张迷你办公桌后面，
 
 - **模型：** gpt4o
-- **提示词文本：** `帮我把这张照片做成一张 3:2 的明信片，左边是一幅 扁平多色插画风格（参考某某图）的画面，插画内容参考这张照片，比如：建筑/风景/人物等细节，插画的边缘请做成 不规则异形边框，右边用手写风格英文写一句和「XX」相关的名言，并贴上一枚用原图生成的单色风格邮票，邮票右上角，邮编写 XXXX，盖上邮戳。`
+- **提示词文本：** `一个充满氛围感的电影中近景镜头，戏仿《The Godfather》中 Don Vito Corleone 在他昏暗办公室里的经典场景。一只体型稍大的泰迪熊，穿着深色西装，威严地坐在一张迷你办公桌后面，爪子里可能抱着一只更小的毛绒玩具（模仿猫）。房间光线昏暗，运用强烈的明暗对比（chiaroscuro），营造出一种既有权力感、沉思感，又不失泰迪熊固有可爱的奇特融合。`
 - **示例图片：** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299876287-19x8hhrvwt5.webp" alt="明信片" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744299884467-u34aush0cx8.webp" alt="萌化电影剧照" height="400">
 
 - **作者：** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
@@ -757,6 +758,18 @@ Generate a portrait ratio photo with this prompt A hyper-realistic diorama of a 
 - **提示词文本：** `生成图片，把它打印出来，然后用红墨水疯狂地加上手写中文批注、涂鸦、乱画，如果你想的话，还可以加点小剪贴画`
 - **示例图片：** 
 <img src="https://cdn.imgedify.com/imgedify/images/1744299878007-3i4361kt83t.webp" alt="照片涂鸦玩法" height="400">
+
+- **作者：** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+---
+
+### 时尚杂志的封面
+
+《VOGUE》杂志封面：来自 League of Legends 的 Ashe - The Frost Archer 化身为高级时装模特。写实肖像，突出她标志性的白色长发、锐利蓝眼和冰霜女王般的冷艳气
+
+- **模型：** gpt4o
+- **提示词文本：** `《VOGUE》杂志封面：来自 League of Legends 的 Ashe - The Frost Archer 化身为高级时装模特。写实肖像，突出她标志性的白色长发、锐利蓝眼和冰霜女王般的冷艳气质。简约背景，专业摄影，身着融合了冰霜元素和高级定制风格的优雅紧身服饰。`
+- **示例图片：** 
+<img src="https://cdn.imgedify.com/imgedify/images/1744299882639-bqp6v37enla.webp" alt="时尚杂志的封面" height="400">
 
 - **作者：** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
@@ -821,52 +834,16 @@ Generate a portrait ratio photo with this prompt A hyper-realistic diorama of a 
 - **作者：** [宝玉](https://x.com/dotey/status/1907903480678985784)
 ---
 
-### 主题键帽
+### 明信片
 
-一幅极简风格的等距 3D 插画，展示了一个安装在定制键盘上的、Q 版"医师永真"造型的 3D 键帽。键盘采用温暖的浅棕色木纹外壳。此键帽严格控制在标准 1u 键位尺寸内。Q 版永真的造型紧凑地设计在键
+帮我把这张照片做成一张 3:2 的明信片，左边是一幅 扁平多色插画风格（参考某某图）的画面，插画内容参考这张照片，比如：建筑/风景/人物等细节，插画的边缘请做成 不规则异形边框，右边用手写风格英文写一
 
 - **模型：** gpt4o
-- **提示词文本：** `一幅极简风格的等距 3D 插画，展示了一个安装在定制键盘上的、Q 版"医师永真"造型的 3D 键帽。键盘采用温暖的浅棕色木纹外壳。此键帽严格控制在标准 1u 键位尺寸内。Q 版永真的造型紧凑地设计在键帽基座上，身体和头部构成了键帽的主体和主要的按压区域。她捧着的葫芦或持握的刀柄等细节被巧妙地融入整体轮廓，避免过多向侧面伸出。其姿态和服饰细节在有限空间内被精心还原。柔和的光线突显其文静气质。整体在展现角色温柔可爱的同时，确保了键帽的实用性和安装兼容性。`
+- **提示词文本：** `帮我把这张照片做成一张 3:2 的明信片，左边是一幅 扁平多色插画风格（参考某某图）的画面，插画内容参考这张照片，比如：建筑/风景/人物等细节，插画的边缘请做成 不规则异形边框，右边用手写风格英文写一句和「XX」相关的名言，并贴上一枚用原图生成的单色风格邮票，邮票右上角，邮编写 XXXX，盖上邮戳。`
 - **示例图片：** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299869820-cf7he53oo3m.webp" alt="主题键帽" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744299876287-19x8hhrvwt5.webp" alt="明信片" height="400">
 
 - **作者：** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
----
-
-### 微观世界
-
-一个逼真且充满趣味的微型现代咖啡馆，热闹地呈现在一个盛满咖啡的马克杯里。这微缩咖啡馆包含一个迷你吧台，上面可能有微小的咖啡机和磨豆机，几张小桌子旁坐着微缩的顾客人偶，墙上（马克杯内壁）或许有迷你的菜单
-
-- **模型：** gpt4o
-- **提示词文本：** `一个逼真且充满趣味的微型现代咖啡馆，热闹地呈现在一个盛满咖啡的马克杯里。这微缩咖啡馆包含一个迷你吧台，上面可能有微小的咖啡机和磨豆机，几张小桌子旁坐着微缩的顾客人偶，墙上（马克杯内壁）或许有迷你的菜单板或装饰画。真实的咖啡液面构成了咖啡馆的"地板"，上面可能还漂浮着微小的"拉花"图案。马克杯放在一张咖啡桌或吧台上，旁边可能是一个真实的羊角面包、笔记本电脑或糖罐，形成了微缩商业空间与日常饮品间的超现实对比。超写实风格、微距摄影、浅景深（焦点集中在咖啡馆内生动的场景和人物上）、明亮而柔和的、模拟咖啡馆的自然采光或室内灯光、高细节（体现在微缩设备的金属质感、人物的姿态和咖啡馆的装饰细节上）。`
-- **示例图片：** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299866291-yw7mzaz8xkn.webp" alt="微观世界" height="400">
-
-- **作者：** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
----
-
-### 萌化电影剧照
-
-一个充满氛围感的电影中近景镜头，戏仿《The Godfather》中 Don Vito Corleone 在他昏暗办公室里的经典场景。一只体型稍大的泰迪熊，穿着深色西装，威严地坐在一张迷你办公桌后面，
-
-- **模型：** gpt4o
-- **提示词文本：** `一个充满氛围感的电影中近景镜头，戏仿《The Godfather》中 Don Vito Corleone 在他昏暗办公室里的经典场景。一只体型稍大的泰迪熊，穿着深色西装，威严地坐在一张迷你办公桌后面，爪子里可能抱着一只更小的毛绒玩具（模仿猫）。房间光线昏暗，运用强烈的明暗对比（chiaroscuro），营造出一种既有权力感、沉思感，又不失泰迪熊固有可爱的奇特融合。`
-- **示例图片：** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299884467-u34aush0cx8.webp" alt="萌化电影剧照" height="400">
-
-- **作者：** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
----
-
-### 邮票
-
-Turn my 4 images into 4 classic, single-color postage stamps using detailed lines and shading. Give 
-
-- **模型：** gpt4o
-- **提示词文本：** `Turn my 4 images into 4 classic, single-color postage stamps using detailed lines and shading. Give each their own color, Add a stamp value and fitting vintage-style text based on the subject. Make the image 3:4`
-- **示例图片：** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299886085-apxha71rus9.jpeg" alt="邮票" height="400">
-
-- **作者：** [samdape](https://x.com/samdape/status/1908438312475373741)
 ---
 
 ### 手帐玩法
@@ -895,6 +872,18 @@ Turn my 4 images into 4 classic, single-color postage stamps using detailed line
 
 ### 主题键帽
 
+一幅极简风格的等距 3D 插画，展示了一个安装在定制键盘上的、Q 版"医师永真"造型的 3D 键帽。键盘采用温暖的浅棕色木纹外壳。此键帽严格控制在标准 1u 键位尺寸内。Q 版永真的造型紧凑地设计在键
+
+- **模型：** gpt4o
+- **提示词文本：** `一幅极简风格的等距 3D 插画，展示了一个安装在定制键盘上的、Q 版"医师永真"造型的 3D 键帽。键盘采用温暖的浅棕色木纹外壳。此键帽严格控制在标准 1u 键位尺寸内。Q 版永真的造型紧凑地设计在键帽基座上，身体和头部构成了键帽的主体和主要的按压区域。她捧着的葫芦或持握的刀柄等细节被巧妙地融入整体轮廓，避免过多向侧面伸出。其姿态和服饰细节在有限空间内被精心还原。柔和的光线突显其文静气质。整体在展现角色温柔可爱的同时，确保了键帽的实用性和安装兼容性。`
+- **示例图片：** 
+<img src="https://cdn.imgedify.com/imgedify/images/1744299869820-cf7he53oo3m.webp" alt="主题键帽" height="400">
+
+- **作者：** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+---
+
+### 主题键帽
+
 一幅等距3D插画描绘了被掀开的键盘键帽下，一个微型玩家正坐在迷你驾驶舱里打游戏，并将键帽内侧当作发光的屏幕。带有轻微的 3D 质感和些许塑化感，使整个场景如同一个为游戏玩家量身定做的、极其精巧的立体模
 
 - **模型：** gpt4o
@@ -903,6 +892,30 @@ Turn my 4 images into 4 classic, single-color postage stamps using detailed line
 <img src="https://cdn.imgedify.com/imgedify/images/1744299868248-ut2u2cqlh6.webp" alt="主题键帽" height="400">
 
 - **作者：** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+---
+
+### 微观世界
+
+一个逼真且充满趣味的微型现代咖啡馆，热闹地呈现在一个盛满咖啡的马克杯里。这微缩咖啡馆包含一个迷你吧台，上面可能有微小的咖啡机和磨豆机，几张小桌子旁坐着微缩的顾客人偶，墙上（马克杯内壁）或许有迷你的菜单
+
+- **模型：** gpt4o
+- **提示词文本：** `一个逼真且充满趣味的微型现代咖啡馆，热闹地呈现在一个盛满咖啡的马克杯里。这微缩咖啡馆包含一个迷你吧台，上面可能有微小的咖啡机和磨豆机，几张小桌子旁坐着微缩的顾客人偶，墙上（马克杯内壁）或许有迷你的菜单板或装饰画。真实的咖啡液面构成了咖啡馆的"地板"，上面可能还漂浮着微小的"拉花"图案。马克杯放在一张咖啡桌或吧台上，旁边可能是一个真实的羊角面包、笔记本电脑或糖罐，形成了微缩商业空间与日常饮品间的超现实对比。超写实风格、微距摄影、浅景深（焦点集中在咖啡馆内生动的场景和人物上）、明亮而柔和的、模拟咖啡馆的自然采光或室内灯光、高细节（体现在微缩设备的金属质感、人物的姿态和咖啡馆的装饰细节上）。`
+- **示例图片：** 
+<img src="https://cdn.imgedify.com/imgedify/images/1744299866291-yw7mzaz8xkn.webp" alt="微观世界" height="400">
+
+- **作者：** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+---
+
+### 邮票
+
+Turn my 4 images into 4 classic, single-color postage stamps using detailed lines and shading. Give 
+
+- **模型：** gpt4o
+- **提示词文本：** `Turn my 4 images into 4 classic, single-color postage stamps using detailed lines and shading. Give each their own color, Add a stamp value and fitting vintage-style text based on the subject. Make the image 3:4`
+- **示例图片：** 
+<img src="https://cdn.imgedify.com/imgedify/images/1744299886085-apxha71rus9.jpeg" alt="邮票" height="400">
+
+- **作者：** [samdape](https://x.com/samdape/status/1908438312475373741)
 ---
 
 ### 手写笔记风格图片
